@@ -4,6 +4,20 @@ Because Ithuan shut down its RIME-derived input method for some reason.
 
 Aims to not copy Ithuan too much, but obviously with me trying to make a full replacement things could look similar.
 
+## Todos
+
+- Import words from Kemdict sources
+  - Specifically: Kautian (just take old version if you don't yet want to adapt to the new version)
+  - Others: TaijitToaSutian is also pretty major
+  - For Lomaji: take each lomaji entry, each taigi-kip entry is KIPUnicode -> KIPInputForm
+    - Naming inspired by ChhoeTaigi.
+      - KIPUnicode = the original entry converted to KIP, NFC normalized
+      - KIPInputForm = the original entry converted to KIP (input form) with KeSi
+    - This alone should be enough even if the raw syllable entries are not ready.
+  - Then maybe analyze the word frequency. In theory this is just a massive number of greps in a corpus; in practice (a) is that actually possible performance-wise? and (b) what corpus?
+    - "Corpus": zh-min-nan Wikipedia can be alright. Its issue is just that you don't get Han character frequencies. Compared to zh_TW corpus collection (too many things are zh_CN and it's nontrivial to actually find usable pure zh_TW corpuses even though zh_TW is pretty distinct in actual use) this is more than fine.
+    - Others: newspaper archives? Talks?
+
 ## Goals
 
 - Just two RIME schemas, one for POJ, one for Ministry of Education's revised POJ (which isn't usually called POJ but is really just a 20-y/o spelling reform). I will refer to the latter as KIP (like KeSi does) from now on.
