@@ -1,0 +1,20 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  name: 台語
+  schema_id: taigi-kip
+  version: "0.1"
+  description: |
+    臺語輸入法（教育部羅馬字）
+    會當選用漢羅/全羅。
+  author:
+    - Kisaragi Hiu <mail@kisaragi-hiu.com>
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: ["台語"，"英數"]
+  - name: han
+    reset: 0
+    states: ["漢羅"，"tsuân-lô"]
