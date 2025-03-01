@@ -26,7 +26,7 @@ switches:
 engine:
   processors:
     - ascii_composer
-    # - recognizer
+    - recognizer
     - key_binder
     - speller
     - punctuator
@@ -35,7 +35,7 @@ engine:
     - express_editor
   segmentors:
     - ascii_segmentor
-    # - matcher
+    - matcher
     - abc_segmentor
     - punct_segmentor
     - fullback_segmentor
@@ -54,9 +54,10 @@ translator:
   # comment_format:
 
 speller:
-  alphabet: "abeghijklmnopstu123456789-"
-  initials: "abeghijklmnopstu"
+  alphabet: "abeghijklmnoprstu123456789-"
+  initials: "abeghijklmnoprstu"
   finals: "123456789-"
   delimiter: " "
   algebra:
   - derive/\d$// # Ignore tones
+  - xform/oonn/onn/ # misspell helper
