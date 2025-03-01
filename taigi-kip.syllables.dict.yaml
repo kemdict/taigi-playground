@@ -1,0 +1,920 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# taigi-kip.syllables
+#
+# All possible syllables. I'm not sure RIME can do Emacs IME-style direct
+# replacements for the actual input itself.
+#
+# We most likely need to generate this.
+
+---
+name: taigi-kip.syllables
+version: "2025-03-01"
+sort: by_weight
+...
+
+# All licit syllables
+# Thanks Wikipedia
+# https://en.wikipedia.org/wiki/T%C3%A2i-u%C3%A2n_L%C3%B4-m%C3%A1-j%C4%AB_Phing-im_Hong-%C3%A0n#:~:text=hide-,Licit%20syllables,-%5B2%5D
+#
+# How: select the table, then
+#
+#   [...$0.querySelectorAll("td")]
+#   .map((it) => it.textContent)
+#   .filter((it) => it.trim().length > 0)
+#   .map((it) => `${it}\t${it}`)
+#   .join("\n")
+#
+# Wikipedia cites
+# https://language.moe.gov.tw/files/people_files/tshiutsheh_1130826.pdf
+# But that file isn't available right now :shrug:
+# TODO: (big todo) tones
+# For every one of these:
+# No extra input = base tone
+# Tone 2, 3, 5, 7 are valid for all
+# For everything: treat 6 as equal as 1
+# For -p, -t, -k, -h: 4 is base, 8 is tone 8
+# For everything else: 1 is base, 4 and 8 are invalid
+# 9 is... sometimes valid... I guess...
+
+a	a
+ba	ba
+ga	ga
+ha	ha
+ka	ka
+kha	kha
+la	la
+ma	ma
+na	na
+nga	nga
+pa	pa
+pha	pha
+sa	sa
+ta	ta
+tha	tha
+tsa	tsa
+tsha	tsha
+
+ah	ah
+bah	bah
+hah	hah
+kah	kah
+khah	khah
+lah	lah
+nah	nah
+pah	pah
+phah	phah
+sah	sah
+tah	tah
+thah	thah
+tsah	tsah
+tshah	tshah
+
+ai	ai
+bai	bai
+gai	gai
+hai	hai
+kai	kai
+khai	khai
+lai	lai
+mai	mai
+nai	nai
+ngai	ngai
+pai	pai
+phai	phai
+sai	sai
+tai	tai
+thai	thai
+tsai	tsai
+tshai	tshai
+
+ainn	ainn
+hainn	hainn
+kainn	kainn
+khainn	khainn
+phainn	phainn
+tainn	tainn
+tsainn	tsainn
+
+ak	ak
+bak	bak
+gak	gak
+hak	hak
+kak	kak
+khak	khak
+lak	lak
+pak	pak
+phak	phak
+sak	sak
+tak	tak
+thak	thak
+tsak	tsak
+tshak	tshak
+
+am	am
+gam	gam
+ham	ham
+kam	kam
+kham	kham
+lam	lam
+sam	sam
+tam	tam
+tham	tham
+tsam	tsam
+tsham	tsham
+
+an	an
+ban	ban
+gan	gan
+han	han
+kan	kan
+khan	khan
+lan	lan
+pan	pan
+phan	phan
+san	san
+tan	tan
+than	than
+tsan	tsan
+tshan	tshan
+
+ang	ang
+bang	bang
+gang	gang
+hang	hang
+kang	kang
+khang	khang
+lang	lang
+pang	pang
+phang	phang
+sang	sang
+tang	tang
+thang	thang
+tsang	tsang
+tshang	tshang
+
+ann	ann
+hann	hann
+kann	kann
+khann	khann
+phann	phann
+sann	sann
+tann	tann
+thann	thann
+tsann	tsann
+tshann	tshann
+
+hannh	hannh
+sannh	sannh
+
+ap	ap
+hap	hap
+kap	kap
+khap	khap
+lap	lap
+sap	sap
+tap	tap
+thap	thap
+tsap	tsap
+tshap	tshap
+
+at	at
+bat	bat
+hat	hat
+kat	kat
+khat	khat
+lat	lat
+pat	pat
+sat	sat
+tat	tat
+that	that
+tsat	tsat
+tshat	tshat
+
+au	au
+bau	bau
+gau	gau
+hau	hau
+kau	kau
+khau	khau
+lau	lau
+mau	mau
+nau	nau
+ngau	ngau
+pau	pau
+phau	phau
+sau	sau
+tau	tau
+thau	thau
+tsau	tsau
+tshau	tshau
+
+kauh	kauh
+lauh	lauh
+mauh	mauh
+nauh	nauh
+phauh	phauh
+tauh	tauh
+tshauh	tshauh
+
+e	e
+be	be
+ge	ge
+he	he
+ke	ke
+khe	khe
+le	le
+me	me
+ne	ne
+nge	nge
+pe	pe
+phe	phe
+se	se
+te	te
+the	the
+tse	tse
+tshe	tshe
+
+eh	eh
+beh	beh
+heh	heh
+keh	keh
+kheh	kheh
+leh	leh
+meh	meh
+neh	neh
+ngeh	ngeh
+peh	peh
+seh	seh
+teh	teh
+theh	theh
+tseh	tseh
+tsheh	tsheh
+
+enn	enn
+henn	henn
+kenn	kenn
+khenn	khenn
+penn	penn
+phenn	phenn
+senn	senn
+tenn	tenn
+thenn	thenn
+tsenn	tsenn
+tshenn	tshenn
+
+hennh	hennh
+khennh	khennh
+
+
+i	i
+bi	bi
+gi	gi
+hi	hi
+ji	ji
+ki	ki
+khi	khi
+li	li
+mi	mi
+ni	ni
+pi	pi
+phi	phi
+si	si
+ti	ti
+thi	thi
+tsi	tsi
+tshi	tshi
+
+ia	ia
+gia	gia
+hia	hia
+jia	jia
+kia	kia
+khia	khia
+mia	mia
+nia	nia
+ngia	ngia
+sia	sia
+tia	tia
+tsia	tsia
+tshia	tshia
+
+iah	iah
+giah	giah
+hiah	hiah
+kiah	kiah
+khiah	khiah
+liah	liah
+piah	piah
+phiah	phiah
+siah	siah
+tiah	tiah
+thiah	thiah
+tsiah	tsiah
+tshiah	tshiah
+
+khiak	khiak
+piak	piak
+phiak	phiak
+siak	siak
+tiak	tiak
+tshiak	tshiak
+
+iam	iam
+giam	giam
+hiam	hiam
+jiam	jiam
+kiam	kiam
+khiam	khiam
+liam	liam
+siam	siam
+tiam	tiam
+thiam	thiam
+tsiam	tsiam
+tshiam	tshiam
+
+ian	ian
+bian	bian
+gian	gian
+hian	hian
+jian	jian
+kian	kian
+khian	khian
+lian	lian
+pian	pian
+phian	phian
+sian	sian
+tian	tian
+thian	thian
+tsian	tsian
+tshian	tshian
+
+iang	iang
+giang	giang
+hiang	hiang
+jiang	jiang
+khiang	khiang
+liang	liang
+piang	piang
+phiang	phiang
+siang	siang
+tsiang	tsiang
+tshiang	tshiang
+
+iann	iann
+hiann	hiann
+kiann	kiann
+piann	piann
+siann	siann
+tiann	tiann
+thiann	thiann
+tsiann	tsiann
+tshiann	tshiann
+
+hiannh	hiannh
+
+
+iap	iap
+giap	giap
+hiap	hiap
+jiap	jiap
+kiap	kiap
+khiap	khiap
+liap	liap
+siap	siap
+tiap	tiap
+thiap	thiap
+tsiap	tsiap
+tshiap	tshiap
+
+iat	iat
+biat	biat
+giat	giat
+hiat	hiat
+jiat	jiat
+kiat	kiat
+khiat	khiat
+liat	liat
+piat	piat
+phiat	phiat
+siat	siat
+tiat	tiat
+thiat	thiat
+tsiat	tsiat
+tshiat	tshiat
+
+iau	iau
+biau	biau
+giau	giau
+hiau	hiau
+jiau	jiau
+kiau	kiau
+khiau	khiau
+liau	liau
+miau	miau
+niau	niau
+ngiau	ngiau
+piau	piau
+phiau	phiau
+siau	siau
+tiau	tiau
+thiau	thiau
+tsiau	tsiau
+tshiau	tshiau
+
+hiauh	hiauh
+khiauh	khiauh
+ngiauh	ngiauh
+
+
+iaunn	iaunn
+
+
+bih	bih
+khih	khih
+mih	mih
+nih	nih
+pih	pih
+phih	phih
+sih	sih
+tih	tih
+thih	thih
+tsih	tsih
+tshih	tshih
+
+ik	ik
+bik	bik
+gik	gik
+hik	hik
+kik	kik
+lik	lik
+pik	pik
+phik	phik
+sik	sik
+tik	tik
+thik	thik
+tsik	tsik
+tshik	tshik
+
+im	im
+gim	gim
+him	him
+jim	jim
+kim	kim
+khim	khim
+lim	lim
+sim	sim
+tim	tim
+thim	thim
+tsim	tsim
+tshim	tshim
+
+in	in
+bin	bin
+gin	gin
+hin	hin
+jin	jin
+kin	kin
+khin	khin
+lin	lin
+pin	pin
+phin	phin
+sin	sin
+tin	tin
+thin	thin
+tsin	tsin
+tshin	tshin
+
+ing	ing
+bing	bing
+ging	ging
+hing	hing
+king	king
+khing	khing
+ling	ling
+ping	ping
+phing	phing
+sing	sing
+ting	ting
+thing	thing
+tsing	tsing
+tshing	tshing
+
+inn	inn
+hinn	hinn
+kinn	kinn
+khinn	khinn
+sinn	sinn
+tinn	tinn
+thinn	thinn
+tsinn	tsinn
+tshinn	tshinn
+
+io	io
+bio	bio
+gio	gio
+hio	hio
+jio	jio
+kio	kio
+khio	khio
+lio	lio
+pio	pio
+phio	phio
+sio	sio
+tio	tio
+thio	thio
+tsio	tsio
+tshio	tshio
+
+ioh	ioh
+gioh	gioh
+hioh	hioh
+kioh	kioh
+khioh	khioh
+lioh	lioh
+sioh	sioh
+tioh	tioh
+tsioh	tsioh
+tshioh	tshioh
+
+iok	iok
+giok	giok
+hiok	hiok
+jiok	jiok
+kiok	kiok
+khiok	khiok
+liok	liok
+siok	siok
+tiok	tiok
+thiok	thiok
+tsiok	tsiok
+tshiok	tshiok
+
+iong	iong
+giong	giong
+hiong	hiong
+jiong	jiong
+kiong	kiong
+khiong	khiong
+liong	liong
+siong	siong
+tiong	tiong
+thiong	thiong
+tsiong	tsiong
+tshiong	tshiong
+
+ip	ip
+hip	hip
+jip	jip
+kip	kip
+khip	khip
+lip	lip
+sip	sip
+tsip	tsip
+tship	tship
+
+it	it
+bit	bit
+hit	hit
+jit	jit
+kit	kit
+khit	khit
+pit	pit
+phit	phit
+sit	sit
+tit	tit
+tsit	tsit
+tshit	tshit
+
+iu	iu
+biu	biu
+giu	giu
+hiu	hiu
+jiu	jiu
+kiu	kiu
+khiu	khiu
+liu	liu
+niu	niu
+piu	piu
+siu	siu
+tiu	tiu
+thiu	thiu
+tsiu	tsiu
+tshiu	tshiu
+
+iunn	iunn
+hiunn	hiunn
+kiunn	kiunn
+khiunn	khiunn
+siunn	siunn
+tiunn	tiunn
+tsiunn	tsiunn
+tshiunn	tshiunn
+
+iunnh	iunnh
+hiunnh	hiunnh
+
+
+m	m
+hm	hm
+
+
+hmh	hmh
+
+
+ng	ng
+hng	hng
+kng	kng
+khng	khng
+mng	mng
+nng	nng
+png	png
+sng	sng
+tng	tng
+thng	thng
+tsng	tsng
+tshng	tshng
+
+hngh	hngh
+phngh	phngh
+sngh	sngh
+tshngh	tshngh
+
+o	o
+bo	bo
+go	go
+ho	ho
+ko	ko
+kho	kho
+lo	lo
+po	po
+pho	pho
+so	so
+to	to
+tho	tho
+tso	tso
+tsho	tsho
+
+oh	oh
+hoh	hoh
+koh	koh
+loh	loh
+poh	poh
+phoh	phoh
+soh	soh
+toh	toh
+thoh	thoh
+tsoh	tsoh
+tshoh	tshoh
+
+ok	ok
+bok	bok
+gok	gok
+hok	hok
+kok	kok
+khok	khok
+lok	lok
+pok	pok
+phok	phok
+sok	sok
+tok	tok
+thok	thok
+tsok	tsok
+tshok	tshok
+
+om	om
+som	som
+tom	tom
+
+
+ong	ong
+bong	bong
+gong	gong
+hong	hong
+kong	kong
+khong	khong
+long	long
+pong	pong
+phong	phong
+song	song
+tong	tong
+thong	thong
+tsong	tsong
+tshong	tshong
+
+onn	onn
+honn	honn
+konn	konn
+
+
+onnh	onnh
+honnh	honnh
+
+
+oo	oo
+boo	boo
+goo	goo
+hoo	hoo
+koo	koo
+khoo	khoo
+loo	loo
+moo	moo
+noo	noo
+ngoo	ngoo
+poo	poo
+phoo	phoo
+soo	soo
+too	too
+thoo	thoo
+tsoo	tsoo
+tshoo	tshoo
+
+mooh	mooh
+
+
+u	u
+bu	bu
+gu	gu
+hu	hu
+ju	ju
+ku	ku
+khu	khu
+lu	lu
+pu	pu
+phu	phu
+su	su
+tu	tu
+thu	thu
+tsu	tsu
+tshu	tshu
+
+ua	ua
+bua	bua
+gua	gua
+hua	hua
+kua	kua
+khua	khua
+lua	lua
+mua	mua
+nua	nua
+pua	pua
+phua	phua
+sua	sua
+tua	tua
+thua	thua
+tsua	tsua
+tshua	tshua
+
+uah	uah
+buah	buah
+huah	huah
+juah	juah
+kuah	kuah
+khuah	khuah
+luah	luah
+puah	puah
+phuah	phuah
+suah	suah
+thuah	thuah
+tsuah	tsuah
+tshuah	tshuah
+
+uai	uai
+huai	huai
+kuai	kuai
+khuai	khuai
+suai	suai
+
+
+uainn	uainn
+huainn	huainn
+kuainn	kuainn
+suainn	suainn
+tsuainn	tsuainn
+
+
+uan	uan
+buan	buan
+guan	guan
+huan	huan
+kuan	kuan
+khuan	khuan
+luan	luan
+puan	puan
+phuan	phuan
+suan	suan
+tuan	tuan
+thuan	thuan
+tsuan	tsuan
+tshuan	tshuan
+
+uang	uang
+tshuang	tshuang
+
+uann	uann
+huann	huann
+kuann	kuann
+khuann	khuann
+puann	puann
+phuann	phuann
+suann	suann
+tuann	tuann
+thuann	thuann
+tshuann	tshuann
+
+uat	uat
+buat	buat
+guat	guat
+huat	huat
+kuat	kuat
+khuat	khuat
+luat	luat
+puat	puat
+phuat	phuat
+suat	suat
+tuat	tuat
+thuat	thuat
+tsuat	tsuat
+
+
+ue	ue
+bue	bue
+gue	gue
+hue	hue
+jue	jue
+kue	kue
+khue	khue
+lue	lue
+pue	pue
+phue	phue
+sue	sue
+tue	tue
+tsue	tsue
+tshue	tshue
+
+ueh	ueh
+bueh	bueh
+gueh	gueh
+hueh	hueh
+kueh	kueh
+khueh	khueh
+pueh	pueh
+phueh	phueh
+sueh	sueh
+
+
+uh	uh
+khuh	khuh
+puh	puh
+phuh	phuh
+tuh	tuh
+thuh	thuh
+tsuh	tsuh
+tshuh	tshuh
+
+ui	ui
+bui	bui
+gui	gui
+hui	hui
+kui	kui
+khui	khui
+lui	lui
+mui	mui
+pui	pui
+phui	phui
+sui	sui
+tui	tui
+thui	thui
+tsui	tsui
+tshui	tshui
+
+un	un
+bun	bun
+gun	gun
+hun	hun
+jun	jun
+kun	kun
+khun	khun
+lun	lun
+pun	pun
+phun	phun
+sun	sun
+tun	tun
+thun	thun
+tsun	tsun
+tshun	tshun
+
+ut	ut
+but	but
+hut	hut
+kut	kut
+khut	khut
+lut	lut
+put	put
+phut	phut
+sut	sut
+tut	tut
+thut	thut
+tsut	tsut
+tshut	tshut
