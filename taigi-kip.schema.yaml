@@ -14,7 +14,49 @@ schema:
 switches:
   - name: ascii_mode
     reset: 0
-    states: ["台語"，"英數"]
+    states: ["台語", "英數"]
+  - name: full_shape
+    reset: 0
+    states: ["半形", "全形"]
   - name: han
     reset: 0
-    states: ["漢羅"，"tsuân-lô"]
+    options: [han, lomaji] # should we add han_simp?
+    states: ["漢羅", "tsuân-lô"]
+
+engine:
+  processors:
+    - ascii_composer
+    # - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    # - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fullback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+  filters:
+    - uniquifier
+
+translator:
+  dictionary: taigi-kip
+  enable_user_dict: false # remain false for development, for users true is better
+  spelling_hints: 8
+  always_show_comments: true
+  # preedit_format:
+  # comment_format:
+
+speller:
+  alphabet: "abeghijklmnopstu123456789-"
+  initials: "abeghijklmnopstu"
+  finals: "123456789-"
+  delimiter: " "
+  algebra:
+  - derive/\d$// # Ignore tones
