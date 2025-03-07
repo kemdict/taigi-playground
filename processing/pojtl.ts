@@ -1,4 +1,4 @@
-// const server = "https://pojtl.kdemdict.com";
+// const server = "https://pojtl.kemdict.com";
 const server = "http://127.0.0.1:8000";
 
 export async function toTL(text: string) {
