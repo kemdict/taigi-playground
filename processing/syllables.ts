@@ -1,7 +1,6 @@
 import { load } from "js-yaml";
 import { readFileSync, writeFileSync } from "node:fs";
 import { toTL, toPOJ } from "./pojtl.ts";
-import { forMulti } from "./utils.ts";
 
 /**
  * Take a syllable without a tone, then return versions of it with input tones
@@ -48,11 +47,15 @@ const syllables = load(
 ) as string[];
 const inputToTL = new Map<string, string>();
 const inputToPOJ = new Map<string, string>();
+const l = syllables.length;
+let i = 0;
 for (const syllable of syllables) {
-  forMulti(allTones(syllable), async (inputForm) => {
+  i++;
+  console.log(`${i}/${l}`);
+  for (const inputForm of allTones(syllable)) {
     inputToTL.set(inputForm, await toTL(inputForm));
     inputToPOJ.set(inputForm, await toPOJ(inputForm));
-  });
+  }
 }
 
 writeDict("taigi-kip.syllables.dict.yaml", "kip", inputToTL);
