@@ -7,6 +7,7 @@ Aims to not copy Ithuan too much, but obviously with me trying to make a full re
 ## Todos
 
 - Import words from Kemdict sources
+  - This requires a way to go from written POJ/TL to the input form. KeSi doesn't have that, *we'll have to write this ourself*.
   - Specifically: Kautian (just take old version if you don't yet want to adapt to the new version)
   - Others: TaijitToaSutian is also pretty major
   - For Lomaji: take each lomaji entry, each taigi-kip entry is KIPUnicode -> KIPInputForm

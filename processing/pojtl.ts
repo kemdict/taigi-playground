@@ -1,6 +1,27 @@
 // const server = "https://pojtl.kemdict.com";
 const server = "http://127.0.0.1:8000";
 
+/**
+ * WIP: convert `text` to input form.
+ * We can assume `text` is well-formed, for example:
+ *   - Doesn't have multiple tones
+ *   - Maybe even "it's a valid sequence already converted in inputToTL or inputToPOJ"
+ */
+function toInputFormWIP(text: string) {
+  const toneMap = [
+    ["a", "1"],
+    ["á", "2"],
+    ["à", "3"],
+    ["a", "4"],
+    ["â", "5"],
+    ["ǎ", "6"],
+    ["ā", "7"],
+    ["a̍", "8"],
+    ["a̋", "9"],
+  ];
+  const normalized = text.normalize("NFD");
+}
+
 export async function toTL(text: string) {
   const response = await fetch(`${server}/toTL`, {
     method: "POST",
