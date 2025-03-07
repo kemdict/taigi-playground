@@ -8,7 +8,7 @@
 
 import { load } from "js-yaml";
 import { readFileSync, writeFileSync } from "node:fs";
-import { toTL, toPOJ } from "./pojtl.ts";
+import { toTL, toPOJ, toTLBulk, toPOJBulk } from "./pojtl.ts";
 
 /**
  * Take a syllable without a tone, then return versions of it with input tones
@@ -46,7 +46,7 @@ sort: by_weight
 ---
 
 ${[...data].map(([inputForm, output]) => `${output}\t${inputForm}`).join("\n")}
-`.trim(),
+`.trimStart(),
   );
 }
 
@@ -55,15 +55,17 @@ const syllables = load(
 ) as string[];
 const inputToTL = new Map<string, string>();
 const inputToPOJ = new Map<string, string>();
-const l = syllables.length;
+const inputForms = syllables.flatMap(allTones);
+const kip = await toTLBulk(inputForms);
+const poj = await toPOJBulk(inputForms);
 let i = 0;
-for (const syllable of syllables) {
-  i++;
-  console.log(`${i}/${l}`);
-  for (const inputForm of allTones(syllable)) {
-    inputToTL.set(inputForm, await toTL(inputForm));
-    inputToPOJ.set(inputForm, await toPOJ(inputForm));
+for (const inputForm of inputForms) {
+  if (kip[i] === undefined || poj[i] === undefined) {
+    console.log(`Failed for ${inputForm}!`);
   }
+  inputToTL.set(inputForm, kip[i]);
+  inputToPOJ.set(inputForm, poj[i]);
+  i++;
 }
 
 writeDict("../taigi-kip.syllables.dict.yaml", "kip", inputToTL);
