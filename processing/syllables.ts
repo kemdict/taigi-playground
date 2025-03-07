@@ -7,7 +7,7 @@
 // Then the syllables.dict.yaml files will be created in the parent folder.
 
 import { load } from "js-yaml";
-import { readFileSync, writeFileSync } from "node:fs";
+import { readFileSync } from "node:fs";
 import { toTL, toPOJ, toTLBulk, toPOJBulk } from "./pojtl.ts";
 
 function uniq<T>(arr: T[]) {
@@ -31,38 +31,13 @@ function allTones(plainSyllable: string) {
   }
 }
 
-function writeDict(
-  path: string,
-  type: "kip" | "poj",
-  data: Map<string, string>,
-) {
-  writeFileSync(
-    path,
-    `
-# Rime dictionary
-# encoding: utf-8
-#
-# taigi-${type}.syllables
-#
-# All possible syllables. I'm not sure RIME can do Emacs IME-style direct
-# replacements for the actual input itself.
-
----
-name: taigi-${type}.syllables
-version: "2025-03-08"
-sort: by_weight
-...
-
-${[...data].map(([inputForm, output]) => `${output}\t${inputForm}`).join("\n")}
-`.trimStart(),
-  );
-}
-
 const syllables = load(
   readFileSync("./all-syllables.yml", { encoding: "utf-8" }),
 ) as { kip: string[]; poj: string[] };
-const inputToTL = new Map<string, string>();
-const inputToPOJ = new Map<string, string>();
+export const inputToTL = new Map<string, string>();
+export const inputToPOJ = new Map<string, string>();
+export const tlToInput = new Map<string, string>();
+export const pojToInput = new Map<string, string>();
 // Allow input in either POJ or TL
 // This does make converting from POJ or TL to input form ambiguous. We can
 // worry about that later.
@@ -85,8 +60,7 @@ for (const inputForm of inputForms) {
   }
   inputToTL.set(inputForm, kip[i]);
   inputToPOJ.set(inputForm, poj[i]);
+  tlToInput.set(kip[i], inputForm);
+  pojToInput.set(poj[i], inputForm);
   i++;
 }
-
-writeDict("../taigi-kip.syllables.dict.yaml", "kip", inputToTL);
-writeDict("../taigi-poj.syllables.dict.yaml", "poj", inputToPOJ);

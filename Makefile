@@ -3,4 +3,4 @@ install:
 	ln -sf $$(pwd)/essay*.txt ~/.local/share/fcitx5/rime/
 
 syllables:
-	cd processing && deno run -A syllables.ts
+	cd processing && deno run -A writeSyllables.ts
