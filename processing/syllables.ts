@@ -62,6 +62,10 @@ let i = 0;
 for (const inputForm of inputForms) {
   if (kip[i] === undefined || poj[i] === undefined) {
     console.log(`Failed for ${inputForm}!`);
+    console.log(`Previous: ${inputForms[i - 1]}, ${kip[i - 1]}, ${poj[i - 1]}`);
+    console.log(`This: ${inputForms[i]}, ${kip[i]}, ${poj[i]}`);
+    console.log(`Next: ${inputForms[i + 1]}, ${kip[i + 1]}, ${poj[i + 1]}`);
+    process.exit(1);
   }
   inputToTL.set(inputForm, kip[i]);
   inputToPOJ.set(inputForm, poj[i]);
