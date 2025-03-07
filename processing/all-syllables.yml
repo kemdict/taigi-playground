@@ -1,4 +1,6 @@
-# All licit syllables in KIP
+# All licit syllables
+#
+# In KIP:
 # Thanks Wikipedia
 # https://en.wikipedia.org/wiki/Tâi-uân_Lô-má-jī_Phing-im_Hong-àn#:~:text=hide-,Licit syllables,-[2]
 #
@@ -13,795 +15,1591 @@
 # Wikipedia cites
 # https://language.moe.gov.tw/files/people_files/tshiutsheh_1130826.pdf
 # But that file isn't available right now :shrug:
+kip:
+  - a
+  - ba
+  - ga
+  - ha
+  - ka
+  - kha
+  - la
+  - ma
+  - na
+  - nga
+  - pa
+  - pha
+  - sa
+  - ta
+  - tha
+  - tsa
+  - tsha
+  - ah
+  - bah
+  - hah
+  - kah
+  - khah
+  - lah
+  - nah
+  - pah
+  - phah
+  - sah
+  - tah
+  - thah
+  - tsah
+  - tshah
+  - ai
+  - bai
+  - gai
+  - hai
+  - kai
+  - khai
+  - lai
+  - mai
+  - nai
+  - ngai
+  - pai
+  - phai
+  - sai
+  - tai
+  - thai
+  - tsai
+  - tshai
+  - ainn
+  - hainn
+  - kainn
+  - khainn
+  - phainn
+  - tainn
+  - tsainn
+  - ak
+  - bak
+  - gak
+  - hak
+  - kak
+  - khak
+  - lak
+  - pak
+  - phak
+  - sak
+  - tak
+  - thak
+  - tsak
+  - tshak
+  - am
+  - gam
+  - ham
+  - kam
+  - kham
+  - lam
+  - sam
+  - tam
+  - tham
+  - tsam
+  - tsham
+  - an
+  - ban
+  - gan
+  - han
+  - kan
+  - khan
+  - lan
+  - pan
+  - phan
+  - san
+  - tan
+  - than
+  - tsan
+  - tshan
+  - ang
+  - bang
+  - gang
+  - hang
+  - kang
+  - khang
+  - lang
+  - pang
+  - phang
+  - sang
+  - tang
+  - thang
+  - tsang
+  - tshang
+  - ann
+  - hann
+  - kann
+  - khann
+  - phann
+  - sann
+  - tann
+  - thann
+  - tsann
+  - tshann
+  - hannh
+  - sannh
+  - ap
+  - hap
+  - kap
+  - khap
+  - lap
+  - sap
+  - tap
+  - thap
+  - tsap
+  - tshap
+  - at
+  - bat
+  - hat
+  - kat
+  - khat
+  - lat
+  - pat
+  - sat
+  - tat
+  - that
+  - tsat
+  - tshat
+  - au
+  - bau
+  - gau
+  - hau
+  - kau
+  - khau
+  - lau
+  - mau
+  - nau
+  - ngau
+  - pau
+  - phau
+  - sau
+  - tau
+  - thau
+  - tsau
+  - tshau
+  - kauh
+  - lauh
+  - mauh
+  - nauh
+  - phauh
+  - tauh
+  - tshauh
+  - e
+  - be
+  - ge
+  - he
+  - ke
+  - khe
+  - le
+  - me
+  - ne
+  - nge
+  - pe
+  - phe
+  - se
+  - te
+  - the
+  - tse
+  - tshe
+  - eh
+  - beh
+  - heh
+  - keh
+  - kheh
+  - leh
+  - meh
+  - neh
+  - ngeh
+  - peh
+  - seh
+  - teh
+  - theh
+  - tseh
+  - tsheh
+  - enn
+  - henn
+  - kenn
+  - khenn
+  - penn
+  - phenn
+  - senn
+  - tenn
+  - thenn
+  - tsenn
+  - tshenn
+  - hennh
+  - khennh
+  - i
+  - bi
+  - gi
+  - hi
+  - ji
+  - ki
+  - khi
+  - li
+  - mi
+  - ni
+  - pi
+  - phi
+  - si
+  - ti
+  - thi
+  - tsi
+  - tshi
+  - ia
+  - gia
+  - hia
+  - jia
+  - kia
+  - khia
+  - mia
+  - nia
+  - ngia
+  - sia
+  - tia
+  - tsia
+  - tshia
+  - iah
+  - giah
+  - hiah
+  - kiah
+  - khiah
+  - liah
+  - piah
+  - phiah
+  - siah
+  - tiah
+  - thiah
+  - tsiah
+  - tshiah
+  - khiak
+  - piak
+  - phiak
+  - siak
+  - tiak
+  - tshiak
+  - iam
+  - giam
+  - hiam
+  - jiam
+  - kiam
+  - khiam
+  - liam
+  - siam
+  - tiam
+  - thiam
+  - tsiam
+  - tshiam
+  - ian
+  - bian
+  - gian
+  - hian
+  - jian
+  - kian
+  - khian
+  - lian
+  - pian
+  - phian
+  - sian
+  - tian
+  - thian
+  - tsian
+  - tshian
+  - iang
+  - giang
+  - hiang
+  - jiang
+  - khiang
+  - liang
+  - piang
+  - phiang
+  - siang
+  - tsiang
+  - tshiang
+  - iann
+  - hiann
+  - kiann
+  - piann
+  - siann
+  - tiann
+  - thiann
+  - tsiann
+  - tshiann
+  - hiannh
+  - iap
+  - giap
+  - hiap
+  - jiap
+  - kiap
+  - khiap
+  - liap
+  - siap
+  - tiap
+  - thiap
+  - tsiap
+  - tshiap
+  - iat
+  - biat
+  - giat
+  - hiat
+  - jiat
+  - kiat
+  - khiat
+  - liat
+  - piat
+  - phiat
+  - siat
+  - tiat
+  - thiat
+  - tsiat
+  - tshiat
+  - iau
+  - biau
+  - giau
+  - hiau
+  - jiau
+  - kiau
+  - khiau
+  - liau
+  - miau
+  - niau
+  - ngiau
+  - piau
+  - phiau
+  - siau
+  - tiau
+  - thiau
+  - tsiau
+  - tshiau
+  - hiauh
+  - khiauh
+  - ngiauh
+  - iaunn
+  - bih
+  - khih
+  - mih
+  - nih
+  - pih
+  - phih
+  - sih
+  - tih
+  - thih
+  - tsih
+  - tshih
+  - ik
+  - bik
+  - gik
+  - hik
+  - kik
+  - lik
+  - pik
+  - phik
+  - sik
+  - tik
+  - thik
+  - tsik
+  - tshik
+  - im
+  - gim
+  - him
+  - jim
+  - kim
+  - khim
+  - lim
+  - sim
+  - tim
+  - thim
+  - tsim
+  - tshim
+  - in
+  - bin
+  - gin
+  - hin
+  - jin
+  - kin
+  - khin
+  - lin
+  - pin
+  - phin
+  - sin
+  - tin
+  - thin
+  - tsin
+  - tshin
+  - ing
+  - bing
+  - ging
+  - hing
+  - king
+  - khing
+  - ling
+  - ping
+  - phing
+  - sing
+  - ting
+  - thing
+  - tsing
+  - tshing
+  - inn
+  - hinn
+  - kinn
+  - khinn
+  - sinn
+  - tinn
+  - thinn
+  - tsinn
+  - tshinn
+  - io
+  - bio
+  - gio
+  - hio
+  - jio
+  - kio
+  - khio
+  - lio
+  - pio
+  - phio
+  - sio
+  - tio
+  - thio
+  - tsio
+  - tshio
+  - ioh
+  - gioh
+  - hioh
+  - kioh
+  - khioh
+  - lioh
+  - sioh
+  - tioh
+  - tsioh
+  - tshioh
+  - iok
+  - giok
+  - hiok
+  - jiok
+  - kiok
+  - khiok
+  - liok
+  - siok
+  - tiok
+  - thiok
+  - tsiok
+  - tshiok
+  - iong
+  - giong
+  - hiong
+  - jiong
+  - kiong
+  - khiong
+  - liong
+  - siong
+  - tiong
+  - thiong
+  - tsiong
+  - tshiong
+  - ip
+  - hip
+  - jip
+  - kip
+  - khip
+  - lip
+  - sip
+  - tsip
+  - tship
+  - it
+  - bit
+  - hit
+  - jit
+  - kit
+  - khit
+  - pit
+  - phit
+  - sit
+  - tit
+  - tsit
+  - tshit
+  - iu
+  - biu
+  - giu
+  - hiu
+  - jiu
+  - kiu
+  - khiu
+  - liu
+  - niu
+  - piu
+  - siu
+  - tiu
+  - thiu
+  - tsiu
+  - tshiu
+  - iunn
+  - hiunn
+  - kiunn
+  - khiunn
+  - siunn
+  - tiunn
+  - tsiunn
+  - tshiunn
+  - iunnh
+  - hiunnh
+  - m
+  - hm
+  - hmh
+  - ng
+  - hng
+  - kng
+  - khng
+  - mng
+  - nng
+  - png
+  - sng
+  - tng
+  - thng
+  - tsng
+  - tshng
+  - hngh
+  - phngh
+  - sngh
+  - tshngh
+  - o
+  - bo
+  - go
+  - ho
+  - ko
+  - kho
+  - lo
+  - po
+  - pho
+  - so
+  - to
+  - tho
+  - tso
+  - tsho
+  - oh
+  - hoh
+  - koh
+  - loh
+  - poh
+  - phoh
+  - soh
+  - toh
+  - thoh
+  - tsoh
+  - tshoh
+  - ok
+  - bok
+  - gok
+  - hok
+  - kok
+  - khok
+  - lok
+  - pok
+  - phok
+  - sok
+  - tok
+  - thok
+  - tsok
+  - tshok
+  - om
+  - som
+  - tom
+  - ong
+  - bong
+  - gong
+  - hong
+  - kong
+  - khong
+  - long
+  - pong
+  - phong
+  - song
+  - tong
+  - thong
+  - tsong
+  - tshong
+  - onn
+  - honn
+  - konn
+  - onnh
+  - honnh
+  - oo
+  - boo
+  - goo
+  - hoo
+  - koo
+  - khoo
+  - loo
+  - moo
+  - noo
+  - ngoo
+  - poo
+  - phoo
+  - soo
+  - too
+  - thoo
+  - tsoo
+  - tshoo
+  - mooh
+  - u
+  - bu
+  - gu
+  - hu
+  - ju
+  - ku
+  - khu
+  - lu
+  - pu
+  - phu
+  - su
+  - tu
+  - thu
+  - tsu
+  - tshu
+  - ua
+  - bua
+  - gua
+  - hua
+  - kua
+  - khua
+  - lua
+  - mua
+  - nua
+  - pua
+  - phua
+  - sua
+  - tua
+  - thua
+  - tsua
+  - tshua
+  - uah
+  - buah
+  - huah
+  - juah
+  - kuah
+  - khuah
+  - luah
+  - puah
+  - phuah
+  - suah
+  - thuah
+  - tsuah
+  - tshuah
+  - uai
+  - huai
+  - kuai
+  - khuai
+  - suai
+  - uainn
+  - huainn
+  - kuainn
+  - suainn
+  - tsuainn
+  - uan
+  - buan
+  - guan
+  - huan
+  - kuan
+  - khuan
+  - luan
+  - puan
+  - phuan
+  - suan
+  - tuan
+  - thuan
+  - tsuan
+  - tshuan
+  - uang
+  - tshuang
+  - uann
+  - huann
+  - kuann
+  - khuann
+  - puann
+  - phuann
+  - suann
+  - tuann
+  - thuann
+  - tshuann
+  - uat
+  - buat
+  - guat
+  - huat
+  - kuat
+  - khuat
+  - luat
+  - puat
+  - phuat
+  - suat
+  - tuat
+  - thuat
+  - tsuat
+  - ue
+  - bue
+  - gue
+  - hue
+  - jue
+  - kue
+  - khue
+  - lue
+  - pue
+  - phue
+  - sue
+  - tue
+  - tsue
+  - tshue
+  - ueh
+  - bueh
+  - gueh
+  - hueh
+  - kueh
+  - khueh
+  - pueh
+  - phueh
+  - sueh
+  - uh
+  - khuh
+  - puh
+  - phuh
+  - tuh
+  - thuh
+  - tsuh
+  - tshuh
+  - ui
+  - bui
+  - gui
+  - hui
+  - kui
+  - khui
+  - lui
+  - mui
+  - pui
+  - phui
+  - sui
+  - tui
+  - thui
+  - tsui
+  - tshui
+  - un
+  - bun
+  - gun
+  - hun
+  - jun
+  - kun
+  - khun
+  - lun
+  - pun
+  - phun
+  - sun
+  - tun
+  - thun
+  - tsun
+  - tshun
+  - ut
+  - but
+  - hut
+  - kut
+  - khut
+  - lut
+  - put
+  - phut
+  - sut
+  - tut
+  - thut
+  - tsut
+  - tshut
 
-- a
-- ba
-- ga
-- ha
-- ka
-- kha
-- la
-- ma
-- na
-- nga
-- pa
-- pha
-- sa
-- ta
-- tha
-- tsa
-- tsha
-- ah
-- bah
-- hah
-- kah
-- khah
-- lah
-- nah
-- pah
-- phah
-- sah
-- tah
-- thah
-- tsah
-- tshah
-- ai
-- bai
-- gai
-- hai
-- kai
-- khai
-- lai
-- mai
-- nai
-- ngai
-- pai
-- phai
-- sai
-- tai
-- thai
-- tsai
-- tshai
-- ainn
-- hainn
-- kainn
-- khainn
-- phainn
-- tainn
-- tsainn
-- ak
-- bak
-- gak
-- hak
-- kak
-- khak
-- lak
-- pak
-- phak
-- sak
-- tak
-- thak
-- tsak
-- tshak
-- am
-- gam
-- ham
-- kam
-- kham
-- lam
-- sam
-- tam
-- tham
-- tsam
-- tsham
-- an
-- ban
-- gan
-- han
-- kan
-- khan
-- lan
-- pan
-- phan
-- san
-- tan
-- than
-- tsan
-- tshan
-- ang
-- bang
-- gang
-- hang
-- kang
-- khang
-- lang
-- pang
-- phang
-- sang
-- tang
-- thang
-- tsang
-- tshang
-- ann
-- hann
-- kann
-- khann
-- phann
-- sann
-- tann
-- thann
-- tsann
-- tshann
-- hannh
-- sannh
-- ap
-- hap
-- kap
-- khap
-- lap
-- sap
-- tap
-- thap
-- tsap
-- tshap
-- at
-- bat
-- hat
-- kat
-- khat
-- lat
-- pat
-- sat
-- tat
-- that
-- tsat
-- tshat
-- au
-- bau
-- gau
-- hau
-- kau
-- khau
-- lau
-- mau
-- nau
-- ngau
-- pau
-- phau
-- sau
-- tau
-- thau
-- tsau
-- tshau
-- kauh
-- lauh
-- mauh
-- nauh
-- phauh
-- tauh
-- tshauh
-- e
-- be
-- ge
-- he
-- ke
-- khe
-- le
-- me
-- ne
-- nge
-- pe
-- phe
-- se
-- te
-- the
-- tse
-- tshe
-- eh
-- beh
-- heh
-- keh
-- kheh
-- leh
-- meh
-- neh
-- ngeh
-- peh
-- seh
-- teh
-- theh
-- tseh
-- tsheh
-- enn
-- henn
-- kenn
-- khenn
-- penn
-- phenn
-- senn
-- tenn
-- thenn
-- tsenn
-- tshenn
-- hennh
-- khennh
-- i
-- bi
-- gi
-- hi
-- ji
-- ki
-- khi
-- li
-- mi
-- ni
-- pi
-- phi
-- si
-- ti
-- thi
-- tsi
-- tshi
-- ia
-- gia
-- hia
-- jia
-- kia
-- khia
-- mia
-- nia
-- ngia
-- sia
-- tia
-- tsia
-- tshia
-- iah
-- giah
-- hiah
-- kiah
-- khiah
-- liah
-- piah
-- phiah
-- siah
-- tiah
-- thiah
-- tsiah
-- tshiah
-- khiak
-- piak
-- phiak
-- siak
-- tiak
-- tshiak
-- iam
-- giam
-- hiam
-- jiam
-- kiam
-- khiam
-- liam
-- siam
-- tiam
-- thiam
-- tsiam
-- tshiam
-- ian
-- bian
-- gian
-- hian
-- jian
-- kian
-- khian
-- lian
-- pian
-- phian
-- sian
-- tian
-- thian
-- tsian
-- tshian
-- iang
-- giang
-- hiang
-- jiang
-- khiang
-- liang
-- piang
-- phiang
-- siang
-- tsiang
-- tshiang
-- iann
-- hiann
-- kiann
-- piann
-- siann
-- tiann
-- thiann
-- tsiann
-- tshiann
-- hiannh
-- iap
-- giap
-- hiap
-- jiap
-- kiap
-- khiap
-- liap
-- siap
-- tiap
-- thiap
-- tsiap
-- tshiap
-- iat
-- biat
-- giat
-- hiat
-- jiat
-- kiat
-- khiat
-- liat
-- piat
-- phiat
-- siat
-- tiat
-- thiat
-- tsiat
-- tshiat
-- iau
-- biau
-- giau
-- hiau
-- jiau
-- kiau
-- khiau
-- liau
-- miau
-- niau
-- ngiau
-- piau
-- phiau
-- siau
-- tiau
-- thiau
-- tsiau
-- tshiau
-- hiauh
-- khiauh
-- ngiauh
-- iaunn
-- bih
-- khih
-- mih
-- nih
-- pih
-- phih
-- sih
-- tih
-- thih
-- tsih
-- tshih
-- ik
-- bik
-- gik
-- hik
-- kik
-- lik
-- pik
-- phik
-- sik
-- tik
-- thik
-- tsik
-- tshik
-- im
-- gim
-- him
-- jim
-- kim
-- khim
-- lim
-- sim
-- tim
-- thim
-- tsim
-- tshim
-- in
-- bin
-- gin
-- hin
-- jin
-- kin
-- khin
-- lin
-- pin
-- phin
-- sin
-- tin
-- thin
-- tsin
-- tshin
-- ing
-- bing
-- ging
-- hing
-- king
-- khing
-- ling
-- ping
-- phing
-- sing
-- ting
-- thing
-- tsing
-- tshing
-- inn
-- hinn
-- kinn
-- khinn
-- sinn
-- tinn
-- thinn
-- tsinn
-- tshinn
-- io
-- bio
-- gio
-- hio
-- jio
-- kio
-- khio
-- lio
-- pio
-- phio
-- sio
-- tio
-- thio
-- tsio
-- tshio
-- ioh
-- gioh
-- hioh
-- kioh
-- khioh
-- lioh
-- sioh
-- tioh
-- tsioh
-- tshioh
-- iok
-- giok
-- hiok
-- jiok
-- kiok
-- khiok
-- liok
-- siok
-- tiok
-- thiok
-- tsiok
-- tshiok
-- iong
-- giong
-- hiong
-- jiong
-- kiong
-- khiong
-- liong
-- siong
-- tiong
-- thiong
-- tsiong
-- tshiong
-- ip
-- hip
-- jip
-- kip
-- khip
-- lip
-- sip
-- tsip
-- tship
-- it
-- bit
-- hit
-- jit
-- kit
-- khit
-- pit
-- phit
-- sit
-- tit
-- tsit
-- tshit
-- iu
-- biu
-- giu
-- hiu
-- jiu
-- kiu
-- khiu
-- liu
-- niu
-- piu
-- siu
-- tiu
-- thiu
-- tsiu
-- tshiu
-- iunn
-- hiunn
-- kiunn
-- khiunn
-- siunn
-- tiunn
-- tsiunn
-- tshiunn
-- iunnh
-- hiunnh
-- m
-- hm
-- hmh
-- ng
-- hng
-- kng
-- khng
-- mng
-- nng
-- png
-- sng
-- tng
-- thng
-- tsng
-- tshng
-- hngh
-- phngh
-- sngh
-- tshngh
-- o
-- bo
-- go
-- ho
-- ko
-- kho
-- lo
-- po
-- pho
-- so
-- to
-- tho
-- tso
-- tsho
-- oh
-- hoh
-- koh
-- loh
-- poh
-- phoh
-- soh
-- toh
-- thoh
-- tsoh
-- tshoh
-- ok
-- bok
-- gok
-- hok
-- kok
-- khok
-- lok
-- pok
-- phok
-- sok
-- tok
-- thok
-- tsok
-- tshok
-- om
-- som
-- tom
-- ong
-- bong
-- gong
-- hong
-- kong
-- khong
-- long
-- pong
-- phong
-- song
-- tong
-- thong
-- tsong
-- tshong
-- onn
-- honn
-- konn
-- onnh
-- honnh
-- oo
-- boo
-- goo
-- hoo
-- koo
-- khoo
-- loo
-- moo
-- noo
-- ngoo
-- poo
-- phoo
-- soo
-- too
-- thoo
-- tsoo
-- tshoo
-- mooh
-- u
-- bu
-- gu
-- hu
-- ju
-- ku
-- khu
-- lu
-- pu
-- phu
-- su
-- tu
-- thu
-- tsu
-- tshu
-- ua
-- bua
-- gua
-- hua
-- kua
-- khua
-- lua
-- mua
-- nua
-- pua
-- phua
-- sua
-- tua
-- thua
-- tsua
-- tshua
-- uah
-- buah
-- huah
-- juah
-- kuah
-- khuah
-- luah
-- puah
-- phuah
-- suah
-- thuah
-- tsuah
-- tshuah
-- uai
-- huai
-- kuai
-- khuai
-- suai
-- uainn
-- huainn
-- kuainn
-- suainn
-- tsuainn
-- uan
-- buan
-- guan
-- huan
-- kuan
-- khuan
-- luan
-- puan
-- phuan
-- suan
-- tuan
-- thuan
-- tsuan
-- tshuan
-- uang
-- tshuang
-- uann
-- huann
-- kuann
-- khuann
-- puann
-- phuann
-- suann
-- tuann
-- thuann
-- tshuann
-- uat
-- buat
-- guat
-- huat
-- kuat
-- khuat
-- luat
-- puat
-- phuat
-- suat
-- tuat
-- thuat
-- tsuat
-- ue
-- bue
-- gue
-- hue
-- jue
-- kue
-- khue
-- lue
-- pue
-- phue
-- sue
-- tue
-- tsue
-- tshue
-- ueh
-- bueh
-- gueh
-- hueh
-- kueh
-- khueh
-- pueh
-- phueh
-- sueh
-- uh
-- khuh
-- puh
-- phuh
-- tuh
-- thuh
-- tsuh
-- tshuh
-- ui
-- bui
-- gui
-- hui
-- kui
-- khui
-- lui
-- mui
-- pui
-- phui
-- sui
-- tui
-- thui
-- tsui
-- tshui
-- un
-- bun
-- gun
-- hun
-- jun
-- kun
-- khun
-- lun
-- pun
-- phun
-- sun
-- tun
-- thun
-- tsun
-- tshun
-- ut
-- but
-- hut
-- kut
-- khut
-- lut
-- put
-- phut
-- sut
-- tut
-- thut
-- tsut
-- tshut
+# In POJ: https://en.wikipedia.org/wiki/Pe̍h-ōe-jī#Current_system:~:text=Licit POJ syllables
+poj:
+  - a
+  - ba
+  - cha
+  - chha
+  - ga
+  - ha
+  - ka
+  - kha
+  - la
+  - ma
+  - na
+  - nga
+  - pa
+  - pha
+  - sa
+  - ta
+  - tha
+  - aⁿ
+  - chaⁿ
+  - chhaⁿ
+  - haⁿ
+  - kaⁿ
+  - khaⁿ
+  - phaⁿ
+  - saⁿ
+  - taⁿ
+  - thaⁿ
+  - ah
+  - bah
+  - chah
+  - chhah
+  - hah
+  - kah
+  - khah
+  - lah
+  - nah
+  - pah
+  - phah
+  - sah
+  - tah
+  - thah
+  - hahⁿ
+  - sahⁿ
+  - ai
+  - bai
+  - chai
+  - chhai
+  - gai
+  - hai
+  - kai
+  - khai
+  - lai
+  - mai
+  - nai
+  - ngai
+  - pai
+  - phai
+  - sai
+  - tai
+  - thai
+  - aiⁿ
+  - chaiⁿ
+  - haiⁿ
+  - kaiⁿ
+  - khaiⁿ
+  - phaiⁿ
+  - taiⁿ
+  - ak
+  - bak
+  - chak
+  - chhak
+  - gak
+  - hak
+  - kak
+  - khak
+  - lak
+  - pak
+  - phak
+  - sak
+  - tak
+  - thak
+  - am
+  - cham
+  - chham
+  - gam
+  - ham
+  - kam
+  - kham
+  - lam
+  - sam
+  - tam
+  - tham
+  - an
+  - ban
+  - chan
+  - chhan
+  - gan
+  - han
+  - kan
+  - khan
+  - lan
+  - pan
+  - phan
+  - san
+  - tan
+  - than
+  - ang
+  - bang
+  - chang
+  - chhang
+  - gang
+  - hang
+  - kang
+  - khang
+  - lang
+  - pang
+  - phang
+  - sang
+  - tang
+  - thang
+  - ap
+  - chap
+  - chhap
+  - hap
+  - kap
+  - khap
+  - lap
+  - sap
+  - tap
+  - thap
+  - at
+  - bat
+  - chat
+  - chhat
+  - hat
+  - kat
+  - khat
+  - lat
+  - pat
+  - sat
+  - tat
+  - that
+  - au
+  - bau
+  - chau
+  - chhau
+  - gau
+  - hau
+  - kau
+  - khau
+  - lau
+  - mau
+  - nau
+  - ngau
+  - pau
+  - phau
+  - sau
+  - tau
+  - thau
+  - chhauh
+  - kauh
+  - lauh
+  - mauh
+  - nauh
+  - phauh
+  - tauh
+  - e
+  - be
+  - che
+  - chhe
+  - ge
+  - he
+  - ke
+  - khe
+  - le
+  - me
+  - ne
+  - nge
+  - pe
+  - phe
+  - se
+  - te
+  - the
+  - eⁿ
+  - cheⁿ
+  - chheⁿ
+  - heⁿ
+  - keⁿ
+  - kheⁿ
+  - peⁿ
+  - pheⁿ
+  - seⁿ
+  - teⁿ
+  - theⁿ
+  - eh
+  - beh
+  - cheh
+  - chheh
+  - heh
+  - keh
+  - kheh
+  - leh
+  - meh
+  - neh
+  - ngeh
+  - peh
+  - seh
+  - teh
+  - theh
+  - hehⁿ
+  - khehⁿ
+  - ek
+  - bek
+  - chek
+  - chhek
+  - gek
+  - hek
+  - kek
+  - lek
+  - pek
+  - phek
+  - sek
+  - tek
+  - thek
+  - eng
+  - beng
+  - cheng
+  - chheng
+  - geng
+  - heng
+  - keng
+  - kheng
+  - leng
+  - peng
+  - pheng
+  - seng
+  - teng
+  - theng
+  - i
+  - bi
+  - chi
+  - chhi
+  - gi
+  - hi
+  - ji
+  - ki
+  - khi
+  - li
+  - mi
+  - ni
+  - pi
+  - phi
+  - si
+  - ti
+  - thi
+  - iⁿ
+  - chiⁿ
+  - chhiⁿ
+  - hiⁿ
+  - kiⁿ
+  - khiⁿ
+  - siⁿ
+  - tiⁿ
+  - thiⁿ
+  - ia
+  - chia
+  - chhia
+  - gia
+  - hia
+  - jia
+  - kia
+  - khia
+  - mia
+  - nia
+  - ngia
+  - sia
+  - tia
+  - iaⁿ
+  - chiaⁿ
+  - chhiaⁿ
+  - hiaⁿ
+  - kiaⁿ
+  - piaⁿ
+  - siaⁿ
+  - tiaⁿ
+  - thiaⁿ
+  - iah
+  - chiah
+  - chhiah
+  - giah
+  - hiah
+  - kiah
+  - khiah
+  - liah
+  - piah
+  - phiah
+  - siah
+  - tiah
+  - thiah
+  - hiahⁿ
+  - chhiak
+  - khiak
+  - piak
+  - phiak
+  - siak
+  - tiak
+  - iam
+  - chiam
+  - chhiam
+  - giam
+  - hiam
+  - jiam
+  - kiam
+  - khiam
+  - liam
+  - siam
+  - tiam
+  - thiam
+  - ian
+  - bian
+  - chian
+  - chhian
+  - gian
+  - hian
+  - jian
+  - kian
+  - khian
+  - lian
+  - pian
+  - phian
+  - sian
+  - tian
+  - thian
+  - iang
+  - chiang
+  - chhiang
+  - giang
+  - hiang
+  - jiang
+  - khiang
+  - liang
+  - piang
+  - phiang
+  - siang
+  - iap
+  - chiap
+  - chhiap
+  - giap
+  - hiap
+  - jiap
+  - kiap
+  - khiap
+  - liap
+  - siap
+  - tiap
+  - thiap
+  - iat
+  - biat
+  - chiat
+  - chhiat
+  - giat
+  - hiat
+  - jiat
+  - kiat
+  - khiat
+  - liat
+  - piat
+  - phiat
+  - siat
+  - tiat
+  - thiat
+  - iau
+  - biau
+  - chiau
+  - chhiau
+  - giau
+  - hiau
+  - jiau
+  - kiau
+  - khiau
+  - liau
+  - miau
+  - niau
+  - ngiau
+  - piau
+  - phiau
+  - siau
+  - tiau
+  - thiau
+  - iauⁿ
+  - hiauh
+  - khiauh
+  - ngiauh
+  - bih
+  - chih
+  - chhih
+  - khih
+  - mih
+  - nih
+  - pih
+  - phih
+  - sih
+  - tih
+  - thih
+  - im
+  - chim
+  - chhim
+  - gim
+  - him
+  - jim
+  - kim
+  - khim
+  - lim
+  - sim
+  - tim
+  - thim
+  - in
+  - bin
+  - chin
+  - chhin
+  - gin
+  - hin
+  - jin
+  - kin
+  - khin
+  - lin
+  - pin
+  - phin
+  - sin
+  - tin
+  - thin
+  - io
+  - bio
+  - chio
+  - chhio
+  - gio
+  - hio
+  - jio
+  - kio
+  - khio
+  - lio
+  - pio
+  - phio
+  - sio
+  - tio
+  - thio
+  - ioh
+  - chioh
+  - chhioh
+  - gioh
+  - hioh
+  - kioh
+  - khioh
+  - lioh
+  - sioh
+  - tioh
+  - iok
+  - chiok
+  - chhiok
+  - giok
+  - hiok
+  - jiok
+  - kiok
+  - khiok
+  - liok
+  - siok
+  - tiok
+  - thiok
+  - iong
+  - chiong
+  - chhiong
+  - giong
+  - hiong
+  - jiong
+  - kiong
+  - khiong
+  - liong
+  - siong
+  - tiong
+  - thiong
+  - ip
+  - chip
+  - chhip
+  - hip
+  - jip
+  - kip
+  - khip
+  - lip
+  - sip
+  - it
+  - bit
+  - chit
+  - chhit
+  - hit
+  - jit
+  - kit
+  - khit
+  - pit
+  - phit
+  - sit
+  - tit
+  - iu
+  - biu
+  - chiu
+  - chhiu
+  - giu
+  - hiu
+  - jiu
+  - kiu
+  - khiu
+  - liu
+  - miu[c]
+  - niu
+  - piu
+  - siu
+  - tiu
+  - thiu
+  - iuⁿ
+  - chiuⁿ
+  - chhiuⁿ
+  - hiuⁿ
+  - kiuⁿ
+  - khiuⁿ
+  - siuⁿ
+  - tiuⁿ
+  - iuhⁿ
+  - hiuhⁿ
+  - m
+  - hm
+  - hmh
+  - ng
+  - chng
+  - chhng
+  - hng
+  - kng
+  - khng
+  - mng
+  - nng
+  - png
+  - sng
+  - tng
+  - thng
+  - chhngh
+  - hngh
+  - phngh
+  - sngh
+  - o
+  - bo
+  - cho
+  - chho
+  - go
+  - ho
+  - ko
+  - kho
+  - lo
+  - po
+  - pho
+  - so
+  - to
+  - tho
+  - oⁿ
+  - hoⁿ
+  - koⁿ
+  - o͘
+  - bo͘
+  - cho͘
+  - chho͘
+  - go͘
+  - ho͘
+  - ko͘
+  - kho͘
+  - lo͘
+  - mo͘
+  - no͘
+  - ngo͘
+  - po͘
+  - pho͘
+  - so͘
+  - to͘
+  - tho͘
+  - oa
+  - boa
+  - choa
+  - chhoa
+  - goa
+  - hoa
+  - koa
+  - khoa
+  - loa
+  - moa
+  - noa
+  - poa
+  - phoa
+  - soa
+  - toa
+  - thoa
+  - oaⁿ
+  - chhoaⁿ
+  - hoaⁿ
+  - koaⁿ
+  - khoaⁿ
+  - poaⁿ
+  - phoaⁿ
+  - soaⁿ
+  - toaⁿ
+  - thoaⁿ
+  - oah
+  - boah
+  - choah
+  - chhoah
+  - hoah
+  - joah
+  - koah
+  - khoah
+  - loah
+  - poah
+  - phoah
+  - soah
+  - thoah
+  - oai
+  - hoai
+  - koai
+  - khoai
+  - soai
+  - oaiⁿ
+  - choaiⁿ
+  - hoaiⁿ
+  - koaiⁿ
+  - soaiⁿ
+  - oan
+  - boan
+  - choan
+  - chhoan
+  - goan
+  - hoan
+  - koan
+  - khoan
+  - loan
+  - poan
+  - phoan
+  - soan
+  - toan
+  - thoan
+  - oang
+  - chhoang
+  - hoang
+  - oat
+  - boat
+  - choat
+  - goat
+  - hoat
+  - koat
+  - khoat
+  - loat
+  - poat
+  - phoat
+  - soat
+  - toat
+  - thoat
+  - oe
+  - boe
+  - choe
+  - chhoe
+  - goe
+  - hoe
+  - joe
+  - koe
+  - khoe
+  - loe
+  - poe
+  - phoe
+  - soe
+  - toe
+  - oeh
+  - boeh
+  - goeh
+  - hoeh
+  - koeh
+  - khoeh
+  - poeh
+  - phoeh
+  - soeh
+  - oh
+  - choh
+  - chhoh
+  - hoh
+  - koh
+  - loh
+  - poh
+  - phoh
+  - soh
+  - toh
+  - thoh
+  - mo͘h
+  - ohⁿ
+  - hohⁿ
+  - ok
+  - bok
+  - chok
+  - chhok
+  - gok
+  - hok
+  - kok
+  - khok
+  - lok
+  - pok
+  - phok
+  - sok
+  - tok
+  - thok
+  - om
+  - som
+  - tom
+  - ong
+  - bong
+  - chong
+  - chhong
+  - gong
+  - hong
+  - kong
+  - khong
+  - long
+  - pong
+  - phong
+  - song
+  - tong
+  - thong
+  - u
+  - bu
+  - chu
+  - chhu
+  - gu
+  - hu
+  - ju
+  - ku
+  - khu
+  - lu
+  - pu
+  - phu
+  - su
+  - tu
+  - thu
+  - uh
+  - chuh
+  - chhuh
+  - khuh
+  - puh
+  - phuh
+  - tuh
+  - thuh
+  - ui
+  - bui
+  - chui
+  - chhui
+  - gui
+  - hui
+  - kui
+  - khui
+  - lui
+  - mui
+  - pui
+  - phui
+  - sui
+  - tui
+  - thui
+  - un
+  - bun
+  - chun
+  - chhun
+  - gun
+  - hun
+  - jun
+  - kun
+  - khun
+  - lun
+  - pun
+  - phun
+  - sun
+  - tun
+  - thun
+  - ut
+  - but
+  - chut
+  - chhut
+  - hut
+  - kut
+  - khut
+  - lut
+  - put
+  - phut
+  - sut
+  - tut
+  - thut

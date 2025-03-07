@@ -10,6 +10,14 @@ import { load } from "js-yaml";
 import { readFileSync, writeFileSync } from "node:fs";
 import { toTL, toPOJ, toTLBulk, toPOJBulk } from "./pojtl.ts";
 
+function uniq<T>(arr: T[]) {
+  const set = new Set<T>();
+  for (const it of arr) {
+    set.add(it);
+  }
+  return [...set];
+}
+
 /**
  * Take a syllable without a tone, then return versions of it with input tones
  * at the end.
@@ -52,10 +60,18 @@ ${[...data].map(([inputForm, output]) => `${output}\t${inputForm}`).join("\n")}
 
 const syllables = load(
   readFileSync("./all-syllables.yml", { encoding: "utf-8" }),
-) as string[];
+) as { kip: string[]; poj: string[] };
 const inputToTL = new Map<string, string>();
 const inputToPOJ = new Map<string, string>();
-const inputForms = syllables.flatMap(allTones);
+// Allow input in either POJ or TL
+// This does make converting from POJ or TL to input form ambiguous. We can
+// worry about that later.
+// ...maybe we can just allow either? Typing chhoe with tshue might be too
+// weird, but typing 揣 with either is definitely fine.
+const inputForms = uniq([
+  ...syllables.kip.flatMap(allTones),
+  ...syllables.poj.flatMap(allTones),
+]);
 const kip = await toTLBulk(inputForms);
 const poj = await toPOJBulk(inputForms);
 let i = 0;
