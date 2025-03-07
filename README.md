@@ -49,6 +49,8 @@ Ministry of Education [actually has a Taigi input method](https://language.moe.g
 - glll4678/rime-taigi
 - https://xishansnow.github.io/posts/41ac964d
 
+https://github.com/LEOYoon-Tsaw/Rime_collections/blob/master/Rime_description.md
+
 ## (An attempt at an) editing guideline
 
 - Han character choice in multi-char words: choose whatever MoE chooses. Except: 台 > 臺 due to popular usage.
