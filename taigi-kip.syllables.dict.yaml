@@ -12,23 +12,7 @@
 name: taigi-kip.syllables
 version: "2025-03-01"
 sort: by_weight
-...
-
-# All licit syllables
-# Thanks Wikipedia
-# https://en.wikipedia.org/wiki/T%C3%A2i-u%C3%A2n_L%C3%B4-m%C3%A1-j%C4%AB_Phing-im_Hong-%C3%A0n#:~:text=hide-,Licit%20syllables,-%5B2%5D
-#
-# How: select the table, then
-#
-#   [...$0.querySelectorAll("td")]
-#   .map((it) => it.textContent)
-#   .filter((it) => it.trim().length > 0)
-#   .map((it) => `${it}\t${it}`)
-#   .join("\n")
-#
-# Wikipedia cites
-# https://language.moe.gov.tw/files/people_files/tshiutsheh_1130826.pdf
-# But that file isn't available right now :shrug:
+---
 # TODO: (big todo) tones
 # For every one of these:
 # No extra input = base tone
@@ -37,6 +21,10 @@ sort: by_weight
 # For -p, -t, -k, -h: 4 is base, 8 is tone 8
 # For everything else: 1 is base, 4 and 8 are invalid
 # 9 is... sometimes valid... I guess...
+#
+# Without supporting "no extra input" case:
+# - -p, -t, -k, -h: 2, 3, 4, 5, 6, 7, 8
+# - everything else: 1, 2, 3, 5, 6, 7
 
 a	a
 ba	ba
