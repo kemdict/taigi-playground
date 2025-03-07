@@ -5,13 +5,14 @@
 #
 # All possible syllables. I'm not sure RIME can do Emacs IME-style direct
 # replacements for the actual input itself.
+#
+# FIXME: currently all input is in KIP.
 
 ---
 name: taigi-poj.syllables
 version: "2025-03-08"
 sort: by_weight
 ---
-
 a	a1
 á	a2
 à	a3
