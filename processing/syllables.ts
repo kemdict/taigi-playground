@@ -33,7 +33,8 @@ const syllables = load(
 // Multiple input forms map to the same output form. That's unchangable
 // and fine. But when going from the output form to input form, a reasonable
 // choice should be made: for -p, -k, -t, -h no tone is 4, otherwise it's 1.
-// FIXME: right now no-tone output forms all map to tone 4.
+// (Even though tone 6 sounds the same as tone 1, in writing it is different, so
+// the distinction is kept here.)
 
 // "Input form" is what the user actually types, with the tone attached as a
 // number at the end of the syllable. This naming is inspired by
@@ -67,6 +68,13 @@ for (let i = 0; i < pojInputForms.length; i++) {
   const outputPoj = pojInputToPojOutput[i];
   inputToKIP.set(inputForm, outputKip);
   inputToPOJ.set(inputForm, outputPoj);
+  if (inputForm.at(-2)?.match(/[pkth]/)) {
+    // reject tone 1 for -p, -k, -t, -h
+    if (inputForm.endsWith("1")) continue;
+  } else {
+    // reject tone 4 for everything else
+    if (inputForm.endsWith("4")) continue;
+  }
   toInputPOJ.set(outputKip, inputForm);
   toInputPOJ.set(outputPoj, inputForm);
 }
@@ -80,6 +88,13 @@ for (let i = 0; i < pojInputForms.length; i++) {
   const outputPoj = kipInputToPojOutput[i];
   inputToKIP.set(inputForm, outputKip);
   inputToPOJ.set(inputForm, outputPoj);
+  if (inputForm.at(-2)?.match(/[pkth]/)) {
+    // reject tone 1 for -p, -k, -t, -h
+    if (inputForm.endsWith("1")) continue;
+  } else {
+    // reject tone 4 for everything else
+    if (inputForm.endsWith("4")) continue;
+  }
   toInputKIP.set(outputKip, inputForm);
   toInputKIP.set(outputPoj, inputForm);
 }
