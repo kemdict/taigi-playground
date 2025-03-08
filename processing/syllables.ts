@@ -34,33 +34,42 @@ function allTones(plainSyllable: string) {
 const syllables = load(
   readFileSync("./all-syllables.yml", { encoding: "utf-8" }),
 ) as { kip: string[]; poj: string[] };
-export const inputToTL = new Map<string, string>();
+
+// "Input form" is what the user actually types, with the tone attached as a
+// number at the end of the syllable. This naming is inspired by
+// ChhoeTaigiDatabase. gua2 is the input form, while guá is its output.
+
+// Here, the point is that we don't care about whether the key is POJ or KIP,
+// which gives us 4 versions:
+// - (kipInputForm or pojInputForm) to kip
+// - (kipInputForm or pojInputForm) to poj
+// - (kip or poj) to kipInputForm
+// - (kip or poj) to pojInputForm
+/** Map from either input form to KIP */
+export const inputToKIP = new Map<string, string>();
+/** Map from either input form to POJ */
 export const inputToPOJ = new Map<string, string>();
-export const tlToInput = new Map<string, string>();
-export const pojToInput = new Map<string, string>();
-// Allow input in either POJ or TL
-// This does make converting from POJ or TL to input form ambiguous. We can
-// worry about that later.
-// ...maybe we can just allow either? Typing chhoe with tshue might be too
-// weird, but typing 揣 with either is definitely fine.
-const inputForms = uniq([
-  ...syllables.kip.flatMap(allTones),
-  ...syllables.poj.flatMap(allTones),
-]);
-const kip = await toTLBulk(inputForms);
-const poj = await toPOJBulk(inputForms);
-let i = 0;
-for (const inputForm of inputForms) {
-  if (kip[i] === undefined || poj[i] === undefined) {
-    console.log(`Failed for ${inputForm}!`);
-    console.log(`Previous: ${inputForms[i - 1]}, ${kip[i - 1]}, ${poj[i - 1]}`);
-    console.log(`This: ${inputForms[i]}, ${kip[i]}, ${poj[i]}`);
-    console.log(`Next: ${inputForms[i + 1]}, ${kip[i + 1]}, ${poj[i + 1]}`);
-    process.exit(1);
-  }
-  inputToKIP.set(inputForm, kip[i]);
-  inputToPOJ.set(inputForm, poj[i]);
-  tlToInput.set(kip[i], inputForm);
-  pojToInput.set(poj[i], inputForm);
-  i++;
+/** Map from either KIP or POJ to KIP input form */
+export const toInputKIP = new Map<string, string>();
+/** Map from either KIP or POJ to POJ input form */
+export const toInputPOJ = new Map<string, string>();
+
+const pojInputForms = syllables.poj.flatMap(allTones);
+const pojInputToPojOutput = await toPOJBulk(pojInputForms);
+const pojInputToKipOutput = await toKIPBulk(pojInputForms);
+for (let i = 0; i < pojInputForms.length; i++) {
+  inputToKIP.set(pojInputForms[i], pojInputToKipOutput[i]);
+  inputToPOJ.set(pojInputForms[i], pojInputToPojOutput[i]);
+  toInputPOJ.set(pojInputToKipOutput[i], pojInputForms[i]);
+  toInputPOJ.set(pojInputToPojOutput[i], pojInputForms[i]);
+}
+
+const kipInputForms = syllables.kip.flatMap(allTones);
+const kipInputToPojOutput = await toPOJBulk(kipInputForms);
+const kipInputToKipOutput = await toKIPBulk(kipInputForms);
+for (let i = 0; i < pojInputForms.length; i++) {
+  inputToKIP.set(kipInputForms[i], kipInputToKipOutput[i]);
+  inputToPOJ.set(kipInputForms[i], kipInputToPojOutput[i]);
+  toInputKIP.set(kipInputToKipOutput[i], kipInputForms[i]);
+  toInputKIP.set(kipInputToPojOutput[i], kipInputForms[i]);
 }
