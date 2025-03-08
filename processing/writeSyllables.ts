@@ -31,7 +31,10 @@ version: "2025-03-08"
 sort: by_weight
 ...
 
-${[...data].map(([inputForm, output]) => `${output}\t${inputForm}`).join("\n")}
+${[...data]
+  .sort(([inputA], [inputB]) => (inputA < inputB ? -1 : 1))
+  .map(([inputForm, output]) => `${output}\t${inputForm}`)
+  .join("\n")}
 `.trimStart(),
   );
 }
