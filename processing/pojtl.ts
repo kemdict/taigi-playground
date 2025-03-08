@@ -1,5 +1,5 @@
-// const server = "https://pojtl.kemdict.com";
-const server = "http://127.0.0.1:8000";
+const server = "https://pojtl.kemdict.com";
+// const server = "http://127.0.0.1:8000";
 
 /**
  * WIP: convert `text` to input form.
@@ -45,6 +45,7 @@ export async function toPOJ(text: string) {
  * This saves on network overhead.
  */
 export async function toKIPBulk(texts: string[]) {
+  console.log(`Bulk converting ${texts[0]} and others to KIP...`);
   const bulkResult = await toKIP(texts.join("\n"));
   return bulkResult.split("\n");
 }
@@ -56,6 +57,7 @@ export async function toKIPBulk(texts: string[]) {
  * This saves on network overhead.
  */
 export async function toPOJBulk(texts: string[]) {
+  console.log(`Bulk converting ${texts[0]} and others to POJ...`);
   const bulkResult = await toPOJ(texts.join("\n"));
   return bulkResult.split("\n");
 }
