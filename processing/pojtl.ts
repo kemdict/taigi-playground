@@ -5,7 +5,7 @@ const server = "http://127.0.0.1:8000";
  * WIP: convert `text` to input form.
  * We can assume `text` is well-formed, for example:
  *   - Doesn't have multiple tones
- *   - Maybe even "it's a valid sequence already converted in inputToTL or inputToPOJ"
+ *   - Maybe even "it's a valid sequence already converted in inputToKIP or inputToPOJ"
  */
 function toInputFormWIP(text: string) {
   const toneMap = [
@@ -22,7 +22,7 @@ function toInputFormWIP(text: string) {
   const normalized = text.normalize("NFD");
 }
 
-export async function toTL(text: string) {
+export async function toKIP(text: string) {
   const response = await fetch(`${server}/toTL`, {
     method: "POST",
     body: text,
@@ -39,13 +39,13 @@ export async function toPOJ(text: string) {
 }
 
 /**
- * Convert `texts` to TL in bulk.
+ * Convert `texts` to KIP in bulk.
  * `texts` are assumed to not have newlines. They are then concatenated with
  * newlines into one request, then the response is split on newlines again.
  * This saves on network overhead.
  */
-export async function toTLBulk(texts: string[]) {
-  const bulkResult = await toTL(texts.join("\n"));
+export async function toKIPBulk(texts: string[]) {
+  const bulkResult = await toKIP(texts.join("\n"));
   return bulkResult.split("\n");
 }
 

@@ -7,7 +7,7 @@
 // Then the syllables.dict.yaml files will be created in the parent folder.
 
 import { writeFileSync } from "node:fs";
-import { inputToTL, inputToPOJ } from "./syllables.ts";
+import { inputToKIP, inputToPOJ } from "./syllables.ts";
 
 function writeDict(
   path: string,
@@ -36,5 +36,5 @@ ${[...data].map(([inputForm, output]) => `${output}\t${inputForm}`).join("\n")}
   );
 }
 
-writeDict("../taigi-kip.syllables.dict.yaml", "kip", inputToTL);
+writeDict("../taigi-kip.syllables.dict.yaml", "kip", inputToKIP);
 writeDict("../taigi-poj.syllables.dict.yaml", "poj", inputToPOJ);

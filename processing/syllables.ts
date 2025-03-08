@@ -8,7 +8,7 @@
 
 import { load } from "js-yaml";
 import { readFileSync } from "node:fs";
-import { toTL, toPOJ, toTLBulk, toPOJBulk } from "./pojtl.ts";
+import { toKIP, toPOJ, toKIPBulk, toPOJBulk } from "./pojtl.ts";
 
 function uniq<T>(arr: T[]) {
   const set = new Set<T>();
@@ -58,7 +58,7 @@ for (const inputForm of inputForms) {
     console.log(`Next: ${inputForms[i + 1]}, ${kip[i + 1]}, ${poj[i + 1]}`);
     process.exit(1);
   }
-  inputToTL.set(inputForm, kip[i]);
+  inputToKIP.set(inputForm, kip[i]);
   inputToPOJ.set(inputForm, poj[i]);
   tlToInput.set(kip[i], inputForm);
   pojToInput.set(poj[i], inputForm);
