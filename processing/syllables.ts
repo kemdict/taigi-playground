@@ -1,10 +1,7 @@
 // Call the pojtl service, which calls the KeSi library, to convert input
 // syllables into fully formed output syllables.
 //
-// Calling this file:
-//   cd processing/
-//   bun syllables.ts
-// Then the syllables.dict.yaml files will be created in the parent folder.
+// Using this file: import the inputToKIP, inputToPOJ, toInputKIP, or toInputPOJ maps.
 
 import { load } from "js-yaml";
 import { readFileSync } from "node:fs";
