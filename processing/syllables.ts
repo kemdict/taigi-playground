@@ -38,6 +38,8 @@ const syllables = load(
 // "Input form" is what the user actually types, with the tone attached as a
 // number at the end of the syllable. This naming is inspired by
 // ChhoeTaigiDatabase. gua2 is the input form, while guá is its output.
+// POJ input form has additional changes: ⁿ is nn, and o͘ is oo, because the
+// original characters are not on keyboards.
 
 // Here, the point is that we don't care about whether the key is POJ or KIP,
 // which gives us 4 versions:
@@ -54,7 +56,9 @@ export const toInputKIP = new Map<string, string>();
 /** Map from either KIP or POJ to POJ input form */
 export const toInputPOJ = new Map<string, string>();
 
-const pojInputForms = syllables.poj.flatMap(allTones);
+const pojInputForms = syllables.poj
+  .flatMap(allTones)
+  .map((s) => s.replaceAll("ⁿ", "nn").replaceAll("o͘", "oo"));
 const pojInputToPojOutput = await toPOJBulk(pojInputForms);
 const pojInputToKipOutput = await toKIPBulk(pojInputForms);
 for (let i = 0; i < pojInputForms.length; i++) {
