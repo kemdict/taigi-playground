@@ -77,3 +77,26 @@ for (let i = 0; i < pojInputForms.length; i++) {
   toInputKIP.set(kipInputToKipOutput[i], kipInputForms[i]);
   toInputKIP.set(kipInputToPojOutput[i], kipInputForms[i]);
 }
+
+if (
+  inputToKIP.size < 9000 ||
+  inputToPOJ.size < 9000 ||
+  toInputKIP.size < 9000 ||
+  toInputPOJ.size < 9000
+) {
+  console.log("Something failed, a map is abnormally small!");
+  process.exit(1);
+}
+
+export function toKIPOutput(input: string) {
+  return inputToKIP.get(input);
+}
+export function toPOJOutput(input: string) {
+  return inputToPOJ.get(input);
+}
+export function toKIPInput(output: string) {
+  return toInputKIP.get(output);
+}
+export function toPOJInput(output: string) {
+  return toInputPOJ.get(output);
+}
