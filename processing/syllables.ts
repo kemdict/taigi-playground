@@ -10,14 +10,6 @@ import { load } from "js-yaml";
 import { readFileSync } from "node:fs";
 import { toKIP, toPOJ, toKIPBulk, toPOJBulk } from "./pojtl.ts";
 
-function uniq<T>(arr: T[]) {
-  const set = new Set<T>();
-  for (const it of arr) {
-    set.add(it);
-  }
-  return [...set];
-}
-
 /**
  * Take a syllable without a tone, then return versions of it with input tones
  * at the end.
@@ -64,6 +56,8 @@ const pojInputToKipOutput = await toKIPBulk(pojInputForms);
 for (let i = 0; i < pojInputForms.length; i++) {
   inputToKIP.set(pojInputForms[i], pojInputToKipOutput[i]);
   inputToPOJ.set(pojInputForms[i], pojInputToPojOutput[i]);
+  // FIXME: empty tone should be 1, 4, or 6 depending on context, but are always
+  // 4 right now
   toInputPOJ.set(pojInputToKipOutput[i], pojInputForms[i]);
   toInputPOJ.set(pojInputToPojOutput[i], pojInputForms[i]);
 }
@@ -74,6 +68,8 @@ const kipInputToKipOutput = await toKIPBulk(kipInputForms);
 for (let i = 0; i < pojInputForms.length; i++) {
   inputToKIP.set(kipInputForms[i], kipInputToKipOutput[i]);
   inputToPOJ.set(kipInputForms[i], kipInputToPojOutput[i]);
+  // FIXME: empty tone should be 1, 4, or 6 depending on context, but are always
+  // 4 right now
   toInputKIP.set(kipInputToKipOutput[i], kipInputForms[i]);
   toInputKIP.set(kipInputToPojOutput[i], kipInputForms[i]);
 }
@@ -86,17 +82,4 @@ if (
 ) {
   console.log("Something failed, a map is abnormally small!");
   process.exit(1);
-}
-
-export function toKIPOutput(input: string) {
-  return inputToKIP.get(input);
-}
-export function toPOJOutput(input: string) {
-  return inputToPOJ.get(input);
-}
-export function toKIPInput(output: string) {
-  return toInputKIP.get(output);
-}
-export function toPOJInput(output: string) {
-  return toInputPOJ.get(output);
 }
