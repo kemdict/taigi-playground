@@ -23,9 +23,12 @@ export class Word {
   /** Internally this splits `word` into syllables. */
   constructor(word: string) {
     this.syllables = [];
-    for (const segment of interpose("--", word.split("--"))) {
-      for (const syllable of interpose("-", segment.split("-"))) {
-        this.syllables.push(syllable);
+    // HACK: I'm sure there's a better way, but... whatever.
+    for (const l1 of interpose("--", word.split("--"))) {
+      for (const l2 of interpose("-", l1.split("-"))) {
+        for (const l3 of interpose(" ", l2.split(" "))) {
+          this.syllables.push(l3);
+        }
       }
     }
   }
