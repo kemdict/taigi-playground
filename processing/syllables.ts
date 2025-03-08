@@ -27,6 +27,14 @@ const syllables = load(
   readFileSync("./all-syllables.yml", { encoding: "utf-8" }),
 ) as { kip: string[]; poj: string[] };
 
+// FIXME: -p, -k, -t, -h only have tone 4 and 8. Should we allow, for example,
+// typing kǐp with kip6?
+//
+// Multiple input forms map to the same output form. That's unchangable
+// and fine. But when going from the output form to input form, a reasonable
+// choice should be made: for -p, -k, -t, -h no tone is 4, otherwise it's 1.
+// FIXME: right now no-tone output forms all map to tone 4.
+
 // "Input form" is what the user actually types, with the tone attached as a
 // number at the end of the syllable. This naming is inspired by
 // ChhoeTaigiDatabase. gua2 is the input form, while guá is its output.
@@ -54,24 +62,26 @@ const pojInputForms = syllables.poj
 const pojInputToPojOutput = await toPOJBulk(pojInputForms);
 const pojInputToKipOutput = await toKIPBulk(pojInputForms);
 for (let i = 0; i < pojInputForms.length; i++) {
-  inputToKIP.set(pojInputForms[i], pojInputToKipOutput[i]);
-  inputToPOJ.set(pojInputForms[i], pojInputToPojOutput[i]);
-  // FIXME: empty tone should be 1, 4, or 6 depending on context, but are always
-  // 4 right now
-  toInputPOJ.set(pojInputToKipOutput[i], pojInputForms[i]);
-  toInputPOJ.set(pojInputToPojOutput[i], pojInputForms[i]);
+  const inputForm = pojInputForms[i];
+  const outputKip = pojInputToKipOutput[i];
+  const outputPoj = pojInputToPojOutput[i];
+  inputToKIP.set(inputForm, outputKip);
+  inputToPOJ.set(inputForm, outputPoj);
+  toInputPOJ.set(outputKip, inputForm);
+  toInputPOJ.set(outputPoj, inputForm);
 }
 
 const kipInputForms = syllables.kip.flatMap(allTones);
 const kipInputToPojOutput = await toPOJBulk(kipInputForms);
 const kipInputToKipOutput = await toKIPBulk(kipInputForms);
 for (let i = 0; i < pojInputForms.length; i++) {
-  inputToKIP.set(kipInputForms[i], kipInputToKipOutput[i]);
-  inputToPOJ.set(kipInputForms[i], kipInputToPojOutput[i]);
-  // FIXME: empty tone should be 1, 4, or 6 depending on context, but are always
-  // 4 right now
-  toInputKIP.set(kipInputToKipOutput[i], kipInputForms[i]);
-  toInputKIP.set(kipInputToPojOutput[i], kipInputForms[i]);
+  const inputForm = kipInputForms[i];
+  const outputKip = kipInputToKipOutput[i];
+  const outputPoj = kipInputToPojOutput[i];
+  inputToKIP.set(inputForm, outputKip);
+  inputToPOJ.set(inputForm, outputPoj);
+  toInputKIP.set(outputKip, inputForm);
+  toInputKIP.set(outputPoj, inputForm);
 }
 
 if (
