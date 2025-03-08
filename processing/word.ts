@@ -50,3 +50,27 @@ export class Word {
     return convertAndJoinSyllables(this.syllables, toInputPOJ);
   }
 }
+
+/**
+ * Convert `word` to KIP input form.
+ *
+ * Instead of calling both this function and `wordToInputPoj`, make a `Word`
+ * instance instead, since there is syllable splitting work that can be shared
+ * across the two operations.
+ *
+ * Slower: wordToInputKip(word); wordToInputPoj(word)
+ * Faster: let wordObj = new Word(word); wordObj.inputKip; wordObj.inputPoj
+ */
+export function wordToInputKip(word: string) {
+  return new Word(word).inputKip;
+}
+/**
+ * Convert `word` to POJ input form.
+ *
+ * Instead of calling both this function and `wordToInputKip`, make a `Word`
+ * instance instead, since there is syllable splitting work that can be shared
+ * across the two operations.
+ */
+export function wordToInputPoj(word: string) {
+  return new Word(word).inputPoj;
+}
