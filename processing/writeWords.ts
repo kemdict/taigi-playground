@@ -49,7 +49,7 @@ LIMIT 10000
 async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
   const rawWords = getWords();
   let lines: string[] = [];
-  let essayLines: string[] = [];
+  let essayLines = new Set<string>();
   let i = 0;
   const titles = new Set<string>();
   const pns = new Set<string>();
@@ -63,13 +63,13 @@ async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
       titles.add(nTitle);
       pns.add(nPn);
       lines.push(`${nTitle}\t${nPn}`);
-      essayLines.push(nTitle);
+      essayLines.add(nTitle);
     }
     if (!(titles.has(nPn) && pns.has(nPn))) {
       titles.add(nPn);
       pns.add(nPn);
       lines.push(`${nPn}\t${nPn}`);
-      essayLines.push(nPn);
+      essayLines.add(nPn);
     }
     i++;
     if (i % 1000 === 0) {
@@ -98,7 +98,7 @@ ${lines.sort().join("\n")}
 `.trimStart(),
   );
 
-  writeFileSync(essayPath, essayLines.sort().join("\n"));
+  writeFileSync(essayPath, [...essayLines].sort().join("\n"));
 }
 
 writeDict("../taigi-kip.words.dict.yaml", "../essay-taigi.txt", "kip");
