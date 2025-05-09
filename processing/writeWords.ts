@@ -3,6 +3,15 @@ import { z } from "zod";
 import { Database } from "bun:sqlite";
 import { writeFileSync } from "node:fs";
 
+/**
+ * Normalize `pn` so that it's searchable with an ASCII keyboard.
+ */
+function pnToImpreciseInputForm(pn: string) {
+  let ret = pn.replaceAll("ⁿ", "nn").normalize("NFKD");
+  ret = [...ret].filter((c) => c.charCodeAt(0) < 128).join("");
+  return ret;
+}
+
 function getWords(): Array<{ title: string; pn: string }> {
   const kemdictDir = "../../kemdict/";
   const kemdictDb = kemdictDir + "dicts/entries.db";
@@ -58,7 +67,7 @@ async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
       type === "kip"
         ? await toKIPBulk([pn, title])
         : await toPOJBulk([pn, title]);
-    nPn = nPn.toLowerCase();
+    nPn = pnToImpreciseInputForm(nPn.toLowerCase());
     if (!(titles.has(nTitle) && pns.has(nPn))) {
       titles.add(nTitle);
       pns.add(nPn);
