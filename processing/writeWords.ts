@@ -1,4 +1,4 @@
-import { toKIP, toPOJ } from "./pojtl";
+import { toKIP, toKIPBulk, toPOJ, toPOJBulk } from "./pojtl";
 import { z } from "zod";
 import { Database } from "bun:sqlite";
 import { writeFileSync } from "node:fs";
@@ -26,7 +26,8 @@ LEFT JOIN aliases ON heteronyms.id = aliases.het_id
 WHERE lang = 'nan_TW'
   AND pn != title
   AND aliases.exact = 1
-LIMIT 100
+ORDER BY title
+LIMIT 10000
 `,
       )
       .all(),

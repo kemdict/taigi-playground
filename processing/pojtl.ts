@@ -32,7 +32,7 @@ export async function toPOJ(text: string) {
  * This saves on network overhead.
  */
 export async function toKIPBulk(texts: string[]) {
-  console.log(`Bulk converting ${texts[0]} and others to KIP...`);
+  // console.log(`Bulk converting ${texts[0]} and others to KIP...`);
   const bulkResult = await toKIP(texts.join("\n"));
   return bulkResult.split("\n");
 }
@@ -44,7 +44,7 @@ export async function toKIPBulk(texts: string[]) {
  * This saves on network overhead.
  */
 export async function toPOJBulk(texts: string[]) {
-  console.log(`Bulk converting ${texts[0]} and others to POJ...`);
+  // console.log(`Bulk converting ${texts[0]} and others to POJ...`);
   const bulkResult = await toPOJ(texts.join("\n"));
   return bulkResult.split("\n");
 }
