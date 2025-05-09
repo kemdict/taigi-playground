@@ -46,9 +46,10 @@ LIMIT 10000
     }));
 }
 
-async function writeDict(path: string, type: "kip" | "poj") {
+async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
   const rawWords = getWords();
   let lines: string[] = [];
+  let essayLines: string[] = [];
   let i = 0;
   const titles = new Set<string>();
   const pns = new Set<string>();
@@ -57,10 +58,19 @@ async function writeDict(path: string, type: "kip" | "poj") {
       type === "kip"
         ? await toKIPBulk([pn, title])
         : await toPOJBulk([pn, title]);
-    if (titles.has(nTitle) && pns.has(nPn)) continue;
-    titles.add(nTitle);
-    pns.add(nPn);
-    lines.push(`${nTitle}\t${nPn}`);
+    nPn = nPn.toLowerCase();
+    if (!(titles.has(nTitle) && pns.has(nPn))) {
+      titles.add(nTitle);
+      pns.add(nPn);
+      lines.push(`${nTitle}\t${nPn}`);
+      essayLines.push(nTitle);
+    }
+    if (!(titles.has(nPn) && pns.has(nPn))) {
+      titles.add(nPn);
+      pns.add(nPn);
+      lines.push(`${nPn}\t${nPn}`);
+      essayLines.push(nPn);
+    }
     i++;
     if (i % 1000 === 0) {
       console.log(`${new Date().toISOString()}: convert ${i}`);
@@ -83,10 +93,12 @@ version: "2025-05-09"
 sort: by_weight
 ...
 
-${lines.join("\n")}
+${lines.sort().join("\n")}
 
 `.trimStart(),
   );
+
+  writeFileSync(essayPath, essayLines.sort().join("\n"));
 }
 
-writeDict("../taigi-kip.words.dict.yaml", "kip");
+writeDict("../taigi-kip.words.dict.yaml", "../essay-taigi.txt", "kip");
