@@ -32,9 +32,18 @@ LIMIT 10000
       )
       .all(),
   );
-  return words.filter(
-    ({ title }) => !title.startsWith("(") && !title.includes("。"),
-  );
+  return words
+    .filter(
+      ({ title, pn }) =>
+        !title.startsWith("(") &&
+        !title.includes("。") &&
+        !pn.startsWith("*") &&
+        !pn.startsWith("["),
+    )
+    .map(({ title, pn }) => ({
+      title: title.replaceAll("(泉)", ""),
+      pn: pn.replaceAll("(泉)", ""),
+    }));
 }
 
 async function writeDict(path: string, type: "kip" | "poj") {
