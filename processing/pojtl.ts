@@ -2,8 +2,12 @@
 // This is less work than porting the Python library to JS, and less hassle than
 // directly setting up a Python workspace and calling Python via subprocesses.
 
-const server = "https://pojtl.kemdict.com";
-// const server = "http://127.0.0.1:8000";
+let server = "https://pojtl.kemdict.com";
+await fetch("http://127.0.0.1:8000")
+  .then(() => {
+    server = "http://127.0.0.1:8000";
+  })
+  .catch(() => {});
 
 export async function toKIP(text: string) {
   const response = await fetch(`${server}/toTL`, {
