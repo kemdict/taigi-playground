@@ -34,7 +34,24 @@ LIMIT 100
   return words;
 }
 
-function writeDict(path: string, type: "kip" | "poj") {
+async function writeDict(path: string, type: "kip" | "poj") {
+  const rawWords = getWords();
+  let lines: string[] = [];
+  let i = 0;
+  for (const { title, pn } of rawWords) {
+    if (type === "kip") {
+      const kip = await toKIP(pn);
+      lines.push(`${title}\t${kip}`);
+      i++;
+      console.log(`convert ${i}`);
+    } else {
+      const poj = await toPOJ(pn);
+      lines.push(`${title}\t${poj}`);
+      i++;
+      console.log(`convert ${i}`);
+    }
+  }
+
   writeFileSync(
     path,
     `
@@ -51,16 +68,10 @@ version: "2025-05-09"
 sort: by_weight
 ...
 
-${getWords().map(({ title, pn }) => {
-  const kip = toKIP(pn);
-  const poj = toPOJ(pn);
-  if (type === "kip") {
-    return `${title}\t${kip}`;
-  } else {
-    return `${title}\t${poj}`;
-  }
-})}
+${lines.join("\n")}
 
 `.trimStart(),
   );
 }
+
+writeDict("../taigi-kip.words.dict.yaml", "kip");
