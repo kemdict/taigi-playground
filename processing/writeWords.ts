@@ -31,7 +31,9 @@ LIMIT 100
       )
       .all(),
   );
-  return words;
+  return words.filter(
+    ({ title }) => !title.startsWith("(") && !title.includes("。"),
+  );
 }
 
 async function writeDict(path: string, type: "kip" | "poj") {
