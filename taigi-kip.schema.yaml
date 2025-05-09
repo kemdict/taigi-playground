@@ -38,9 +38,10 @@ engine:
     - matcher
     - abc_segmentor
     - punct_segmentor
-    - fullback_segmentor
+    - fallback_segmentor
   translators:
     - punct_translator
+    - table_translator@custom_phrase
     - script_translator
   filters:
     - uniquifier
@@ -51,13 +52,26 @@ translator:
   spelling_hints: 8
   always_show_comments: true
   # preedit_format:
+  #   - xlit/a/b/
   # comment_format:
 
+custom_phrase:
+  dictionary: ""
+  user_dict: custom_phrase
+  db_class: stabledb
+  enable_completion: false
+  enable_sentence: false
+  initial_quality: 1
+
+menu:
+  alternative_select_keys: "ABCDEFGHIJ"
+
 speller:
-  alphabet: "abceghijklmnoprstu123456789-"
+  alphabet: "abceghijklmnoprstu 123456789-"
   initials: "abceghijklmnoprstu"
-  finals: "123456789-"
+  finals: " 123456789-"
   delimiter: " "
+  use_space: true
   algebra:
     - derive/\d$// # Ignore tones
     - xform/oonn/onn/ # misspell helper
