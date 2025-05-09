@@ -7,7 +7,7 @@ import { writeFileSync } from "node:fs";
  * Normalize `pn` so that it's searchable with an ASCII keyboard.
  */
 function pnToImpreciseInputForm(pn: string) {
-  let ret = pn.replaceAll("ⁿ", "nn").normalize("NFKD");
+  let ret = pn.replaceAll("ⁿ", "nn").replaceAll("-", " ").normalize("NFKD");
   ret = [...ret].filter((c) => c.charCodeAt(0) < 128).join("");
   return ret;
 }
@@ -67,17 +67,18 @@ async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
       type === "kip"
         ? await toKIPBulk([pn, title])
         : await toPOJBulk([pn, title]);
-    nPn = pnToImpreciseInputForm(nPn.toLowerCase());
+    nPn = nPn.toLowerCase();
+    const inputForm = pnToImpreciseInputForm(nPn);
     if (!(titles.has(nTitle) && pns.has(nPn))) {
       titles.add(nTitle);
       pns.add(nPn);
-      lines.push(`${nTitle}\t${nPn}`);
+      lines.push(`${nTitle}\t${inputForm}`);
       essayLines.add(nTitle);
     }
     if (!(titles.has(nPn) && pns.has(nPn))) {
       titles.add(nPn);
       pns.add(nPn);
-      lines.push(`${nPn}\t${nPn}`);
+      lines.push(`${nPn}\t${inputForm}`);
       essayLines.add(nPn);
     }
     i++;

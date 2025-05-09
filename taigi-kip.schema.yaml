@@ -130,11 +130,11 @@ menu:
   alternative_select_keys: "ABCDEFGHIJ"
 
 speller:
-  alphabet: "abceghijklmnoprstu 123456789-"
+  alphabet: "abceghijklmnoprstu123456789-"
   initials: "abceghijklmnoprstu"
-  finals: " 123456789-"
+  finals: "123456789-"
   delimiter: " "
-  use_space: true
+  # use_space: true
   algebra:
     - derive/\d$// # Ignore tones
     - xform/oonn/onn/ # misspell helper
