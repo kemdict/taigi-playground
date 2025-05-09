@@ -20,7 +20,7 @@ switches:
     states: ["半形", "全形"]
   - name: han
     reset: 0
-    options: [han, lomaji] # should we add han_simp?
+    options: [han, lomaji]
     states: ["漢羅", "tsuân-lô"]
 
 engine:
@@ -53,7 +53,70 @@ translator:
   always_show_comments: true
   # preedit_format:
   #   - xlit/a/b/
-  # comment_format:
+  comment_format:
+    - xform/a1/a/
+    - xform/a2/á/
+    - xform/a3/à/
+    - xform/a4/a/
+    - xform/a5/â/
+    - xform/a6/ǎ/
+    - xform/a7/ā/
+    - xform/a8/a̍/
+    - xform/a9/a̋/
+    - xform/e1/e/
+    - xform/e2/é/
+    - xform/e3/è/
+    - xform/e4/e/
+    - xform/e5/ê/
+    - xform/e6/ě/
+    - xform/e7/ē/
+    - xform/e8/e̍/
+    - xform/e9/e̋/
+    - xform/i1/i/
+    - xform/i2/í/
+    - xform/i3/ì/
+    - xform/i4/i/
+    - xform/i5/î/
+    - xform/i6/ǐ/
+    - xform/i7/ī/
+    - xform/i8/i̍/
+    - xform/i9/i̋/
+    - xform/m1/m/
+    - xform/m2/ḿ/
+    - xform/m3/m̀/
+    - xform/m4/m/
+    - xform/m5/m̂/
+    - xform/m6/m̌/
+    - xform/m7/m̄/
+    - xform/m8/m̍/
+    - xform/m9/m̋/
+    - xform/n1/n/
+    - xform/n2/ń/
+    - xform/n3/ǹ/
+    - xform/n4/n/
+    - xform/n5/n̂/
+    - xform/n6/ň/
+    - xform/n7/n̄/
+    - xform/n8/n̍/
+    - xform/n9/n̋/
+    - xform/o1/o/
+    - xform/o2/ó/
+    - xform/o3/ò/
+    - xform/o4/o/
+    - xform/o5/ô/
+    - xform/o6/ǒ/
+    - xform/o7/ō/
+    - xform/o8/o̍/
+    - xform/o9/ő/
+    - xform/u1/u/
+    - xform/u2/ú/
+    - xform/u3/ù/
+    - xform/u4/u/
+    - xform/u5/û/
+    - xform/u6/ǔ/
+    - xform/u7/ū/
+    - xform/u8/u̍/
+    - xform/u9/ű/
 
 custom_phrase:
   dictionary: ""
