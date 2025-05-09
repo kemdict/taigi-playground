@@ -36,7 +36,6 @@ WHERE lang = 'nan_TW'
   AND pn != title
   AND aliases.exact = 1
 ORDER BY title
-LIMIT 10000
 `,
       )
       .all(),
