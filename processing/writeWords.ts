@@ -40,17 +40,20 @@ async function writeDict(path: string, type: "kip" | "poj") {
   const rawWords = getWords();
   let lines: string[] = [];
   let i = 0;
+  const titles = new Set<string>();
+  const pns = new Set<string>();
   for (const { title, pn } of rawWords) {
-    if (type === "kip") {
-      const kip = await toKIP(pn);
-      lines.push(`${title}\t${kip}`);
-      i++;
-      console.log(`convert ${i}`);
-    } else {
-      const poj = await toPOJ(pn);
-      lines.push(`${title}\t${poj}`);
-      i++;
-      console.log(`convert ${i}`);
+    let [nPn, nTitle] =
+      type === "kip"
+        ? await toKIPBulk([pn, title])
+        : await toPOJBulk([pn, title]);
+    if (titles.has(nTitle) && pns.has(nPn)) continue;
+    titles.add(nTitle);
+    pns.add(nPn);
+    lines.push(`${nTitle}\t${nPn}`);
+    i++;
+    if (i % 1000 === 0) {
+      console.log(`${new Date().toISOString()}: convert ${i}`);
     }
   }
 
