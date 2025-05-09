@@ -7,4 +7,5 @@ vocabulary: essay-taigi
 # Like rime-cantonese
 import_tables:
   - taigi-kip.syllables # all possible syllables
+  - taigi-kip.words # words
 ...
