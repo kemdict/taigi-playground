@@ -1,0 +1,3 @@
+[submodule "kesi.ts"]
+	path = kesi.ts
+	url = git@github.com:kemdict/kesi.ts
