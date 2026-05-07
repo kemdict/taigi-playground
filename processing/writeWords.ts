@@ -17,7 +17,8 @@ import { resolve } from "node:path";
 function cleanTitle(title: string) {
   return title
     .replaceAll(/\*\*/gv, "")
-    .replaceAll(/\(([浦泉漳同白文安]|XX)?\)/gv, "")
+    .replaceAll(/\(\*[浦泉漳同白文安]?\)/gv, "")
+    .replaceAll(/\(漳[，,]XX)\)/gv, "")
     .replaceAll(/^(:|##|【俗】)/gv, "");
 }
 
@@ -94,14 +95,17 @@ ORDER BY title
       continue;
     }
 
+    const cleanedTitle = cleanTitle(title);
+    const cleanedPn = cleanPn(pn);
+
     // Just get rid of all the other parens. This is better than giving up Maryknoll...
-    if (/\(|\)|（|）/.test(title) || /\(|\)|（|）/.test(pn)) {
+    if (/\(|\)|（|）/.test(cleanedTitle) || /\(|\)|（|）/.test(cleanedPn)) {
       continue;
     }
 
     words.push({
-      title: cleanTitle(title),
-      pn: cleanPn(pn),
+      title: cleanedTitle,
+      pn: cleanedPn,
     });
   }
 
