@@ -1,4 +1,12 @@
-import { toKIP, toKIPBulk, toPOJ, toPOJBulk } from "./lib/pojtl-native.ts";
+import { toKIP, toKIPBulk, toPOJ, toPOJBulk } from "./lib/pojtl.ts";
+import {
+  toKIPBulk as toKIPBulkNative,
+  toPOJBulk as toPOJBulkNative,
+} from "./lib/pojtl-native.ts";
+
+const native = process.env["NATIVE"];
+console.log(`Using native pojtl: ${!!native}`);
+
 import { z } from "zod";
 import { Database } from "bun:sqlite";
 import { writeFileSync, existsSync } from "node:fs";
@@ -69,7 +77,7 @@ async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
   const titles = new Set<string>();
   const pns = new Set<string>();
   console.log(`Converting raw words (total ${rawWords.length})...`);
-  const newlines: string[] = [];
+  const newlines: [string, string][] = [];
   for (const { title, pn } of rawWords) {
     if (title.includes("\n") || pn.includes("\n")) {
       newlines.push([title, pn]);
@@ -80,11 +88,29 @@ async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
     console.log("Entries with newlines:", newlines);
     process.exit(1);
   }
-  for (const { title, pn } of rawWords) {
-    let [nPn, nTitle] =
-      type === "kip"
-        ? await toKIPBulk([pn, title])
-        : await toPOJBulk([pn, title]);
+  console.log(`Bulk converting all titles to ${type}...`);
+  const kipOrPojTitles = await (
+    type === "kip"
+      ? native
+        ? toKIPBulkNative
+        : toKIPBulk
+      : native
+        ? toPOJBulkNative
+        : toPOJBulk
+  )(rawWords.map(({ title }) => title));
+  console.log(`Bulk converting all pns to ${type}...`);
+  const kipOrPojPns = await (
+    type === "kip"
+      ? native
+        ? toKIPBulkNative
+        : toKIPBulk
+      : native
+        ? toPOJBulkNative
+        : toPOJBulk
+  )(rawWords.map(({ pn }) => pn));
+  for (let i = 0; i < rawWords.length; i++) {
+    let nTitle = kipOrPojTitles[i];
+    let nPn = kipOrPojPns[i];
     nPn = nPn.toLowerCase();
     const inputForm = pnToImpreciseInputForm(nPn);
     if (!(titles.has(nTitle) && pns.has(nPn))) {
@@ -130,5 +156,13 @@ ${lines.sort().join("\n")}
   writeFileSync(essayPath, [...essayLines].sort().join("\n"));
 }
 
-writeDict("../yataigi-kip.words.dict.yaml", "../essay-taigi.txt", "kip");
+if (native) {
+  writeDict(
+    "../yataigi-kip-native.words.dict.yaml",
+    "../essay-taigi-native.txt",
+    "kip",
+  );
+} else {
+  writeDict("../yataigi-kip.words.dict.yaml", "../essay-taigi.txt", "kip");
+}
 // writeDict("../yataigi-poj.words.dict.yaml", "../essay-taigi.txt", "poj");
