@@ -4,8 +4,8 @@ import {
   toPOJBulk as toPOJBulkNative,
 } from "./lib/pojtl-native.ts";
 
-const native = process.env["NATIVE"];
-console.log(`Using native pojtl: ${!!native}`);
+const ipc = process.env["IPC"];
+console.log(`Using pojtl-api: ${!!ipc}`);
 
 import { pnToInputForm } from "./lib/pnToInputForm.ts";
 
@@ -105,8 +105,8 @@ async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
   for (const { title, pn } of rawWords) {
     let [nPn, nTitle] =
       type === "kip"
-        ? await (native ? toKIPBulkNative : toKIPBulk)([pn, title])
-        : await (native ? toPOJBulkNative : toPOJBulk)([pn, title]);
+        ? await (ipc ? toKIPBulk : toKIPBulkNative)([pn, title])
+        : await (ipc ? toPOJBulk : toPOJBulkNative)([pn, title]);
     const inputForm = pnToInputForm(nPn);
     if (!(titles.has(nTitle) && pns.has(nPn))) {
       titles.add(nTitle);
@@ -161,10 +161,10 @@ ${lines
   writeFileSync(essayPath, [...essayLines].sort().join("\n"));
 }
 
-if (native) {
+if (ipc) {
   writeDict(
-    "../yataigi-kip-native.words.dict.yaml",
-    "../essay-taigi-native.txt",
+    "../yataigi-kip-ipc.words.dict.yaml",
+    "../essay-taigi-ipc.txt",
     "kip",
   );
 } else {
