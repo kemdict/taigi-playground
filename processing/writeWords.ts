@@ -1,7 +1,7 @@
 import { toKIP, toKIPBulk, toPOJ, toPOJBulk } from "./pojtl.ts";
 import { z } from "zod";
 import { Database } from "bun:sqlite";
-import { writeFileSync } from "node:fs";
+import { writeFileSync, existsSync } from "node:fs";
 
 /**
  * Normalize `pn` so that it's searchable with an ASCII keyboard.
@@ -15,6 +15,11 @@ function pnToImpreciseInputForm(pn: string) {
 function getWords(): Array<{ title: string; pn: string }> {
   const kemdictDir = "../../kemdict/";
   const kemdictDb = kemdictDir + "dicts/entries.db";
+  if (!existsSync(kemdictDb)) {
+    console.log(`${kemdictDb} not found`);
+    process.exit(1);
+  }
+  console.log("Connecting to local Kemdict database...");
   const db = new Database(kemdictDb, {
     readonly: true,
     create: false,
@@ -26,6 +31,7 @@ function getWords(): Array<{ title: string; pn: string }> {
       pn: z.string(),
     }),
   );
+  console.log("Retrieving words...");
   const words = wordsSchema.parse(
     db
       .prepare(
@@ -61,6 +67,7 @@ async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
   let i = 0;
   const titles = new Set<string>();
   const pns = new Set<string>();
+  console.log("Converting raw words...");
   for (const { title, pn } of rawWords) {
     let [nPn, nTitle] =
       type === "kip"
@@ -86,6 +93,7 @@ async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
     }
   }
 
+  console.log("Writing output...");
   writeFileSync(
     path,
     `
