@@ -15,11 +15,13 @@ import { writeFileSync, existsSync } from "node:fs";
 import { resolve } from "node:path";
 
 function cleanTitle(title: string) {
-  return title.replaceAll(/\([泉漳同]\)/gv, "").replaceAll(/^(:|##)/gv, "");
+  return title
+    .replaceAll(/\([泉漳同]\)/gv, "")
+    .replaceAll(/^(:|##|【俗】)/gv, "");
 }
 
 function cleanPn(pn: string) {
-  return cleanTitle(pn).toLowerCase();
+  return cleanTitle(pn);
 }
 
 function getWords(): Array<{ title: string; pn: string }> {
@@ -59,12 +61,15 @@ ORDER BY title
   const words: typeof rawWords = [];
 
   for (const { title, pn } of rawWords) {
+    if (title.trim() === "") continue;
+    if (pn.trim() === "") continue;
     if (
       title.startsWith("(") ||
       title.includes("。") ||
       title.startsWith("...") ||
       pn.startsWith("*") ||
       pn.startsWith("[") ||
+      pn.startsWith('"') ||
       /^[0-9]/gv.test(pn)
     ) {
       continue;
@@ -142,7 +147,11 @@ ${lines
   .sort((a, b) => {
     // sort by pn
     const re = /[^\t]*\t/;
-    return a.replace(re, "") < b.replace(re, "") ? -1 : 1;
+    const aPn = a.replace(re, "");
+    const bPn = b.replace(re, "");
+    // pn includes paren -> sort to end
+    if (/\(|\)/.test(aPn)) return 1;
+    return aPn < bPn ? -1 : 1;
   })
   .join("\n")}
 
