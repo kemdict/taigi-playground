@@ -16,7 +16,7 @@ import { resolve } from "node:path";
 
 function cleanTitle(title: string) {
   return title
-    .replaceAll(/\([泉漳同]\)/gv, "")
+    .replaceAll(/\([泉漳同白文]\)/gv, "")
     .replaceAll(/^(:|##|【俗】)/gv, "");
 }
 
@@ -66,12 +66,13 @@ ORDER BY title
     if (pn.trim() === "") continue;
     if (
       title.startsWith("(") ||
-      title.includes("。") ||
+      /。|\.|,/.test(title) ||
       title.startsWith("...") ||
       pn.startsWith("*") ||
       pn.startsWith("[") ||
       pn.startsWith('"') ||
-      /^[0-9]/gv.test(pn)
+      /\.|,|\?/.test(title) ||
+      /^[0-9]/v.test(pn)
     ) {
       continue;
     }
@@ -152,6 +153,7 @@ ${lines
     const bPn = b.replace(re, "");
     // pn includes paren -> sort to end
     if (/\(|\)/.test(aPn)) return 1;
+    if (/\(|\)/.test(bPn)) return -1;
     return aPn < bPn ? -1 : 1;
   })
   .join("\n")}
