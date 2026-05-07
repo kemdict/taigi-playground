@@ -3,9 +3,8 @@
 //
 // Using this file: import the inputToKIP, inputToPOJ, toInputKIP, or toInputPOJ maps.
 
-import { load } from "js-yaml";
-import { readFileSync } from "node:fs";
 import { toKIP, toPOJ, toKIPBulk, toPOJBulk } from "./pojtl.ts";
+import syllables from "./all-syllables.yml";
 
 /**
  * Take a syllable without a tone, then return versions of it with input tones
@@ -19,10 +18,6 @@ function allTones(plainSyllable: string) {
     return [1, 2, 3, 4, 5, 6, 7, 8, 9].map((n) => `${plainSyllable}${n}`);
   }
 }
-
-const syllables = load(
-  readFileSync("./all-syllables.yml", { encoding: "utf-8" }),
-) as { kip: string[]; poj: string[] };
 
 // FIXME: -p, -k, -t, -h only have tone 4 and 8. Should we allow, for example,
 // typing kǐp with kip6?

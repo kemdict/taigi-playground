@@ -1,4 +1,4 @@
-import { toKIP, toKIPBulk, toPOJ, toPOJBulk } from "./pojtl.ts";
+import { toKIP, toKIPBulk, toPOJ, toPOJBulk } from "./lib/pojtl.ts";
 import { z } from "zod";
 import { Database } from "bun:sqlite";
 import { writeFileSync, existsSync } from "node:fs";
@@ -119,3 +119,4 @@ ${lines.sort().join("\n")}
 }
 
 writeDict("../yataigi-kip.words.dict.yaml", "../essay-taigi.txt", "kip");
+// writeDict("../yataigi-poj.words.dict.yaml", "../essay-taigi.txt", "poj");

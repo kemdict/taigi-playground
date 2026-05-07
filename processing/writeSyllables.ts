@@ -7,7 +7,7 @@
 // Then the syllables.dict.yaml files will be created in the parent folder.
 
 import { writeFileSync } from "node:fs";
-import { inputToKIP, inputToPOJ } from "./syllables.ts";
+import { inputToKIP, inputToPOJ } from "./lib/syllables.ts";
 
 function writeDict(
   path: string,
