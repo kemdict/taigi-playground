@@ -2,6 +2,7 @@ import { toKIP, toKIPBulk, toPOJ, toPOJBulk } from "./lib/pojtl.ts";
 import { z } from "zod";
 import { Database } from "bun:sqlite";
 import { writeFileSync, existsSync } from "node:fs";
+import { resolve } from "node:path";
 
 /**
  * Normalize `pn` so that it's searchable with an ASCII keyboard.
@@ -67,7 +68,7 @@ async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
   let i = 0;
   const titles = new Set<string>();
   const pns = new Set<string>();
-  console.log("Converting raw words...");
+  console.log(`Converting raw words (total ${rawWords.length})...`);
   for (const { title, pn } of rawWords) {
     let [nPn, nTitle] =
       type === "kip"
@@ -93,7 +94,7 @@ async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
     }
   }
 
-  console.log("Writing output...");
+  console.log(`Writing ${type} words dict to ${resolve(path)}...`);
   writeFileSync(
     path,
     `
