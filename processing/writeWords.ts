@@ -88,30 +88,11 @@ async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
     console.log("Entries with newlines:", newlines);
     process.exit(1);
   }
-  console.log(`Bulk converting all titles to ${type}...`);
-  const kipOrPojTitles = await (
-    type === "kip"
-      ? native
-        ? toKIPBulkNative
-        : toKIPBulk
-      : native
-        ? toPOJBulkNative
-        : toPOJBulk
-  )(rawWords.map(({ title }) => title));
-  console.log(`Bulk converting all pns to ${type}...`);
-  const kipOrPojPns = await (
-    type === "kip"
-      ? native
-        ? toKIPBulkNative
-        : toKIPBulk
-      : native
-        ? toPOJBulkNative
-        : toPOJBulk
-  )(rawWords.map(({ pn }) => pn));
-  for (let i = 0; i < rawWords.length; i++) {
-    let nTitle = kipOrPojTitles[i];
-    let nPn = kipOrPojPns[i];
-    nPn = nPn.toLowerCase();
+  for (const { title, pn } of rawWords) {
+    let [nPn, nTitle] =
+      type === "kip"
+        ? await (native ? toKIPBulkNative : toKIPBulk)([pn, title])
+        : await (native ? toPOJBulkNative : toPOJBulk)([pn, title]);
     const inputForm = pnToImpreciseInputForm(nPn);
     if (!(titles.has(nTitle) && pns.has(nPn))) {
       titles.add(nTitle);
