@@ -2159,7 +2159,6 @@ Si
 Si-king
 Si-náu-sò
 Si-sián-tsiá Iok-hān
-Sian-jîn phah kóo iú sî tshò,kha-pōo ta̍h-tsha siánn-lâng bô?
 Sian-kong-biō
 Sian-sik-kiong
 Siang-khe
@@ -3481,7 +3480,6 @@ a-iân-phiánn(iân-phiánn)
 a-iân-phōo
 a-iân-pán
 a-iân-suànn
-a-iân-suànn(iân-suànn,thih-suànn)
 a-iân-thih
 a-iân-tháng
 a-iân-thò
@@ -7450,7 +7448,6 @@ bô-huê-bô-phue
 bô-hái-lōo
 bô-hîng
 bô-hông
-bô-hông,bû-hông
 bô-hù-tshuán
 bô-hûn bôo-sik
 bô-hûn-bô-iánn
@@ -9100,7 +9097,7 @@ bī
 bī khai-huà ê suann-tē tông-pau
 bī khai-huà(iáu-buē khai-huà)
 bī ti lo̍k sí(sú)suî tshiú
-bī(**Bî)sī
+bī(Bî)sī
 bī-bián
 bī-bông-jîn
 bī-bông-lîn
@@ -9559,7 +9556,7 @@ chhurinn2
 chhurinn5
 chiek lia̍p-á lâng
 chij-pī
-chiuonn3-tsiònn(浦)
+chiuonn3-tsiònn
 chore-ch
 chore3
 chore3--lâng
@@ -10335,7 +10332,7 @@ ge̍rh-înn
 ge̍rh-ē
 ge̍rh-ē-hiong
 giah
-giah mn̂g-sui(**suî)
+giah mn̂g-sui(suî)
 giah phòng-pé
 giah tshì
 giah(giáu)
@@ -10856,7 +10853,7 @@ gi̍k-hong
 gi̍k-hut
 gi̍k-hâ
 gi̍k-hîng
-gi̍k-hī(**hīnn)kau
+gi̍k-hī(hīnn)kau
 gi̍k-iân
 gi̍k-jû-ì
 gi̍k-kang
@@ -12327,7 +12324,6 @@ gún-tau
 gún-tshù
 gún-tāi-ke
 gû
-gû hîng suí to̍k,niáu hui môo lo̍k
 gû khan-khì kàu Pak-kiann iáu sī gû
 gû kiàn-tsí
 gû(giû)
@@ -12383,7 +12379,7 @@ gû-hì
 gû-hî
 gû-hónn
 gû-hú
-gû-hī(**hīnn)
+gû-hī(hīnn)
 gû-hōo
 gû-hōo-sîn
 gû-io
@@ -12391,7 +12387,7 @@ gû-iâ
 gû-iâ bé-iâ
 gû-iû
 gû-iûnn
-gû-i̍h(**î)
+gû-i̍h(î)
 gû-i̍k
 gû-jîn
 gû-jī-pîng
@@ -12480,7 +12476,7 @@ gû-lê-pē
 gû-lông
 gû-lông-tsit-lí
 gû-lān-pha-suāinn
-gû-lān-suāinn(**suainn)
+gû-lān-suāinn(suainn)
 gû-lī
 gû-lōng
 gû-lōo
@@ -13852,7 +13848,6 @@ hi-sè tsi pó
 hi-sún
 hi-sû
 hi-thuân
-hi-tiûnn(漳?)
 hi-tshiam
 hi-tshiam-tsháu
 hi-tshiàu
@@ -14398,7 +14393,6 @@ hiong-tóng
 hiong-tôo
 hiong-àn
 hionn
-hionn(浦)
 hio̍h
 hio̍h(Ia̍p)
 hio̍h-bé
@@ -15083,7 +15077,7 @@ hiòng-tsîng
 hiòng-tō(hióng-tō)
 hiòng-óng
 hiòng-āu
-hiònn(浦)
+hiònn
 hió-jīn
 hió-kuat(hóo-kuat)
 hió-tīng(hóo-tīng)
@@ -15103,7 +15097,7 @@ hióng-tsīn
 hióng-ê
 hióng-ìng
 hióng-ìng-sik bāng-tsām
-hiónn(浦)
+hiónn
 hiô
 hiông
 hiông-hiông
@@ -16565,7 +16559,7 @@ huat-hîng-tsiá
 huat-hòng
 huat-hông
 huat-hún
-huat-hún(**hùn)
+huat-hún(hùn)
 huat-hō
 huat-hōng
 huat-i
@@ -18362,7 +18356,7 @@ huê-sing
 huê-sio̍k
 huê-siu
 huê-sióng
-huê-siōnn(浦)
+huê-siōnn
 huê-siūnn
 huê-siūnn-sī
 huê-siūnn-thâu
@@ -20008,7 +20002,7 @@ hê-lâm
 hê-lé
 hê-lê
 hê-lîn
-hê-lāng(**láng)
+hê-lāng(láng)
 hê-lū
 hê-phue
 hê-pi
@@ -21123,7 +21117,6 @@ hóo sing pà-jî
 hóo to̍k bē tsia̍h kiánn
 hóo tshìn-thâu
 hóo(hió)
-hóo(浦)
 hóo--lâng
 hóo-ah
 hóo-bué
@@ -21756,7 +21749,7 @@ hôo-sîn-tánn
 hôo-sîn-tû
 hôo-tia̍p
 hôo-tshe-tshe
-hôo-tshiok(**tsiok)
+hôo-tshiok(tsiok)
 hôo-tshiu
 hôo-tshiu-bīn
 hôo-tshu
@@ -22307,7 +22300,7 @@ hûn-ú
 hā
 hā ha̍k-kî
 hā tīng-gī
-hā(**Ha̍h)tâi
+hā(Ha̍h)tâi
 hā--khí-lâi
 hā-bîn
 hā-bûn
@@ -24483,8 +24476,7 @@ iong-tsu
 iong-tsìng
 iong-tsîng
 ionn
-ionn(浦)
-ionn-siônn(浦)
+ionn-siônn
 ioān-m̂
 io̍h
 io̍h(io̍h-á)
@@ -25721,7 +25713,7 @@ iòng-hōo
 iòng-ji̍t
 iòng-ji̍t-kó
 iòng-suann-âng
-iòng-tshài(浦)
+iòng-tshài
 ió
 ió(iúnn)
 ió(óo)
@@ -25734,7 +25726,6 @@ ióng tsing-sîn
 ióng(iòng)
 ióng(iúnn)
 ióng(kián)
-ióng(浦)
 ióng--ê
 ióng-bió(ióng-bó)(iúnn-bó)
 ióng-bé
@@ -25832,7 +25823,6 @@ ióng-óng
 ióng-óng ti̍t-tsiân
 ióng-ōng
 iónn
-iónn(浦)
 ió湯湯
 iô
 iô bué
@@ -25991,7 +25981,6 @@ iông-ī siū kám-huà
 iông-ī(iông-īnn)
 iông-īnn
 iônn
-iônn(浦)
 iù
 iù lí-tông-kun
 iù-bah
@@ -26964,7 +26953,6 @@ iōng-tōo
 iōng-ì
 iōng-ìn
 iōnn
-iōnn(浦)
 iū
 iū kiann iū huann-hí
 iū tshuì-ta iū iau
@@ -27018,7 +27006,6 @@ i̍k(io̍k)
 i̍k(ī er īnn means"easy")
 i̍k(ī or īnn means"easy")
 i̍k(ī o̤ īnn means"easy")
-i̍k(浦)
 i̍k-biâu
 i̍k-bûn
 i̍k-hu
@@ -27206,7 +27193,6 @@ jik bē tio̍h
 jik kuè-khì
 jik lia̍p-á lâng
 jik tsha̍t-á
-jik(浦)
 jik-khì
 jin-khì
 jiok
@@ -27507,7 +27493,7 @@ ji̍h-tiàu-kuí
 ji̍h-tîm
 ji̍h-tó
 ji̍h-uá
-ji̍k(浦)
+ji̍k
 ji̍p
 ji̍p Hu̍t-bûn
 ji̍p Tiong-kok ê kok-tsi̍k(ji̍p Tiong-kok-tsi̍k)
@@ -28290,7 +28276,6 @@ jîn-ài
 jîn-ì
 jîn-ông
 jîng
-jîng(浦)
 jîng-jiân
 jîng-jiân(iáu-kú)
 jîng-kiū
@@ -32298,7 +32283,7 @@ khioh-niá
 khioh-nńg-á
 khioh-phiah
 khioh-pùn
-khioh-seh(**sut)
+khioh-seh(sut)
 khioh-sio-uá
 khioh-siáu-íng
 khioh-siōng
@@ -32558,7 +32543,7 @@ khián-sài
 khián-sàn
 khián-sàn-huì
 khián-sàng
-khián-sù(**sú)
+khián-sù(sú)
 khián-tsik
 khián-tsiòng
 khián-tsú
@@ -32999,7 +32984,6 @@ khiō-khiō
 khiō-liō
 khiō-sui
 khiōnn
-khiōnn(浦)
 khiū
 khiū-khiū
 khiū-tauh-tauh
@@ -33147,7 +33131,7 @@ khok-á-là
 khok-á-piánn
 khok-á-te
 khok-á-thuî
-khom-siū(浦)
+khom-siū
 khong
 khong tuì khong hui-tuânn
 khong tuì tē hui-tuânn
@@ -34035,7 +34019,7 @@ khuànn--kìnn
 khuànn--lâi
 khuànn--lâng
 khuànn--tio̍h
-khuànn-b(**m)āi
+khuànn-b(m)āi
 khuànn-buē-khí
 khuànn-buē-tsiūnn-ba̍k
 khuànn-bô
@@ -34191,7 +34175,7 @@ khuái
 khuái--tsi̍t-ē Khuái--tsi̍t-ē
 khuán
 khuán hîng-lí
-khuán(**khuàn)khǹg
+khuán(khuàn)khǹg
 khuán-hāng
 khuán-khiok
 khuán-khuànn
@@ -34404,8 +34388,8 @@ khàm-hiā--ê
 khàm-hûn
 khàm-hē
 khàm-hē--teh
-khàm-hī(**hīnn)
-khàm-hī(**hīnn)á-bō
+khàm-hī(hīnn)
+khàm-hī(hīnn)á-bō
 khàm-hōo
 khàm-kha
 khàm-khàm
@@ -34581,7 +34565,7 @@ khám-tsēnn
 khám-uē
 khám-á
 khám錚
-khán(浦)
+khán
 kháng
 kháng-kháng
 kháu
@@ -35294,7 +35278,6 @@ khín-n̂g
 khíng
 khíng tsia̍h-khóo
 khíng á m̄ khíng
-khíng(浦)
 khíng-khik
 khíng-muâ
 khíng-tha̍k
@@ -36405,7 +36388,7 @@ ki-ki kā-kā
 ki-ki kū-kū
 ki-ki-háu
 ki-ki-kiò
-ki-ki-kâm(**)lia̍p-lia̍p-uá
+ki-ki-kâm lia̍p-lia̍p-uá
 ki-ki-thiu
 ki-ki-tân
 ki-kim
@@ -36441,8 +36424,8 @@ ki-ló
 ki-lú
 ki-lú-hōo
 ki-ngōo
-ki-nî(**)
-ki-nî(**)ho̍k
+ki-nî
+ki-nî-ho̍k
 ki-nāi-li̍k
 ki-phiò
 ki-piàn
@@ -37405,7 +37388,7 @@ kim-pe̍h-tsînn
 kim-phiò
 kim-phua̍h-liān
 kim-pian
-kim-pinn(**)tsînn
+kim-pinn-tsînn
 kim-pi̍k
 kim-pn̄g-uánn
 kim-po̍h
@@ -37498,7 +37481,7 @@ kim-tiau
 kim-tiàu-liú
 kim-tiánn
 kim-tiâu
-kim-tiām(**)
+kim-tiām
 kim-tiānn
 kim-tn̂g-kàu
 kim-tsam
@@ -38032,21 +38015,20 @@ kiong-tîng
 kiong-uê
 kiong-ìng
 kionn
-kionn(浦)
-kionn-bó(浦)
-kionn-bó-thn̂g(浦)
+kionn-bó
+kionn-bó-thn̂g
 kionn-bó-tê
-kionn-gê(浦)
-kionn-hún(浦)
-kionn-khînn(浦)
-kionn-kâu(浦)
-kionn-si(浦)
-kionn-thng(浦)
-kionn-thn̂g(浦)
-kionn-thuí(浦)
-kionn-tsiap(浦)
-kionn-tsuí(浦)
-kionn-á-lān-hu̍t(浦)
+kionn-gê
+kionn-hún
+kionn-khînn
+kionn-kâu
+kionn-si
+kionn-thng
+kionn-thn̂g
+kionn-thuí
+kionn-tsiap
+kionn-tsuí
+kionn-á-lān-hu̍t
 kio̍k
 kio̍k-bīn
 kio̍k-guā
@@ -38072,7 +38054,7 @@ kio̍k-uân
 kio̍k-īnn
 kip
 kip hiān-siau-tuann
-kip-bē(**)
+kip-bē
 kip-bū
 kip-hong-suí-suann phue-jī
 kip-huat
@@ -38140,7 +38122,7 @@ kip-tshiat
 kip-tshut
 kip-tshut tē-ki-jī
 kip-tshân-phue
-kip-tsiàu(**)
+kip-tsiàu
 kip-tsìn
 kip-tsìn hun-tsú
 kip-tsìn su-sióng
@@ -38369,7 +38351,7 @@ kià-sàng
 kià-tah
 kià-tha̍k
 kià-thok
-kià-tiànn(**tiānn)
+kià-tiànn(tiānn)
 kià-tshng
 kià-tshuì
 kià-tshàu
@@ -38715,7 +38697,7 @@ kiáu-sîn
 kiáu-thng
 kiáu-thâu
 kiáu-thâu-ke
-kiáu-thîng(**)
+kiáu-thîng
 kiáu-ti
 kiáu-tián
 kiáu-tiûnn
@@ -39377,7 +39359,7 @@ kiú-tshian-suè
 kiú-tshit hā-ka-tshit
 kiú-tshiu
 kiú-tsiu
-kiú-tsoo(**)
+kiú-tsoo
 kiú-tso̍k
 kiú-tsuân
 kiú-tsuân tsi hā
@@ -39546,7 +39528,7 @@ kiō-liú
 kiō-lî
 kiō-mn̂g
 kiō-pan
-kiō-puè(**puē)
+kiō-puè(puē)
 kiō-sai-hū
 kiō-sè
 kiō-tann
@@ -39630,11 +39612,11 @@ kiōng-tông sū-gia̍p
 kiōng-tông tshut-tsu(kiōng-tông tâu-tsu)
 kiōng-tông tsok-tsiàn
 kiōng-tông ūn-siau
-kiōnn(浦)
-kiōnn-kut(浦)
-kiōnn-peh-nè(浦)
-kiōnn-phiah(浦)
-kiōnn-tshuì(浦)
+kiōnn
+kiōnn-kut
+kiōnn-peh-nè
+kiōnn-phiah
+kiōnn-tshuì
 kiū
 kiū-gī
 kiū-iú
@@ -39957,7 +39939,7 @@ ko-sī
 ko-tah
 ko-tang
 ko-te
-ko-thiann(**)
+ko-thiann
 ko-thih
 ko-thuân-jiám-sìng ê
 ko-thu̍t
@@ -40203,7 +40185,7 @@ kok-sik thian-hiong
 kok-sió
 kok-siú
 kok-si̍t
-kok-si̍t(**si̍k)
+kok-si̍t(si̍k)
 kok-song
 kok-su
 kok-suè
@@ -40643,7 +40625,7 @@ kong-tō
 kong-tō-lâng
 kong-uī
 kong-àn
-kong-àn(**)toh
+kong-àn-toh
 kong-ê
 kong-ìm
 kong-ìn
@@ -40887,7 +40869,7 @@ ku-khak
 ku-khak-hue
 ku-khak-hue(gû-kak-hue)
 ku-kiat
-ku-kin(**)
+ku-kin
 ku-king-kak
 ku-kiánn
 ku-ku
@@ -41080,7 +41062,6 @@ kuah-âu bô-huih
 kuah-âu ji̍h-tiàu
 kuah-ín
 kuai
-kuai(浦)
 kuai-ioh-ioh
 kuai-io̍h-io̍h
 kuai-ió-ió
@@ -41278,7 +41259,7 @@ kuan-tâng-ki-kóo
 kuan-tè-biō
 kuan-tè-iâ
 kuan-tè-sinn
-kuan-té(**)uê
+kuan-té-uê
 kuan-ài
 kuan-í
 kuan-î
@@ -42488,7 +42469,7 @@ kuàn-siong
 kuàn-sio̍k
 kuàn-sián
 kuàn-siú-liân
-kuàn-si̍k(浦)
+kuàn-si̍k
 kuàn-si̍p
 kuàn-sái
 kuàn-sé tsun-phûn tsiok-tuè
@@ -42522,7 +42503,7 @@ kuàn-tsuì(kuàn hōo tsuì)
 kuàn-tsuí
 kuàn-tsù
 kuàn-tsù tsing-sîn
-kuàn-tē(**)
+kuàn-tē
 kuàn-tō-kâu
 kuàn-tōo-kâu
 kuàn-á
@@ -42564,7 +42545,7 @@ kuáinn-á-hue
 kuáinn-á-to
 kuán
 kuán îng-sū
-kuán(**Kuàn)it
+kuán(Kuàn)it
 kuán--i
 kuán--lí
 kuán--thāi
@@ -43076,7 +43057,6 @@ kuè-ān
 kuè-āu
 kué
 kué kha
-kué(**)phín
 kué(ké)
 kué-a-phiànn
 kué-a̍p
@@ -43108,6 +43088,7 @@ kué-lué
 kué-lōo
 kué-miâ
 kué-mê
+kué-phín
 kué-pìnn
 kué-pî-io̍h
 kué-pôo
@@ -43400,7 +43381,7 @@ kuí-tsinn
 kuí-tsut
 kuí-tsuí
 kuí-tsì-me̍h
-kuí-tsìnn(**)
+kuí-tsìnn
 kuí-tō
 kuí-uē
 kuí-á
@@ -43438,7 +43419,7 @@ kuî-tsuí
 kuînn
 kuā
 kuāi
-kuāi-kin(**)
+kuāi-kin
 kuāi-ko
 kuāi-kuāi
 kuāi-lián
@@ -46017,7 +45998,7 @@ kìnn-nì
 kìnn-nā
 kìnn-oo tio̍h-tak
 kìnn-oo tō tak
-kìnn-si(**)
+kìnn-si
 kìnn-sinn-sí
 kìnn-tio̍h
 kìnn-tio̍h hué ē to̍h
@@ -47292,7 +47273,6 @@ kóo-tshiú
 kóo-tshiûnn
 kóo-tshiū
 kóo-tshue
-kóo-tshue(**)
 kóo-tshue-hue
 kóo-tshue-tshuì
 kóo-tshui
@@ -47304,7 +47284,7 @@ kóo-tsik
 kóo-tsin
 kóo-tsioh
 kóo-tsiàn-tiûnn
-kóo-tsiáng(**)
+kóo-tsiáng
 kóo-tsióng
 kóo-tsong
 kóo-tsu
@@ -47541,7 +47521,7 @@ kún--khí-lâi
 kún--tshut-lâi
 kún-hui-pí
 kún-iann
-kún-iàn(**iân)
+kún-iàn(iân)
 kún-kau-lîng
 kún-ká
 kún-ká-thiànn
@@ -47561,7 +47541,7 @@ kún-pinn
 kún-sann
 kún-sńg-tshiò
 kún-thng
-kún-tiâu(**)
+kún-tiâu
 kún-tshiâng-tshiâng
 kún-tshiò
 kún-tshiāng-tshiāng
@@ -47608,7 +47588,7 @@ kûn-thâu sai-hū
 kûn-thâu-bó
 kûn-thâu-bú
 kûn-thâu-kuán
-kûn-thâu-phuì(**)
+kûn-thâu-phuì
 kûn-thâu-pōo
 kûn-thâu-sai
 kûn-thâu-thuî
@@ -48182,7 +48162,7 @@ kū-siùnn-siùnn
 kū-siû
 kū-siū
 kū-si̍p
-kū-sng(**)hue
+kū-sng-hue
 kū-su-sióng
 kū-sè
 kū-sî
@@ -48623,7 +48603,7 @@ la̍p-la̍p哮
 la̍p-la̍p食
 la̍p-liâng
 la̍p-li̍p
-la̍p-lāi(**)
+la̍p-lāi
 la̍p-niû
 la̍p-siàu
 la̍p-suè
@@ -48823,7 +48803,7 @@ lia̍h-guā
 lia̍h-han-tsû
 lia̍h-hiòng
 lia̍h-hong jip-iánn
-lia̍h-hong(**)sat
+lia̍h-hong-sat
 lia̍h-huè-té
 lia̍h-hè-tué
 lia̍h-hèr-teré
@@ -48916,8 +48896,8 @@ lia̍h-tsún
 lia̍h-tuā
 lia̍h-tuā-gōo
 lia̍h-tâng
-lia̍h-tóo(**)
-lia̍h-tóo(**)sat
+lia̍h-tóo
+lia̍h-tóo-sat
 lia̍h-uē-kut
 lia̍h-uē-sat
 lia̍h-uē-sái
@@ -49011,12 +48991,12 @@ lik
 lik lo̍h-khì
 lik--lo̍h-khì
 lik--lâng
-lik-bûn(**)
+lik-bûn
 lik-hûn
 lik-kè
 lik-kíng
 lik-la̍t
-lik-liōng(**)
+lik-liōng
 lik-lâu
 lik-phīnn
 lik-san-ôo
@@ -49139,7 +49119,7 @@ ling-tsūn
 ling-tê
 ling-tîn
 lioh
-lionn-bua̍h(浦)
+lionn-bua̍h
 lio̍h
 lio̍h-lio̍h-á
 lio̍h-lio̍h-á sîng
@@ -50375,7 +50355,7 @@ liāng-tsîng
 liāng-tíng
 liāu
 liāu bē tshut
-liāu(**Liâu)tī
+liāu(Liâu)tī
 liāu--tio̍h
 liāu--ê
 liāu-bô-tio̍h
@@ -50422,7 +50402,6 @@ liō-tē
 liō-tō
 liō-ôo
 liōng
-liōng(**)lâu
 liōng-am
 liōng-iok
 liōng-iok-á ìn
@@ -50432,6 +50411,7 @@ liōng-kî-iok
 liōng-kî-iok-á
 liōng-kî-iok-á kóng
 liōng-li̍k jî uî
+liōng-lâu
 liōng-līng
 liōng-pit
 liōng-pit sī án-ni
@@ -50736,7 +50716,7 @@ loh-āu--ji̍t
 loh-āu--li̍t
 loh-āu--nî
 lok
-lok(**lo̍k)tsì
+lok(lo̍k)tsì
 lok--lo̍h
 lok-khang
 lok-khok馬
@@ -50802,7 +50782,7 @@ lo̍h--khì
 lo̍h--lâi
 lo̍h-bah
 lo̍h-ba̍k
-lo̍h-buâ(**)
+lo̍h-buâ
 lo̍h-buâ-tē-ga̍k
 lo̍h-bué
 lo̍h-bué-tshiú
@@ -51841,7 +51821,7 @@ lâ-sâm
 lâ-sâm-sia̍h
 lâ-sí-sâm
 lâ-ta̍k
-lâ-tshē(**)
+lâ-tshē
 lâ-á
 lâ-îng
 lâi
@@ -52107,7 +52087,7 @@ lân-tê
 lân-tô
 lân-tô huat-bāng
 lân-tī
-lân-tō(**)
+lân-tō
 lân-tōo
 lân-uî
 lân-uî-tsîng
@@ -52857,7 +52837,7 @@ lîm-gia̍p
 lîm-guî
 lîm-hiám
 lîm-hái tō-lōo
-lîm-kam(**kàm)
+lîm-kam(kàm)
 lîm-khat ku̍t-tsíng
 lîm-khîm
 lîm-khún
@@ -53161,7 +53141,7 @@ lîng-sai ūn-tōng
 lîng-sat
 lîng-siau-hue
 lîng-sin
-lîng-sing(**)
+lîng-sing
 lîng-sing(lân-san)
 lîng-siu
 lîng-siu-huē
@@ -54023,7 +54003,7 @@ lāi-suann-táu-té
 lāi-sun
 lāi-suànn
 lāi-suànn pháu-tō
-lāi-sè(**)
+lāi-sè
 lāi-sîn thong-guā-kuí
 lāi-sī-kiànn
 lāi-sīn
@@ -54844,7 +54824,7 @@ lōo-tshiong
 lōo-tshut
 lōo-tshut bé-kha
 lōo-tsháu
-lōo-tsiàu(**)
+lōo-tsiàu
 lōo-tsiūnn
 lōo-tsuí
 lōo-tsuā
@@ -55013,7 +54993,7 @@ mi-mi-mauh-mauh
 mi-ni
 mi-thuann
 miah-ji̍t
-miah-tsá(**)
+miah-tsá
 miah-àm
 miah-āu-ji̍t
 mih
@@ -55116,7 +55096,7 @@ mn̂g-huē-ba̍k
 mn̂g-huē-tsháu
 mn̂g-hóo
 mn̂g-hān
-mn̂g-hē(浦)
+mn̂g-hē
 mn̂g-hō
 mn̂g-hōo
 mn̂g-hōo sio-tuì
@@ -55364,7 +55344,7 @@ muá-sì-kuè
 muá-sì-kè
 muá-sì-kè khì
 muá-sì-suann
-muá-thian(**)hā(**)
+muá-thian-hā
 muá-thian-sing
 muá-thiann-âng
 muá-thinn
@@ -55634,7 +55614,7 @@ má-káu-lâng
 má-káu-tsûn
 má-la-song
 má-liông-kuan
-má-liû(**)
+má-liû
 má-lân
 má-lîng-tsî
 má-lîng-tsî-kiû
@@ -55684,7 +55664,7 @@ mâ-nî-tshun
 mâ-tshiok
 mâ-tshiok-jí-á
 mâ-tshiok-lí-á
-mâi(浦)
+mâi
 mâu
 mâu-jî-tik
 mâu-kik
@@ -56831,7 +56811,6 @@ ngī-kut-suàn
 ngī-kâu
 ngī-kòng
 ngī-kóng
-ngī-kóng(**)
 ngī-kún
 ngī-la̍t
 ngī-liau
@@ -56858,7 +56837,7 @@ ngī-pó
 ngī-sim
 ngī-sim-kuann
 ngī-sim-tn̂g
-ngī-siú(**)
+ngī-siú
 ngī-sìng
 ngī-sìng-tē
 ngī-sí-siú
@@ -57096,7 +57075,7 @@ niáu-tshí-á-thn̂g
 niáu-tshí-á-tsìng
 niáu-tshí-á-uan
 niáu-tshú
-niáu-tshú-hī(**hīnn)
+niáu-tshú-hī(hīnn)
 niáu-tshú-io̍h
 niáu-tshú-jip
 niáu-tshú-khang
@@ -57126,15 +57105,13 @@ niáu-tshú-ìng
 niáu-á
 niâ
 nióo
-nióo(浦)
-nióo-siann(浦)
-nióo-siónn(浦)
+nióo-siann
+nióo-siónn
 niôo
-niôo(浦)
-niôo-niôo(浦)
-niôo-thiāu(浦)
-niôo-tsháu(浦)
-niôo-á(浦)
+niôo-niôo
+niôo-thiāu
+niôo-tsháu
+niôo-á
 niú
 niú(lióng)
 niú-kat-thn̂g
@@ -57192,10 +57169,9 @@ niā
 niā-niā
 niā-tiānn
 niōo
-niōo(浦)
-niōo-té(浦)
-niōo-uī(浦)
-niōo-á(浦)
+niōo-té
+niōo-uī
+niōo-á
 niū
 niū lâng phenn
 niū lâng phinn
@@ -57221,7 +57197,7 @@ ni̍h
 ni̍h ân(ni̍h hōo ân)
 ni̍h--sí
 ni̍h-lān-pha-pōo
-ni̍h-ni(**)
+ni̍h-ni
 ni̍h-phuà
 ni̍h-uá
 ni̍h-ân
@@ -57563,7 +57539,7 @@ nâ-âu-tué
 nâ-âu-tì-á
 nâi
 nâi-á-pua̍t
-nân(**)ngá
+nân-ngá
 nè
 né
 nê
@@ -57919,7 +57895,7 @@ nńg-sêr-sêr
 nńg-sìm
 nńg-sìm-sìm
 nńg-sìng
-nńg-sóng(**)
+nńg-sóng
 nńg-sô-sô
 nńg-sôr-sôr
 nńg-thn̂g
@@ -58238,7 +58214,7 @@ ok-káu
 ok-kâu
 ok-kó
 ok-kùn
-ok-lat(**)
+ok-lat
 ok-liām
 ok-lok
 ok-luat
@@ -58456,7 +58432,7 @@ oo-khia̍t
 oo-khia̍t-khia̍t
 oo-khia̍t-oo-khia̍t
 oo-khi̍t
-oo-khuán(**)
+oo-khuán
 oo-khuân
 oo-khâm-khâm
 oo-khì
@@ -58471,7 +58447,7 @@ oo-kim
 oo-kim-kut
 oo-kim-tshat
 oo-kim-tsuá
-oo-kin(**)
+oo-kin
 oo-kin-hue
 oo-kin-khoo
 oo-kiō
@@ -58497,7 +58473,6 @@ oo-kuih-kuih
 oo-kun
 oo-kut-jiâu
 oo-kut-ke
-oo-kut-ke(**)
 oo-kut-kue
 oo-kuânn
 oo-kuânn-thinn
@@ -58546,8 +58521,8 @@ oo-lur
 oo-lut-lut
 oo-luí-luí
 oo-lái
-oo-lái(**tsa)
-oo-lái(**tsa)huih
+oo-lái(tsa)
+oo-lái(tsa)huih
 oo-lái-hueh
 oo-lái-huih
 oo-lám
@@ -58631,7 +58606,7 @@ oo-phú
 oo-pia̍t-á
 oo-pâi
 oo-pòo
-oo-pòo liân(**)
+oo-pòo liân
 oo-pòo-uê
 oo-sa-sa
 oo-sai-iûnn
@@ -59139,7 +59114,7 @@ pan-thau
 pan-thau-kuán
 pan-thuí tshenn-ioh
 pan-thuí tshiū-kap-á
-pan-tik-siu(**siunn)si
+pan-tik-siu(siunn)si
 pan-tik-siunn-si
 pan-tiám
 pan-tiúnn
@@ -59401,8 +59376,8 @@ pau-tsí
 pau-tsînn
 pau-tsông
 pau-tsûn
-pau-tsāi(**tsài)
-pau-tsāi(**tsài)jī
+pau-tsāi(tsài)
+pau-tsāi(tsài)jī
 pau-tsāi-lāi
 pau-tuann
 pau-tâng
@@ -66112,7 +66087,7 @@ pàng-gûn-tsuá
 pàng-gōo-hóo-lī
 pàng-hiat
 pàng-hiat-kak
-pàng-hiat-tiau(**tiāu)
+pàng-hiat-tiau(tiāu)
 pàng-hiat-tiāu
 pàng-hiu
 pàng-hong
@@ -75048,7 +75023,6 @@ siōng-ì
 siōng-ì hā-ta̍t
 siōng-āu
 siōnn
-siōnn(浦)
 siū
 siū hong-song
 siū huan-gîng
@@ -75718,7 +75692,6 @@ so-înn-înn
 soh
 soh ji̍p-khì(suh ji̍p-khì)
 soh(sik)
-soh(浦)
 soh-kuānn
 soh-ling(suh-ling)
 soh-lōo
@@ -81677,7 +81650,7 @@ ta̍k-ge̍h
 ta̍k-gê
 ta̍k-hāng
 ta̍k-hō
-ta̍k-iōnn(浦)
+ta̍k-iōnn
 ta̍k-iūnn
 ta̍k-ji̍t
 ta̍k-jī
@@ -83037,7 +83010,7 @@ thia̍p-kui-tui
 thia̍p-kuâinn
 thia̍p-kuân
 thia̍p-lia̍p
-thia̍p-ph(**p)uânn
+thia̍p-ph(p)uânn
 thia̍p-si̍t
 thia̍p-thia̍p
 thia̍p-tsháu
@@ -84472,7 +84445,7 @@ thuànn-sái
 thuànn-sòo
 thuànn-thuànn
 thuànn-thâu
-thuànn-tsau(**tsiau)
+thuànn-tsau(tsiau)
 thuànn-tsuí huà-ha̍p-bu̍t
 thuànn-tsíng
 thuànn-uân
@@ -84927,7 +84900,7 @@ thàn-guān-su
 thàn-gòo
 thàn-gú-sû
 thàn-gû
-thàn-iōnn(浦)
+thàn-iōnn
 thàn-iūnn
 thàn-kha-kiânn
 thàn-khuán
@@ -85276,7 +85249,7 @@ thâng-káinn-á
 thâng-luī
 thâng-si
 thâng-sái
-thâng-thn̄g(**Tâng-tn̄g)
+thâng-thn̄g(Tâng-tn̄g)
 thâng-thuā
 thâng-tsháu
 thâng-tsiù
@@ -86301,7 +86274,7 @@ thóng-it huat-phiò
 thóng-it thian-hā
 thóng-it ūn-tōng
 thóng-jiân
-thóng-kam(**kàm)
+thóng-kam(kàm)
 thóng-kiōng
 thóng-kè
 thóng-kè-ha̍k
@@ -87362,7 +87335,7 @@ tik-gī
 tik-ham
 tik-ha̍h
 tik-ha̍h(tik-hio̍h)
-tik-hionn(浦)
+tik-hionn
 tik-hio̍h
 tik-hio̍h-liân
 tik-hio̍h-lâm
@@ -87501,7 +87474,7 @@ tik-thang
 tik-the-í
 tik-thióng
 tik-thiāu
-tik-thn̄g(**tn̄g)
+tik-thn̄g(tn̄g)
 tik-thui
 tik-thâu
 tik-thô
@@ -87562,7 +87535,7 @@ tik-uî
 tik-á
 tik-á-giám
 tik-á-gím
-tik-á-hionn(浦)
+tik-á-hionn
 tik-á-hio̍h
 tik-á-hiunn
 tik-á-ki
@@ -87617,7 +87590,6 @@ tin-tsông
 tin-ài
 ting
 ting(tin)
-ting(浦)
 ting-buat-kok
 ting-bán
 ting-báu
@@ -88113,12 +88085,11 @@ tiong-àn
 tiong-àn-toh
 tiong-înn
 tionn
-tionn(浦)
-tionn-king(浦)
-tionn-kè(浦)
-tionn-lê(浦)
-tionn-sann bóo-it(浦)
-tionn-tî(浦)
+tionn-king
+tionn-kè
+tionn-lê
+tionn-sann bóo-it
+tionn-tî
 tio̍h
 tio̍h guá
 tio̍h gû-un
@@ -88591,7 +88562,7 @@ tiám--tsi̍t-ē
 tiám-báu
 tiám-gán
 tiám-hia̍t
-tiám-hionn(浦)
+tiám-hionn
 tiám-hiunn
 tiám-huih-lōo
 tiám-huà
@@ -88992,12 +88963,11 @@ tiòng-tóo
 tiòng-tōo
 tiòng-ì
 tiònn
-tiònn(浦)
-tiònn-khì(浦)
-tiònn-lî(浦)
-tiònn-sí(浦)
-tiònn-thiànn(浦)
-tiònn-tshiu(浦)
+tiònn-khì
+tiònn-lî
+tiònn-sí
+tiònn-thiànn
+tiònn-tshiu
 tióng
 tióng tsa̍p khoo
 tióng(tiúnn)
@@ -89027,9 +88997,8 @@ tióng-tsú kè-sîng-kuân
 tióng-tāi
 tióng-tāi sîng-jîn
 tiónn
-tiónn(浦)
-tiónn-ló(浦)
-tiónn-pâng(浦)
+tiónn-ló
+tiónn-pâng
 tiô
 tiô-kha tsàm-tuê
 tiô-kha tsàm-tê
@@ -89117,9 +89086,8 @@ tiông-ue̍h-khu
 tiông-un kū-bāng
 tiông-uî
 tiônn
-tiônn(浦)
-tiônn-kìnn(浦)
-tiônn-sóo(浦)
+tiônn-kìnn
+tiônn-sóo
 tiù
 tiù-iā
 tiù-iā put-sik
@@ -89564,8 +89532,7 @@ tiōng-tē
 tiōng-uî
 tiōng-àn
 tiōnn
-tiōnn(浦)
-tiōnn-lâng(浦)
+tiōnn-lâng
 tiū
 tiū-hio̍h
 tiū-hóo
@@ -91836,7 +91803,7 @@ tshau-kûn liān-khik
 tshau-lio̍k(lo̍k)
 tshau-liān
 tshau-li̍k
-tshau-li̍k(**lo̍k)
+tshau-li̍k(lo̍k)
 tshau-lô
 tshau-lô kuè-tōo
 tshau-ping
@@ -92604,7 +92571,7 @@ tshiah-pîn(sàn-tshiah)
 tshiah-sam
 tshiah-san-ôo
 tshiah-sann
-tshiah-siap(**sia̍p)ji̍t
+tshiah-siap(sia̍p)ji̍t
 tshiah-sik
 tshiah-sim
 tshiah-sin
@@ -92898,9 +92865,9 @@ tshiau
 tshiau hōo tsiâu
 tshiau mī-hún
 tshiau sin-khu
-tshiau(**Tsâu)
-tshiau(**tsâu)sam-tso̍k
+tshiau(Tsâu)
 tshiau(soo)
+tshiau(tsâu)sam-tso̍k
 tshiau-bô
 tshiau-gia̍h
 tshiau-hiān-si̍t-tsú-gī
@@ -94036,14 +94003,13 @@ tshiong-uì-tsí
 tshiong-á
 tshiong-íng
 tshionn
-tshionn(浦)
-tshionn-bé(浦)
-tshionn-hî(浦)
-tshionn-kuáinn(浦)
-tshionn-to(浦)
-tshionn-tshiú(浦)
-tshionn-tsiam(浦)
-tshionn-á(浦)
+tshionn-bé
+tshionn-hî
+tshionn-kuáinn
+tshionn-to
+tshionn-tshiú
+tshionn-tsiam
+tshionn-á
 tshio̍h
 tshio̍h(tshio̍h-á)
 tshio̍h-ló-tia
@@ -94730,28 +94696,25 @@ tshiòng-sú
 tshiòng-tuī
 tshiòng-tō
 tshiònn
-tshiònn(浦)
-tshiònn-khik(浦)
-tshiònn-khun-khiang(浦)
-tshiònn-liām(浦)
+tshiònn-khik
+tshiònn-khun-khiang
+tshiònn-liām
 tshiòr
 tshióng
 tshióng-sū
 tshiónn
-tshiónn(浦)
-tshiónn-kiap(浦)
-tshiónn-koo(浦)
-tshiónn-sin(浦)
-tshiónn-tua̍t(浦)
+tshiónn-kiap
+tshiónn-koo
+tshiónn-sin
+tshiónn-tua̍t
 tshiónn-á
 tshiông-bî
 tshiông-iú-hông
 tshiông-peh
 tshiônn
-tshiônn(浦)
-tshiônn-hong(浦)
-tshiônn-hong-kóo(浦)
-tshiônn-lōo(浦)
+tshiônn-hong
+tshiônn-hong-kóo
+tshiônn-lōo
 tshiônn-á
 tshiù
 tshiù sìng-lī ê kua
@@ -95155,20 +95118,19 @@ tshiō-tsuí-kue
 tshiōng
 tshiōng-lē
 tshiōnn
-tshiōnn(浦)
-tshiōnn-gê(浦)
-tshiōnn-hún(浦)
-tshiōnn-iû(浦)
-tshiōnn-kuínn(浦)
-tshiōnn-pan(浦)
-tshiōnn-phú(浦)
-tshiōnn-phīnn(浦)
-tshiōnn-sip(浦)
-tshiōnn-thâu(浦)
-tshiōnn-tiàm-thang(浦)
-tshiōnn-tâng-hông(浦)
-tshiōnn-tâng-tshenn(浦)
-tshiōnn-è(浦)
+tshiōnn-gê
+tshiōnn-hún
+tshiōnn-iû
+tshiōnn-kuínn
+tshiōnn-pan
+tshiōnn-phú
+tshiōnn-phīnn
+tshiōnn-sip
+tshiōnn-thâu
+tshiōnn-tiàm-thang
+tshiōnn-tâng-hông
+tshiōnn-tâng-tshenn
+tshiōnn-è
 tshiū
 tshiū-ba̍k
 tshiū-bo̍k
@@ -95271,7 +95233,6 @@ tshiū-tsû
 tshiū-tāu
 tshiū-ue
 tshiū-ue tàm lo̍h-lâi
-tshiū-ue(浦)
 tshiū-uāinn
 tshiū-á
 tshiū-á tsin lang
@@ -97959,7 +97920,7 @@ tshân-suānn
 tshân-thâu-ke
 tshân-thâu-kong
 tshân-thâu-má
-tshân-thâu-ê thóo(**thôo)tī-kong
+tshân-thâu-ê thóo(thôo)tī-kong
 tshân-thóo
 tshân-thôo
 tshân-thôo-phe̍h
@@ -98289,7 +98250,7 @@ tshìng-gán(tshìng-khang)
 tshìng-hiann
 tshìng-hâi
 tshìng-hún
-tshìng-hī(**hīnn)
+tshìng-hī(hīnn)
 tshìng-ian
 tshìng-io̍h
 tshìng-io̍h(hué-io̍h)
@@ -101041,18 +101002,17 @@ tsiong-ài
 tsiong-án-ni
 tsiong-î
 tsionn
-tsionn(浦)
-tsionn-hî(浦)
-tsionn-kù(浦)
-tsionn-lê(浦)
-tsionn-ló(浦)
-tsionn-ló-iû(浦)
-tsionn-sé(浦)
-tsionn-tsat(浦)
-tsionn-tshâ(浦)
-tsionn-tsí(浦)
-tsionn-á-ko(浦)
-tsionn-ám(浦)
+tsionn-hî
+tsionn-kù
+tsionn-lê
+tsionn-ló
+tsionn-ló-iû
+tsionn-sé
+tsionn-tsat
+tsionn-tshâ
+tsionn-tsí
+tsionn-á-ko
+tsionn-ám
 tsioo-kóo-lè-tòo-tsiùnn
 tsioo-kóo-lè-tòo醬
 tsio̍h
@@ -101712,7 +101672,7 @@ tsiunn-tsû
 tsiunn-á
 tsiunn-á-ko
 tsiunn-ám
-tsiuonn3-tsiònn(浦)
+tsiuonn3-tsiònn
 tsiu̍h
 tsiu̍h-tsiu̍h
 tsià
@@ -102436,7 +102396,7 @@ tsiâm-ho̍k
 tsiâm-ho̍k-kî
 tsiâm-ho̍k-sìng
 tsiâm-hîng
-tsiâm-hông(**hâng)thíng
+tsiâm-hông(hâng)thíng
 tsiâm-ji̍p
 tsiâm-liông
 tsiâm-li̍k
@@ -102618,7 +102578,7 @@ tsiâu-lâi
 tsiâu-piān
 tsiâu-pī
 tsiâu-sim
-tsiâu-sit(**si̍t)
+tsiâu-sit(si̍t)
 tsiâu-thàu
 tsiâu-tsiâu
 tsiâu-tsiâu-a
@@ -102713,14 +102673,13 @@ tsiòng-tsì sîng-sîng
 tsiòng-tsûn
 tsiòng-tâi
 tsiònn
-tsiònn(浦)
-tsiònn-huînn(浦)
-tsiònn-kiunn(浦)
-tsiònn-kiâm(浦)
-tsiònn-kue(浦)
-tsiònn-liāu(浦)
-tsiònn-sik(浦)
-tsiònn-tshài(浦)
+tsiònn-huînn
+tsiònn-kiunn
+tsiònn-kiâm
+tsiònn-kue
+tsiònn-liāu
+tsiònn-sik
+tsiònn-tshài
 tsió
 tsió thâu-tshuì
 tsió(siáu)
@@ -102798,12 +102757,11 @@ tsióng-tō(tuā)
 tsióng-ê
 tsióng-ìn
 tsiónn
-tsiónn(浦)
-tsiónn-hio̍h(浦)
-tsiónn-hûn(浦)
-tsiónn-khau(浦)
-tsiónn-sim(浦)
-tsiónn-sìnn(浦)
+tsiónn-hio̍h
+tsiónn-hûn
+tsiónn-khau
+tsiónn-sim
+tsiónn-sìnn
 tsiông
 tsiông sim sóo io̍k
 tsiông thian jî kàng
@@ -102955,7 +102913,7 @@ tsiú-kuá
 tsiú-kuán
 tsiú-kuánn
 tsiú-kuánn tsa-bóo(kuánn-hū)
-tsiú-kuénn(浦)
+tsiú-kuénn
 tsiú-kuí
 tsiú-kè
 tsiú-kòo
@@ -103145,7 +103103,6 @@ tsiān-tsiān
 tsiān-tsuí
 tsiān-tsuí(sńg-tsuí)
 tsiāng
-tsiāng(浦)
 tsiāng-liāng
 tsiāng-tsiāng
 tsiānn
@@ -103164,25 +103121,24 @@ tsiōng-tông-hiann-tī
 tsiōng-tông-peh
 tsiōng-tông-tsik
 tsiōnn
-tsiōnn(浦)
-tsiōnn-ba̍k(浦)
-tsiōnn-bīn(浦)
-tsiōnn-ha̍k(浦)
+tsiōnn-ba̍k
+tsiōnn-bīn
+tsiōnn-ha̍k
 tsiōnn-iōnn
-tsiōnn-jīm(浦)
-tsiōnn-ke(浦)
-tsiōnn-kiō(浦)
-tsiōnn-lo̍h(浦)
-tsiōnn-lōo(浦)
-tsiōnn-mê(浦)
-tsiōnn-sin(浦)
-tsiōnn-suann(浦)
-tsiōnn-thinn(浦)
-tsiōnn-tshiú(浦)
-tsiōnn-tsiōnn(浦)
-tsiōnn-tsuá(浦)
-tsiōnn-tsuí(浦)
-tsiōnn-tsô(浦)
+tsiōnn-jīm
+tsiōnn-ke
+tsiōnn-kiō
+tsiōnn-lo̍h
+tsiōnn-lōo
+tsiōnn-mê
+tsiōnn-sin
+tsiōnn-suann
+tsiōnn-thinn
+tsiōnn-tshiú
+tsiōnn-tsiōnn
+tsiōnn-tsuá
+tsiōnn-tsuí
+tsiōnn-tsô
 tsiū
 tsiū sī
 tsiū án-ne
@@ -104089,7 +104045,7 @@ tsn̄g-tsn̄g
 tsn̄g-tsuá
 tso
 tso to-ping-kiap
-tso(**Tsó)liāu
+tso(Tsó)liāu
 tso-būn
 tso-gū
 tso-hông
@@ -105070,7 +105026,7 @@ tsuán-tsàu
 tsuán-tsìn
 tsuán-tsînn
 tsuán-tsînn(thàn-tsînn)
-tsuán-tuē liāu(**liâu)ióng
+tsuán-tuē liāu(liâu)ióng
 tsuán-táu
 tsuán-tâi
 tsuán-tē liâu-ióng
@@ -105152,7 +105108,7 @@ tsuân-hó
 tsuân-hù bú-tsong
 tsuân-hāu
 tsuân-hōo
-tsuân-hū(**hù)
+tsuân-hū(hù)
 tsuân-im-hû
 tsuân-iânn
 tsuân-jiân
@@ -105250,7 +105206,7 @@ tsuè khit-tsia̍h
 tsuè ko(té)hān-tōo
 tsuè suánn-kang
 tsuè tiàm-bīn
-tsuè tsioh-bō(**bô)á-sim
+tsuè tsioh-bō(bô)á-sim
 tsuè āu hit tiám tsing
 tsuè āu hit tiám-tsing
 tsuè āu hit ê
@@ -108176,7 +108132,7 @@ tsînn-puè-á
 tsînn-pè
 tsînn-pîng
 tsînn-pó
-tsînn-pó-hī(**hīnn)kau
+tsînn-pó-hī(hīnn)kau
 tsînn-san
 tsînn-sat
 tsînn-sat teh kā
@@ -109219,7 +109175,7 @@ tsú-tuê
 tsú-tàu
 tsú-tàu-bē
 tsú-tê
-tsú-tòng(浦)
+tsú-tòng
 tsú-tē
 tsú-tē-bé
 tsú-tē-hì
@@ -110092,7 +110048,7 @@ tsō-ba̍k
 tsō-biō
 tsō-gia̍t
 tsō-gím-lông
-tsō-hiùnn(**hiòng)
+tsō-hiùnn(hiòng)
 tsō-hok
 tsō-hok jîn-kûn
 tsō-hua
@@ -110687,7 +110643,7 @@ tsǹg lo̍h-khì tsuí-té
 tsǹg--tshut-lâi
 tsǹg-bí
 tsǹg-bī
-tsǹg-hī(**hīnn)
+tsǹg-hī(hīnn)
 tsǹg-hīnn(kǹg-hīnn)
 tsǹg-ji̍p
 tsǹg-khang
@@ -111799,7 +111755,7 @@ tuā-mn̂g-hong
 tuā-mn̂g-hōo
 tuā-mua
 tuā-muâ
-tuā-muâ(**mâ)hong
+tuā-muâ(mâ)hong
 tuā-muâ-ian
 tuā-muî
 tuā-muî-hong
@@ -112186,7 +112142,7 @@ tuā-tsûn--nî
 tuā-tsûn-nî
 tuā-tsûn-nî(tuā-tsū-nî)
 tuā-tsāi
-tuā-tsāi(**tsài)
+tuā-tsāi(tsài)
 tuā-tuê
 tuā-tuā
 tuā-tuā sè-sè
@@ -112815,7 +112771,6 @@ tán-tuì-á
 tán-tuā-siū
 tán-tànn
 táng
-táng(**tâng???)tsú-pan
 táng(tóng)
 táng-hiannh
 táng-hiánn
@@ -113039,7 +112994,7 @@ tâm-ba̍k-kînn
 tâm-giân
 tâm-gân
 tâm-hī
-tâm-hī(**hīnn)
+tâm-hī(hīnn)
 tâm-hīnn
 tâm-kauh-kauh
 tâm-khí
@@ -114315,7 +114270,7 @@ tîng-sûn-tah
 tîng-sū
 tîng-tha̍h
 tîng-thia̍p
-tîng-thng(**thn̄g)
+tîng-thng(thn̄g)
 tîng-thâu
 tîng-thâu phah-khí
 tîng-tiunn
@@ -114932,7 +114887,7 @@ tông-kui î-tsīn
 tông-kui-sóo
 tông-kun
 tông-kur
-tông-kut-hi̍k(**jio̍k)
+tông-kut-hi̍k(jio̍k)
 tông-kuân
 tông-kám
 tông-kî-sî
@@ -117110,7 +117065,6 @@ ue
 ue sat-bú-lâng
 ue(e)
 ue(ui)
-ue(浦)
 ue--kè
 ue--tio̍h
 ue--tó
@@ -117152,7 +117106,7 @@ ue̍h-puah
 ue̍h-sueh
 ue̍h-tak-tak
 ue̍h-tshioh
-ue̍h-tsik(**)
+ue̍h-tsik
 ue̍h-tsinn-tsinn
 ue̍h-tue̍h
 ue̍h-tuh-tuh
@@ -117796,7 +117750,7 @@ uê-pui̍h
 uê-pui̍h-á
 uê-pó-hio̍h
 uê-pān
-uê-the̍h(**)
+uê-the̍h
 uê-thua
 uê-thâu
 uê-tiam
@@ -118152,8 +118106,8 @@ uā-piánn tshiong-ki
 uā-siâ-thiam-tsiok
 uā-su
 uā-tsuē
-uāi(浦)
-uāi-kong(浦)
+uāi
+uāi-kong
 uāinn
 uāinn-uāinn
 uān
@@ -119066,7 +119020,7 @@ x-kong tī-liâu
 àn-té
 àn-tīng
 àng
-àng-hī(**hīnn)
+àng-hī(hīnn)
 àng-kuà
 àng-láng
 àng-lāi tsáu-pih
@@ -119250,7 +119204,7 @@ x-kong tī-liâu
 ám-muê-á
 ám-muī
 ám-má
-ám-mâi(浦)
+ám-mâi
 ám-phe̍h
 ám-phe̍rh
 ám-pho
@@ -119507,11 +119461,11 @@ x-kong tī-liâu
 âng-hê
 âng-hê-hê
 âng-hî
-âng-hî(**hīnn)á
+âng-hî(hīnn)á
 âng-hîm
 âng-hûn
-âng-hī(**hīnn)á-bi̍t
-âng-hī(**hīnn)á-tshù
+âng-hī(hīnn)á-bi̍t
+âng-hī(hīnn)á-tshù
 âng-hī-á-bi̍t
 âng-hī-á-tshù
 âng-hīng tshut-tshiûnn
@@ -120850,7 +120804,7 @@ x-kong tī-liâu
 îng-íng
 îng-î
 îng-îng
-îng-ún(浦)
+îng-ún
 îng-û
 îng-ī
 îng-ī ha̍k-uī
@@ -121181,8 +121135,8 @@ x-kong tī-liâu
 ôo-tsuí
 ôo-tsuí-sik
 ôo-á
-ôo-á-nge̍h(**)
-ôo-á-tsiat(**)
+ôo-á-nge̍h
+ôo-á-tsiat
 ôo-á-tsînn
 ôo-ôo
 ôr
@@ -122836,10 +122790,7 @@ x-kong tī-liâu
 㧒
 㧣
 㧣風
-㧳
-㧳會
 㧻
-㧾
 㨂
 㨂甲
 㨑
@@ -122847,13 +122798,6 @@ x-kong tī-liâu
 㨮
 㨻
 㨻魚
-㪗
-㪗中喟
-㪗中氣
-㪗喟
-㪗放
-㪗氣
-㪗開
 㴘
 㴘麵
 㴙
@@ -122867,16 +122811,7 @@ x-kong tī-liâu
 㾀勢命
 㾀命
 㾀屎
-㾪
-㾪抽
-㾪猴
-㾪田
-㾪肉
-㾪豍羓
 䀐
-䀟
-䀟䀟
-䀟色
 䆀
 䆀味
 䆀手
@@ -122891,7 +122826,6 @@ x-kong tī-liâu
 䆀空
 䆀豆仔
 䈄
-䉔
 䖙
 䖙倒坐起
 䖙捒
@@ -122903,10 +122837,7 @@ x-kong tī-liâu
 䠡
 䢢
 䢢拄䢢
-䫀
 䫌
-䫲
-䫲浡
 䭳
 䯖
 䲅
@@ -122936,7 +122867,6 @@ x-kong tī-liâu
 一世
 一世人
 一世代
-一世儂
 一主
 一九五租
 一九如九
@@ -123004,7 +122934,6 @@ x-kong tī-liâu
 一去不回頭
 一口兩舌
 一口灶
-一口竈
 一句話
 一只
 一叫一應
@@ -123393,7 +123322,6 @@ x-kong tī-liâu
 七二秤
 七五七十一
 七仔
-七仔詼
 七仙姑
 七八五十六
 七八除內外扣
@@ -123426,7 +123354,6 @@ x-kong tī-liâu
 七娘媽生
 七娘媽衣
 七娘媽貫
-七娘嬤生
 七娘貫
 七嫌八嫌
 七孔
@@ -123547,14 +123474,8 @@ x-kong tī-liâu
 丈人叔
 丈人姆
 丈人媽
-丈人嬤
 丈人嬸
 丈人爸
-丈儂
-丈儂公
-丈儂媽
-丈儂嬤
-丈儂爸
 丈八柴
 丈八矛
 丈公
@@ -123739,7 +123660,6 @@ x-kong tī-liâu
 三年服
 三府
 三延四延
-三弦
 三彎兩uat
 三彎兩轉
 三從
@@ -123930,7 +123850,6 @@ x-kong tī-liâu
 三軍
 三輦車
 三輪車
-三輾車
 三辣
 三辰
 三通
@@ -123964,14 +123883,11 @@ x-kong tī-liâu
 三頭四
 三飯
 三餐
-三骹貓
-三骹馬
 三魂七魄
 三麴
 三點水
 三鼈比
 上
-上䀟
 上丁
 上上
 上上落落
@@ -124003,7 +123919,6 @@ x-kong tī-liâu
 上午
 上卌無攝
 上卌袂攝
-上卌𣍐攝
 上卿
 上去
 上取
@@ -124168,7 +124083,6 @@ x-kong tī-liâu
 上進
 上運
 上達
-上醭
 上銀
 上銅sian
 上銅磺
@@ -124231,7 +124145,6 @@ x-kong tī-liâu
 下半月
 下半身
 下南人
-下厝仔
 下去
 下台
 下司
@@ -124359,13 +124272,11 @@ x-kong tī-liâu
 下腰
 下腳
 下腳堵
-下腳手儂
 下腳袍
 下腳裙
 下腹
 下腿
 下花
-下茨仔
 下落
 下葉
 下號
@@ -124381,7 +124292,6 @@ x-kong tī-liâu
 下賬
 下跤
 下跤手人
-下跤手儂
 下身
 下車
 下較低
@@ -124413,8 +124323,6 @@ x-kong tī-liâu
 下馬威
 下馬牌
 下馬癰
-下骹
-下骹手儂
 下鹽
 下齒
 下𦜆
@@ -124484,7 +124392,6 @@ x-kong tī-liâu
 不堪
 不夠本
 不好
-不好勢
 不好去
 不好看
 不好講
@@ -124544,21 +124451,12 @@ x-kong tī-liâu
 不成
 不成不算
 不成人
-不成儂
 不成器
-不成囝
-不成囡仔
-不成子
-不成樣
 不成物
-不成猴
 不成算
 不才
 不打
-不拄好
 不拘
-不挃
-不捌
 不接一
 不插
 不插精
@@ -124620,11 +124518,9 @@ x-kong tī-liâu
 不濟事
 不無
 不然
-不爾
 不理不彩
 不理人
 不甘
-不甘嫌
 不甘心
 不甘願
 不用
@@ -124642,9 +124538,7 @@ x-kong tī-liâu
 不知
 不知不覺
 不知人
-不知儂
 不知叫是
-不知影
 不知春
 不知死
 不知頭
@@ -124764,7 +124658,6 @@ x-kong tī-liâu
 世代
 世俗
 世俗人
-世俗儂
 世傳世
 世兄
 世兄弟
@@ -124793,7 +124686,6 @@ x-kong tī-liâu
 世間中
 世間事
 世間人
-世間儂
 丘
 丘萍
 丘陵
@@ -124820,8 +124712,6 @@ x-kong tī-liâu
 並美
 並衰旺
 並造化
-丩
-丩跤丩手
 个
 中
 中nî
@@ -124833,12 +124723,11 @@ x-kong tī-liâu
 中佐
 中保
 中傷
-中儂
 中元
 中則
 中區
-中千)對中(**千
-中千)適(**抵)中(**千
+中千)對中(千
+中千)適(抵)中(千
 中午
 中南海
 中南美
@@ -124974,8 +124863,6 @@ x-kong tī-liâu
 中繼phit-tsiah
 中繼成功
 中繼投手
-中罩
-中罩頓
 中美
 中聽
 中肯
@@ -125081,7 +124968,6 @@ x-kong tī-liâu
 主任
 主位
 主僕
-主儂
 主公
 主前
 主力
@@ -125204,7 +125090,6 @@ x-kong tī-liâu
 之中
 之之
 之外
-之屄
 之疕
 之疕仔
 之鑽
@@ -125381,12 +125266,8 @@ x-kong tī-liâu
 乞乞
 乞伏
 乞化
-乞吃
-乞吃琴
 乞命
 乞哀求憐
-乞噍
-乞噍琴
 乞妻
 乞巧節
 乞水
@@ -125436,23 +125317,17 @@ x-kong tī-liâu
 乳仔草
 乳兄弟
 乳名
-乳喙仔
-乳嘴仔
-乳帕仔
 乳母
-乳母車
 乳液
 乳牙
 乳珠
 乳瓜
-乳癌
 乳突病毒
 乳羊
 乳腫
 乳臭
 乳草
 乳藤
-乳頭
 乳香
 乳齒
 乾
@@ -125476,7 +125351,6 @@ x-kong tī-liâu
 乾坤
 乾埤
 乾好勢
-乾家
 乾尚
 乾尾
 乾心
@@ -125492,7 +125366,6 @@ x-kong tī-liâu
 乾柴
 乾樹
 乾水
-乾洗
 乾洘
 乾淨
 乾湯
@@ -125500,7 +125373,6 @@ x-kong tī-liâu
 乾濕
 乾炒砂蟲
 乾焙
-乾焦
 乾煤
 乾燥
 乾片
@@ -125520,7 +125392,6 @@ x-kong tī-liâu
 乾葉
 乾葛
 乾葛湯
-乾蔫
 乾薑
 乾薦
 乾蘇
@@ -125546,7 +125417,6 @@ x-kong tī-liâu
 亂使
 亂來
 亂倫
-亂吵吵
 亂嗤吵
 亂子
 亂宗
@@ -125567,7 +125437,6 @@ x-kong tī-liâu
 亂講
 亂象
 亂鐘仔
-亄著
 了
 了--去
 了theh-theh
@@ -125623,7 +125492,6 @@ x-kong tī-liâu
 事尾
 事屎
 事後
-事志
 事情
 事故
 事業
@@ -125718,7 +125586,6 @@ x-kong tī-liâu
 二槽
 二步七
 二步七仔
-二步拭仔
 二歸
 二比
 二氣
@@ -126092,7 +125959,6 @@ x-kong tī-liâu
 交怙
 交情
 交懍恂
-交懍損
 交戰
 交拚
 交拜
@@ -126129,7 +125995,6 @@ x-kong tī-liâu
 交繚
 交纏
 交落
-交落娠
 交落枕
 交落身
 交著
@@ -126213,7 +126078,6 @@ x-kong tī-liâu
 亭仔腳
 亭仔跤
 亭仔轎
-亭仔骹
 亮
 亮亮
 亮頂
@@ -126278,7 +126142,6 @@ x-kong tī-liâu
 人家
 人家厝
 人家厝仔
-人家茨仔
 人小膽大
 人山人海
 人工
@@ -126342,7 +126205,6 @@ x-kong tī-liâu
 人腳跡
 人臣
 人色
-人蔘
 人蛇集團
 人血
 人講
@@ -126426,13 +126288,11 @@ x-kong tī-liâu
 今旦
 今旦日
 今早
-今早仔
 今昔
 今晚
 今暗
 今朝
 今死lah
-今氣
 今生
 今瞑
 今般
@@ -126481,7 +126341,6 @@ x-kong tī-liâu
 仙丹花
 仙乩
 仙人
-仙人拍鼓有時錯，跤步踏差啥人無？
 仙人掌
 仙人草
 仙仙
@@ -126501,7 +126360,6 @@ x-kong tī-liâu
 仙山
 仙巴掌
 仙拚仙
-仙拼仙
 仙果
 仙桃
 仙楂
@@ -126731,25 +126589,13 @@ x-kong tī-liâu
 仿仔雞
 仿的
 企
-企台
-企名
 企圖
-企家
-企屏
 企業
-企泅
-企眉
-企票
-企秋
 企管
 企腳
 企腳尾
-企起
-企靈
-企頭
 企高
 企鵝
-企黃
 伉
 伉儷
 伊
@@ -126852,7 +126698,6 @@ x-kong tī-liâu
 伸港鄉
 伸直
 伸筋挽頷
-伸糾
 伸縮
 伸肩挽頷
 伸腳
@@ -126862,7 +126707,6 @@ x-kong tī-liâu
 伸長
 伸長手
 伸頭
-伸骹
 伺候
 伺服器
 伻
@@ -126921,7 +126765,6 @@ x-kong tī-liâu
 低腳
 低腳格仔
 低腳花螺
-低茨仔
 低落
 低調
 低路
@@ -126970,7 +126813,6 @@ x-kong tī-liâu
 佔有權
 佔有物
 佔柱
-佔權
 佔穩
 佔買
 佔賣
@@ -127010,8 +126852,6 @@ x-kong tī-liâu
 佘
 余
 佚
-佚陶
-佚陶查某
 佛
 佛事
 佛仔
@@ -127110,12 +126950,10 @@ x-kong tī-liâu
 作用
 作田
 作田人
-作田儂
 作病
 作祟
 作穡
 作穡人
-作穡儂
 作罷論
 作者
 作膜
@@ -127148,7 +126986,6 @@ x-kong tī-liâu
 佯不知
 佯凊笑
 佯善
-佯怣
 佯恬
 佯戇
 佯死
@@ -127158,7 +126995,6 @@ x-kong tī-liâu
 佯生
 佯病
 佯痟
-佯癲佯怣
 佯癲佯戇
 佯癲佯痟
 佯睏
@@ -127340,7 +127176,6 @@ x-kong tī-liâu
 侍讀
 侍郎
 侗
-侗怣
 侗戇
 供
 供事
@@ -127410,8 +127245,6 @@ x-kong tī-liâu
 侷
 侷限
 侹
-侹直
-侺
 便
 便便
 便利
@@ -127422,7 +127255,6 @@ x-kong tī-liâu
 便套事
 便套話
 便媒人
-便媒儂
 便宜
 便屋出稅
 便店
@@ -127739,8 +127571,6 @@ x-kong tī-liâu
 俸祿
 俸給
 俺
-俺媽
-俺嬤
 俾
 俾--人
 俾--伊
@@ -127831,9 +127661,7 @@ x-kong tī-liâu
 倒手
 倒手旁
 倒手爿
-倒手芳
 倒投
-倒担
 倒拋
 倒拍
 倒拗
@@ -127916,7 +127744,6 @@ x-kong tī-liâu
 倒轉來
 倒轉去
 倒返
-倒返去
 倒退
 倒退攄
 倒退步
@@ -127992,10 +127819,8 @@ x-kong tī-liâu
 倚名倚姓
 倚壁
 倚山
-倚山吃山
 倚山食山
 倚岸
-倚帶
 倚年
 倚影
 倚意
@@ -128031,7 +127856,6 @@ x-kong tī-liâu
 借來
 借借
 借債
-借儂
 借刀
 借叫
 借問
@@ -128051,7 +127875,6 @@ x-kong tī-liâu
 借銀
 借錢
 倡
-倡聲
 倣
 倣倣
 倣樣
@@ -128104,7 +127927,6 @@ x-kong tī-liâu
 偃月刀
 偃落
 偃覆
-偆
 假
 假--的
 假khia̋n-sé
@@ -128115,7 +127937,6 @@ x-kong tī-liâu
 假仁假義
 假仙
 假仙假觸
-假仙假𧰵
 假令
 假佯
 假使
@@ -128135,7 +127956,6 @@ x-kong tī-liâu
 假哭
 假哮
 假喙齒
-假嘴齒
 假埋葬
 假好
 假好衰
@@ -128188,7 +128008,6 @@ x-kong tī-liâu
 假聲
 假胎
 假腳
-假若
 假莧菜
 假虔
 假虔意
@@ -128202,9 +128021,7 @@ x-kong tī-liâu
 假識
 假象
 假貨
-假賢
 假造
-假那
 假醉
 假釋
 假銀
@@ -128217,7 +128034,6 @@ x-kong tī-liâu
 假骨
 假鬼假怪
 假𠢕
-假𤞚
 偉
 偉丈夫
 偉人
@@ -128226,14 +128042,6 @@ x-kong tī-liâu
 偌久
 偌濟
 偌爾
-偎
-偎壁
-偎年
-偎意
-偎晝
-偎蹛
-偎近
-偎靠
 偏
 偏人
 偏仔
@@ -128291,7 +128099,6 @@ x-kong tī-liâu
 做kiūnn做軟
 做lo̍k-kho̍k
 做sing-lí
-做㾪氣
 做一下
 做一夥(伙)
 做一時
@@ -128324,7 +128131,6 @@ x-kong tī-liâu
 做便
 做做
 做價
-做儂
 做免忌
 做公
 做六七
@@ -128378,9 +128184,7 @@ x-kong tī-liâu
 做工藝
 做工課
 做差
-做師公
 做店面
-做弊
 做形
 做得來
 做忌
@@ -128397,7 +128201,6 @@ x-kong tī-liâu
 做手
 做攤
 做放
-做散喟
 做散工
 做敬
 做文
@@ -128440,9 +128243,6 @@ x-kong tī-liâu
 做瓦
 做生日
 做生理
-做田
-做田人
-做田儂
 做番客
 做痢
 做瘦氣
@@ -128455,9 +128255,6 @@ x-kong tī-liâu
 做禍做業
 做積做德
 做積德
-做穡
-做穡人
-做穡儂
 做竅
 做竹篾
 做箭
@@ -128476,7 +128273,6 @@ x-kong tī-liâu
 做能起
 做腳
 做臭人
-做臭儂
 做船
 做色
 做花
@@ -128560,7 +128356,6 @@ x-kong tī-liâu
 停電
 停靠
 停飯
-停骹
 偝
 偝巾
 健
@@ -128615,14 +128410,10 @@ x-kong tī-liâu
 偷刣
 偷割稻捨施糜
 偷匿
-偷吃
-偷吃步
 偷含
 偷咬雞
 偷咬雞仔
 偷問
-偷噍
-偷噍步
 偷囥
 偷埋
 偷報
@@ -128635,14 +128426,12 @@ x-kong tī-liâu
 偷懷
 偷拈
 偷拾
-偷捻
 偷掠
 偷掩
 偷提
 偷換
 偷揜
 偷搣
-偷摕
 偷替
 偷束
 偷漏
@@ -128665,7 +128454,6 @@ x-kong tī-liâu
 偷走厝
 偷走學
 偷走書
-偷走茨
 偷趁
 偷重
 偷閃
@@ -128844,7 +128632,6 @@ x-kong tī-liâu
 傷著
 傷財
 傷跡
-傷迹
 傷重
 傷風
 傷風敗俗
@@ -128880,10 +128667,8 @@ x-kong tī-liâu
 僉事
 僉取
 僉首
-僎
 像
 像框
-僐
 僑
 僑商
 僑外的華工
@@ -128918,8 +128703,6 @@ x-kong tī-liâu
 僧院
 僫
 僫做
-僫手
-僫材
 僫講
 僫過
 僭
@@ -128943,7 +128726,6 @@ x-kong tī-liâu
 價數
 價格
 價腳
-價賬
 價錢
 僻
 僻siah
@@ -128968,14 +128750,6 @@ x-kong tī-liâu
 儀文
 儀表板
 儂
-儂儂
-儂客
-儂工
-儂影
-儂才
-儂緣
-儂面
-儂頭
 億
 億兆
 億萬
@@ -128997,8 +128771,6 @@ x-kong tī-liâu
 儉錢
 儉食
 儋
-儌
-儌跤
 儑
 儑面
 儑頭儑面
@@ -129121,7 +128893,6 @@ x-kong tī-liâu
 兄弟仔
 兄弟仔官
 兄弟姊妹
-兄弟姐妹
 兄臺
 兄長
 兄頭
@@ -129206,7 +128977,6 @@ x-kong tī-liâu
 先生公
 先生娘
 先生媽
-先生嬤
 先生禮
 先發
 先發phit-tsiah
@@ -129270,8 +129040,6 @@ x-kong tī-liâu
 光炎炎
 光焱焱
 光煌煌
-光熠熠
-光熾熾
 光爍爍
 光甓
 光生
@@ -129336,7 +129104,6 @@ x-kong tī-liâu
 免論
 免講
 免費
-免賬想
 免錢
 免錢飯
 免除
@@ -129452,7 +129219,6 @@ x-kong tī-liâu
 入聲
 入股
 入花堵
-入茨
 入茸
 入萬出萬
 入螺tsiān
@@ -129523,7 +129289,6 @@ x-kong tī-liâu
 內姪婦
 內姪婿
 內媽
-內嬤
 內孫
 內定
 內客
@@ -129718,7 +129483,6 @@ x-kong tī-liâu
 兩樣
 兩步七仔
 兩步半
-兩步拭仔
 兩段式倒斡
 兩段式投法
 兩爿
@@ -129787,7 +129551,6 @@ x-kong tī-liâu
 八字眉
 八字腳
 八字跤
-八字骹
 八家將
 八寶丸
 八寶全鴨
@@ -129901,7 +129664,6 @@ x-kong tī-liâu
 公媽
 公媽牌
 公媽龕
-公嬤
 公子
 公孫
 公孫橘
@@ -130113,11 +129875,6 @@ x-kong tī-liâu
 六順
 六龜區
 六龜里社
-兮昏
-兮昏暗
-兮晝
-兮晡
-兮暗
 共
 共人管
 共伊
@@ -130129,11 +129886,8 @@ x-kong tī-liâu
 共存
 共存共榮
 共學
-共心
 共有
 共業
-共款
-共沿
 共濟會
 共犯
 共產
@@ -130279,7 +130033,6 @@ x-kong tī-liâu
 冇珠
 冇石
 冇石仔
-冇碳
 冇管仔草
 冇粟
 冇粟香
@@ -130404,7 +130157,6 @@ x-kong tī-liâu
 冤人
 冤仇
 冤仇人
-冤仇儂
 冤冤
 冤家
 冤家量債
@@ -130455,7 +130207,6 @@ x-kong tī-liâu
 冬菊
 冬菜
 冬葉樹
-冬蒿
 冬蜜
 冬蟲
 冬蟲夏草
@@ -130590,10 +130341,7 @@ x-kong tī-liâu
 凊頭凊面
 凊飯
 凊飯藤
-凊鼻
 凋
-凋洗
-凋蔫
 凋頭
 凌
 凌勒
@@ -130606,7 +130354,6 @@ x-kong tī-liâu
 凍冷
 凍凍
 凍喙齒
-凍嘴齒
 凍死
 凍結
 凍舌
@@ -130669,7 +130416,6 @@ x-kong tī-liâu
 凶服
 凶歲
 凶煞
-凶狂
 凶神
 凶神惡煞
 凶禮
@@ -130698,7 +130444,6 @@ x-kong tī-liâu
 凸紗
 凸紗刺
 凸線
-凸腸頭
 凸被
 凸褥
 凸賬
@@ -130735,7 +130480,6 @@ x-kong tī-liâu
 凹衫
 凹襪
 凹鉸
-凹錢
 凹頭
 凹頭推
 凹頭擠
@@ -130753,7 +130497,6 @@ x-kong tī-liâu
 出乎爾反乎爾
 出乩
 出事
-出事志
 出五服
 出人前
 出人頭上
@@ -130795,7 +130538,6 @@ x-kong tī-liâu
 出哨
 出售
 出喙
-出喟
 出單
 出嗣
 出嘴
@@ -131089,7 +130831,6 @@ x-kong tī-liâu
 分享
 分伻
 分佈
-分偏
 分光鏡
 分分
 分分仔
@@ -131205,7 +130946,6 @@ x-kong tī-liâu
 分離
 分頁
 分頭
-分額
 分類
 分類械鬥
 分食
@@ -131235,9 +130975,6 @@ x-kong tī-liâu
 切音
 切題
 切齒
-刈包
-刈肉
-刈金
 刊
 刊刊
 刊字
@@ -131338,7 +131075,6 @@ x-kong tī-liâu
 初選
 初開
 刡
-刡仔
 刡刡
 刡花
 刣
@@ -131396,7 +131132,6 @@ x-kong tī-liâu
 別人兜
 別位
 別個
-別儂
 別別
 別名
 別國
@@ -131433,7 +131168,6 @@ x-kong tī-liâu
 刨仔
 刨來刨去
 刨刀
-刨刀花
 刨刨
 刨刻
 刨削
@@ -131566,7 +131300,6 @@ x-kong tī-liâu
 到頭
 到額
 到齣
-刲
 制
 制作
 制制
@@ -131649,7 +131382,6 @@ x-kong tī-liâu
 刺竹
 刺竹公仔
 刺竹筍
-刺綉
 刺網
 刺繡
 刺耙耙
@@ -131664,7 +131396,6 @@ x-kong tī-liâu
 刺葱樹
 刺蒐
 刺蔥
-刺藨
 刺號
 刺螺
 刺血
@@ -131717,7 +131448,6 @@ x-kong tī-liâu
 剃頭擔
 剃頭間
 則
-則尼
 則數
 則聲
 剉
@@ -131763,14 +131493,11 @@ x-kong tī-liâu
 前事
 前人
 前人囝
-前人子
 前代
 前任
 前份
 前例
 前信
-前儂囝
-前儂子
 前六月
 前列
 前功
@@ -131868,8 +131595,6 @@ x-kong tī-liâu
 前驅
 前驛
 前齒
-剒
-剒柴
 剔
 剔剔
 剔擱
@@ -131881,7 +131606,6 @@ x-kong tī-liâu
 剔骨
 剔齒
 剖
-剖柴
 剖驗
 剛
 剛強
@@ -131912,14 +131636,12 @@ x-kong tī-liâu
 剪仔
 剪仔龜
 剪做
-剪儌
 剪刀
 剪刀地獄
 剪刀花
 剪剪
 剪參
 剪布
-剪徼
 剪扭
 剪接
 剪斷
@@ -131929,7 +131651,6 @@ x-kong tī-liâu
 剪秋紗
 剪秋羅
 剪筊
-剪紐仔
 剪絨
 剪絨仔花
 剪絨花
@@ -131947,7 +131668,6 @@ x-kong tī-liâu
 剪賭
 剪輪轉
 剪輯
-剪鈕仔
 剪鑼
 剪霧
 剪頭毛
@@ -132215,8 +131935,6 @@ x-kong tī-liâu
 加強
 加忍損
 加恩
-加懍恂
-加懍損
 加擔
 加料
 加服
@@ -132230,7 +131948,6 @@ x-kong tī-liâu
 加減乘除
 加熱薰
 加班
-加白筍
 加盟
 加盤
 加盪
@@ -132240,9 +131957,7 @@ x-kong tī-liâu
 加答兒
 加納
 加級
-加絕
 加網魚
-加脊
 加落
 加落娠
 加落胎
@@ -132492,9 +132207,7 @@ x-kong tī-liâu
 勤讀
 勤賞
 勥
-勥腳
 勥跤
-勥骹
 勦
 勦勦
 勳
@@ -132519,7 +132232,6 @@ x-kong tī-liâu
 勸解
 勸誘
 勺
-勺仔
 勻
 勻仔
 勻仔是
@@ -132530,16 +132242,12 @@ x-kong tī-liâu
 勼
 勼勼凹凹
 勼去
-勼帶
 勼手
 勼排
 勼水
-勼筋
-勼腳
 勼跤
 勼跤勼手
 勼退
-勼骹
 勾
 勾引
 勾當
@@ -132629,7 +132337,6 @@ x-kong tī-liâu
 匈牙利
 匏
 匏仔
-匏杓
 匏桸
 匏殼
 匏瓠
@@ -132782,13 +132489,8 @@ x-kong tī-liâu
 匿匿
 匿名
 匿名者
-匿喙
-匿嘴
 匿相尋
-匿相找
-匿相揣
 匿蹤戰機
-匿雨
 區
 區公所
 區分
@@ -132822,7 +132524,6 @@ x-kong tī-liâu
 十二月
 十二版帖
 十二生相
-十二生肖
 十二碗
 十二經路
 十二臘
@@ -133019,7 +132720,6 @@ x-kong tī-liâu
 升高
 升麻
 午
-午仔
 午前
 午夜
 午後
@@ -133051,7 +132751,6 @@ x-kong tī-liâu
 半上路下
 半上路站
 半世人
-半世儂
 半中央
 半中欄
 半中段
@@ -133103,7 +132802,6 @@ x-kong tī-liâu
 半徑
 半憨
 半戇
-半截
 半截堵
 半截衣
 半截襪
@@ -133134,7 +132832,6 @@ x-kong tī-liâu
 半月日
 半期
 半桌
-半桶司仔
 半桶屎
 半桶師仔
 半桶靴
@@ -133195,7 +132892,6 @@ x-kong tī-liâu
 半赤肥
 半跪
 半路
-半路司
 半路師
 半路店
 半路竹
@@ -133376,21 +133072,16 @@ x-kong tī-liâu
 博孑
 博學
 博寶
-博徼
 博心適
 博愛
 博戇賭
 博戛
 博撚寶
-博歹儌
-博歹徼
-博歹筊
 博烏紅
 博牌仔
 博物
 博物學
 博物館
-博筊
 博米賭
 博聞
 博花會
@@ -133404,7 +133095,6 @@ x-kong tī-liâu
 博賭黨
 博輸贏
 博錢攤
-博面
 博食thit
 博骰九
 博骰仔
@@ -133416,7 +133106,6 @@ x-kong tī-liâu
 卜卦先生
 卜卦師
 卜卦籤
-卜哭卜𥍉
 卜姓
 卜定
 卜定是
@@ -133442,7 +133131,6 @@ x-kong tī-liâu
 占領
 卡
 卡倚
-卡停仔
 卡啦雞腿堡
 卡巴迪
 卡布奇諾
@@ -133457,7 +133145,6 @@ x-kong tī-liâu
 卯卯
 卯名
 卯喙
-卯嘴
 卯年
 卯星
 卯時
@@ -133545,41 +133232,29 @@ x-kong tī-liâu
 即即仔
 即墨
 即墨侯
-即尼仔
-即搭
 即日
 即是
 即是咧
 即時
 即時報
-即暫
 即更來
-即氣
-即爾
 即管
 即纔光
 即興
 即著
-即過
-即陣
-即馬
-即點仔
 卵
 卵仁
 卵包
 卵塔
 卵屁
 卵巢
-卵核
 卵殼
 卵清
 卵燥
 卵白
 卵白質
 卵白霜
-卵端
 卵絲
-卵葩
 卵蛋
 卵青
 卷
@@ -133632,7 +133307,6 @@ x-kong tī-liâu
 卸面子
 卸面皮
 卻
-卻丁錢
 卻下
 卻其
 卻其然
@@ -133640,7 +133314,6 @@ x-kong tī-liâu
 卻是
 卻然
 卻說
-卻骨頭
 卿
 卿相
 厄
@@ -133709,7 +133382,6 @@ x-kong tī-liâu
 厚煙
 厚煙塵
 厚煩惱
-厚熏
 厚燒
 厚理路
 厚病
@@ -133720,7 +133392,6 @@ x-kong tī-liâu
 厚皮菜
 厚目
 厚直
-厚砂屑
 厚礬
 厚礬紙
 厚福
@@ -133728,7 +133399,6 @@ x-kong tī-liâu
 厚禮數
 厚紙
 厚紙坯
-厚紙胚
 厚肉植物
 厚腳sio̍h
 厚膏
@@ -133782,7 +133452,6 @@ x-kong tī-liâu
 厝脊
 厝脊尾
 厝脊頭
-厝腳
 厝蓋
 厝裡
 厝角
@@ -133971,9 +133640,6 @@ x-kong tī-liâu
 又
 又koh
 又啟
-又復
-又擱
-又更
 又甘
 又甘命
 又甘鱠魚
@@ -134184,7 +133850,6 @@ x-kong tī-liâu
 受刑
 受刑人
 受刑罰
-受制
 受勞
 受困
 受孕
@@ -134205,7 +133870,6 @@ x-kong tī-liâu
 受災
 受理
 受當袂起
-受當𣍐起
 受益
 受磨
 受禁
@@ -134266,7 +133930,6 @@ x-kong tī-liâu
 口白
 口眼歪斜
 口碑
-口竈
 口筆兩全
 口糧
 口腔
@@ -134292,7 +133955,6 @@ x-kong tī-liâu
 口頭辯論
 口餉
 古
-古井
 古交
 古亭
 古人
@@ -134330,7 +133992,6 @@ x-kong tī-liâu
 古怪
 古意
 古意人
-古意儂
 古成
 古戰場
 古抱
@@ -134418,14 +134079,12 @@ x-kong tī-liâu
 另眼款待
 另者
 叨
-叨位
 叨叨
 叨叨khuat
 叨搔
 叨撚
 叨撚批
 叨甪--人
-叨落
 叨錢
 叩
 叩答
@@ -134529,7 +134188,6 @@ x-kong tī-liâu
 可慕
 可慨
 可憐
-可憐事
 可憐代
 可樂餅
 可歎
@@ -134596,7 +134254,6 @@ x-kong tī-liâu
 右邊
 右鉤耳
 司
-司仔
 司仔工
 司令
 司令官
@@ -134647,53 +134304,7 @@ x-kong tī-liâu
 司褐
 司長
 司馬
-叼
 叼粟
-吃
-吃人
-吃人夠夠
-吃倯
-吃凸餅
-吃力
-吃名
-吃命
-吃外口
-吃晝
-吃暗
-吃桌
-吃清
-吃清領便
-吃漿
-吃煙
-吃物
-吃祖
-吃福
-吃秤頭
-吃穿
-吃罪
-吃老
-吃老出癖
-吃聲
-吃臊
-吃色
-吃苦
-吃茶
-吃菜
-吃虧
-吃補
-吃褒
-吃認
-吃軟驚硬
-吃醋
-吃銅吃鐵
-吃錢
-吃錢官
-吃頭路
-吃風
-吃食
-吃飯廳
-吃飯桌
-吃餐廳
 各
 各一
 各事
@@ -134702,7 +134313,6 @@ x-kong tī-liâu
 各件
 各位
 各個
-各儂
 各別
 各各
 各國
@@ -134734,7 +134344,6 @@ x-kong tī-liâu
 各項
 各食
 各馝
-各鱉
 合
 合--字難寫
 合kìn
@@ -135061,12 +134670,10 @@ x-kong tī-liâu
 同氣
 同治
 同治草
-同沿
 同派
 同父
 同父各母
 同父異母
-同爸各母
 同牆路
 同班
 同班的
@@ -135183,10 +134790,8 @@ x-kong tī-liâu
 吐口
 吐吐
 吐唇
-吐喟
 吐嘴
 吐噎
-吐大喟
 吐大氣
 吐奚
 吐憐涎
@@ -135254,7 +134859,6 @@ x-kong tī-liâu
 向頂
 向頭
 向高
-吓
 君
 君主
 君主立憲
@@ -135376,9 +134980,7 @@ x-kong tī-liâu
 听
 听听
 吭
-吭腳翹
 吭跤翹
-吭骹翹
 吭龜里(khóng-ku-lí)
 吮
 吮話縫
@@ -135424,15 +135026,12 @@ x-kong tī-liâu
 吸吸叫
 吸吸哮
 吸吸死
-吸奶
 吸引
 吸收
 吸氣孔
-吸水
 吸油面紙
 吸煙
 吸石
-吸管
 吸鐵
 吸雪
 吸風魚
@@ -135473,9 +135072,7 @@ x-kong tī-liâu
 呂洞賓
 呂祖廟
 呃
-呃乳
 呃刺酸
-呃奶
 呆
 呆人
 呆呆
@@ -135526,9 +135123,6 @@ x-kong tī-liâu
 呔會
 呔討
 呢
-呣
-呣敢
-呣是款
 呧
 周
 周倉爺
@@ -135555,7 +135149,6 @@ x-kong tī-liâu
 周遊
 周邊
 周陽
-呫
 呱
 呲
 味
@@ -135569,7 +135162,6 @@ x-kong tī-liâu
 呵呵
 呵咾
 呸
-呸涎
 呸瀾
 呸痰
 呸血
@@ -135579,8 +135171,6 @@ x-kong tī-liâu
 呼
 呼hàm
 呼pi仔
-呼㗭也
-呼㗭仔
 呼么
 呼么喝六
 呼來
@@ -135594,7 +135184,6 @@ x-kong tī-liâu
 呼嗚哉
 呼噎
 呼噎仔
-呼噓也
 呼噓仔
 呼天呼地
 呼天喚地
@@ -135739,7 +135328,6 @@ x-kong tī-liâu
 咖啡磚
 咖啡色
 咖啡茶
-咠一下
 咧
 咧欲
 咩
@@ -135818,7 +135406,6 @@ x-kong tī-liâu
 咽喉蒂仔
 咽喉鐘
 咾
-咾咕石
 咿
 咿咿
 咿咿哎哎
@@ -135902,7 +135489,6 @@ x-kong tī-liâu
 哈相
 哈破
 哈精
-哈肺
 哈馬星
 哉
 哎
@@ -135936,12 +135522,10 @@ x-kong tī-liâu
 哨角
 哩
 哩哩囉囉
-哩哩落落
 哩囉
 哩囉叫
 哩武哩le
 哪
-哪不
 哪吒
 哪吒公
 哪吒太子
@@ -136029,7 +135613,6 @@ x-kong tī-liâu
 唉啊
 唌
 唌人
-唌儂
 唏
 唏嚇叫
 唐
@@ -136046,7 +135629,6 @@ x-kong tī-liâu
 唐高祖
 唔
 唔唔睏
-唔是款
 唚
 唚唚
 唚喙
@@ -136115,9 +135697,7 @@ x-kong tī-liâu
 唱高調
 唷
 唸
-唸咒
 唸歌
-唸珠
 唸謠
 唾
 唾hiat-ka̍k
@@ -136204,14 +135784,11 @@ x-kong tī-liâu
 啐人
 啐啐
 啖
-啖嘇
 啖甜
 啖糝
 啖糝仔
 啖舌
 啖鹹
-啖點
-啗嘇
 啜
 啜tseh啜tseh
 啜啜
@@ -136247,10 +135824,8 @@ x-kong tī-liâu
 啡
 啡仔
 啥
-啥乜
 啥事
 啥人
-啥儂
 啥樣
 啥款
 啥步
@@ -136258,8 +135833,6 @@ x-kong tī-liâu
 啥物
 啥話
 啥貨
-啥韶
-啥麼
 啦
 啼
 啼哭
@@ -136355,8 +135928,6 @@ x-kong tī-liâu
 喔
 喔喔
 喘
-喘喟
-喘大喟
 喘大氣
 喘氣
 喘氣嘅
@@ -136369,7 +135940,6 @@ x-kong tī-liâu
 喙下斗
 喙凊
 喙口
-喙孔
 喙尾
 喙扁
 喙斗
@@ -136458,7 +136028,6 @@ x-kong tī-liâu
 喝烏喝白
 喝熊喝虎
 喝玲瑯
-喝玲瓏
 喝精
 喝罵
 喝聲
@@ -136469,8 +136038,6 @@ x-kong tī-liâu
 喝采
 喝頭
 喝魚仔
-喟力
-喟口
 喢
 喧
 喧嘩
@@ -136498,7 +136065,6 @@ x-kong tī-liâu
 喪腳
 喪膽
 喪鬮煞
-喫虧
 喬
 喬木
 單
@@ -136545,7 +136111,6 @@ x-kong tī-liâu
 單水
 單獨
 單生囝
-單田
 單目
 單眼
 單眼花翎
@@ -136578,29 +136143,21 @@ x-kong tī-liâu
 單頂娶
 單頭
 單飛
-單骹手
 單鼻
 喲
 喳
 喻
 嗄
-嗄嗄叫
 嗅
 嗅嗅
 嗅嗅叫
 嗅嗅哮
 嗅鼻
-嗆聲
 嗇
 嗌
-嗍
-嗍奶
-嗍水
-嗍管
 嗎
 嗎一下
 嗎嗎
-嗎嗎哭
 嗘
 嗙
 嗚
@@ -136608,7 +136165,6 @@ x-kong tī-liâu
 嗜好
 嗝
 嗟嘆
-嗡
 嗣
 嗣子
 嗣後
@@ -136640,7 +136196,6 @@ x-kong tī-liâu
 嗽
 嗽口
 嗽含血
-嗽聲
 嗾
 嗾咬
 嗾嗾
@@ -136664,7 +136219,6 @@ x-kong tī-liâu
 嘈耳
 嘉
 嘉北
-嘉哉
 嘉平
 嘉惠
 嘉慶
@@ -136708,7 +136262,6 @@ x-kong tī-liâu
 嘛嘛吼
 嘛是
 嘛欲
-嘛要
 嘟
 嘟嘟
 嘩
@@ -136735,7 +136288,6 @@ x-kong tī-liâu
 嘴kak疔
 嘴pue
 嘴tinn
-嘴䫌
 嘴下斗
 嘴下頷
 嘴下骸
@@ -136773,19 +136325,16 @@ x-kong tī-liâu
 嘴弄嘴
 嘴快
 嘴念
-嘴扁
 嘴抵嘴
 嘴拍
 嘴撮
 嘴攬嘴
 嘴斗
 嘴曲曲翹
-嘴桮
 嘴殘
 嘴水
 嘴注注
 嘴活
-嘴涎
 嘴涎瀾
 嘴淡
 嘴渴
@@ -136798,23 +136347,16 @@ x-kong tī-liâu
 嘴痲
 嘴白
 嘴硬
-嘴空
-嘴笑目笑
-嘴箍
 嘴算
 嘴管
 嘴約
-嘴罨
 嘴罩
 嘴聖
-嘴脣
-嘴臭
 嘴舌
 嘴花
 嘴草
 嘴薰嘴茶
 嘴見目見
-嘴角
 嘴講
 嘴謽
 嘴路
@@ -136859,45 +136401,7 @@ x-kong tī-liâu
 嘻譁
 嘿
 噁
-噆
-噍
-噍倯
-噍傖
-噍儂
-噍力
-噍名
 噍吧哖
-噍命
-噍外口
-噍晝
-噍暗
-噍桌
-噍清
-噍清領便
-噍漿
-噍物
-噍祖
-噍福
-噍秤頭
-噍穿
-噍老
-噍膨餅
-噍臊
-噍色
-噍苦
-噍菜
-噍薰
-噍虧
-噍補
-噍褒
-噍軟驚硬
-噍醋
-噍錢
-噍錢官
-噍頭路
-噍食
-噍飯廳
-噍飯桌
 噎
 噎仔
 噎奶
@@ -136922,7 +136426,6 @@ x-kong tī-liâu
 噠
 噤
 噤喙
-噤嘴
 噤噤
 器
 器具
@@ -136960,13 +136463,10 @@ x-kong tī-liâu
 噴水鬚
 噴油
 噴漆
-噴火
 噴火星
 噴螺
 噴走
-噴雞胿
 噴雪
-噴風
 噴點
 噴點白
 噶瑪蘭
@@ -136987,10 +136487,8 @@ x-kong tī-liâu
 嚓
 嚓嚓趒
 嚙
-嚥氣
 嚨
 嚨喉
-嚨喉孔
 嚨喉珠仔
 嚨喉空
 嚨喉管
@@ -137050,7 +136548,6 @@ x-kong tī-liâu
 囑咐鬮書合約字
 囑書
 囑託
-囓
 囚
 囚犯
 囚監
@@ -137116,7 +136613,6 @@ x-kong tī-liâu
 四大部洲
 四大金剛
 四夷
-四媵
 四子心
 四子環
 四字頭
@@ -137148,7 +136644,6 @@ x-kong tī-liâu
 四方磚
 四方紙
 四方體
-四旁
 四旬
 四時
 四時八節
@@ -137172,7 +136667,6 @@ x-kong tī-liâu
 四淋垂
 四湖
 四湖鄉
-四湳垂
 四照花
 四爿
 四片仔
@@ -137211,10 +136705,7 @@ x-kong tī-liâu
 四肢百骸
 四腳--ê
 四腳亭
-四腳仔
-四腳仔泅
 四腳拔直直
-四腳杜定
 四腳水蛇
 四腳砧
 四腳虎
@@ -137256,9 +136747,6 @@ x-kong tī-liâu
 四開鑲
 四面
 四面仔
-四骹仔
-四骹仔泅
-四骹杜定
 四體
 四點水
 四點火
@@ -137387,7 +136875,6 @@ x-kong tī-liâu
 囡仔
 囡仔人
 囡仔伴
-囡仔儂
 囡仔兄
 囡仔古
 囡仔囝
@@ -137585,7 +137072,6 @@ x-kong tī-liâu
 圍標
 圍爐
 圍牆
-圍碁
 圍箍
 圍觀
 圍身裙
@@ -137615,10 +137101,8 @@ x-kong tī-liâu
 圓仔湯
 圓仔粞
 圓仔花
-圓仔𥽕
 圓元寶
 圓光仔
-圓光門
 圓加落轉
 圓卵
 圓圓
@@ -137730,7 +137214,6 @@ x-kong tī-liâu
 土佛仔
 土俗
 土像
-土儂
 土公
 土公仔
 土公仔性
@@ -137756,9 +137239,6 @@ x-kong tī-liâu
 土地臺賬
 土坪
 土垎
-土埆
-土埆厝
-土埆茨
 土城
 土城區
 土埕
@@ -137824,9 +137304,7 @@ x-kong tī-liâu
 土水匠
 土水司
 土水司阜
-土水師
 土沈香
-土沙
 土油
 土流民
 土溝糜
@@ -137868,9 +137346,7 @@ x-kong tī-liâu
 土皮
 土皮頭
 土直
-土石流
 土砂
-土碳
 土礱
 土礱壺
 土礱心
@@ -137884,8 +137360,6 @@ x-kong tī-liâu
 土神
 土穴
 土窟
-土窯
-土窰
 土符仔
 土箱
 土篩
@@ -137964,11 +137438,8 @@ x-kong tī-liâu
 土饅頭
 土香
 土香頭
-土骹
 土鬼
-土魠
 土魴
-土鮀
 土鰆
 土鰍
 土黃
@@ -137995,17 +137466,14 @@ x-kong tī-liâu
 在你
 在來米
 在保
-在儂
 在先
 在內
 在厝
-在叢的
 在咱
 在單
 在在
 在地
 在地人
-在地儂
 在地鳥
 在場
 在場知見人
@@ -138046,7 +137514,6 @@ x-kong tī-liâu
 在肩
 在膽
 在要
-在諍王
 在近
 在鄉
 在野
@@ -138221,9 +137688,6 @@ x-kong tī-liâu
 圾
 址
 址在
-坅
-坅仔
-坅簷
 均
 均一
 均分
@@ -138236,7 +137700,6 @@ x-kong tī-liâu
 均裡
 均都
 坉
-坉土
 坉塗
 坉平
 坉海造地
@@ -138256,7 +137719,6 @@ x-kong tī-liâu
 坐m̄著
 坐teh食
 坐不是
-坐不著
 坐中堵船
 坐久
 坐井看天
@@ -138323,16 +137785,10 @@ x-kong tī-liâu
 坑kàng
 坑口
 坑圳水
-坑坎
 坑崁
 坑水
 坑溝
 坑間
-坔
-坔仔地
-坔土
-坔塗
-坔田
 坡
 坤
 坤卦
@@ -138340,7 +137796,6 @@ x-kong tī-liâu
 坤書
 坤造
 坦
-坦企
 坦伏
 坦倒
 坦平
@@ -138374,12 +137829,10 @@ x-kong tī-liâu
 坪數
 坪林區
 坪林尾
-坮
 坯
 坱
 坱埃
 坱蓬蓬
-坳
 坵
 坵數
 坵段
@@ -138620,7 +138073,6 @@ x-kong tī-liâu
 堅疕
 堅痡
 堅確
-堅粑
 堅羓
 堅血
 堅辭
@@ -138634,7 +138086,6 @@ x-kong tī-liâu
 堆草
 堆金積玉
 堆頭
-堘
 堛
 堡
 堡分
@@ -138696,7 +138147,6 @@ x-kong tī-liâu
 報稅館
 報答
 報紙
-報老鼠仔冤
 報老鼠仔怨
 報考
 報表
@@ -138704,7 +138154,6 @@ x-kong tī-liâu
 報謝
 報警
 報賞
-報賬
 報酒
 報酬
 報銷
@@ -138742,7 +138191,6 @@ x-kong tī-liâu
 塊聲
 塌
 塌塌
-塌孔
 塌底
 塌本
 塌空
@@ -138754,7 +138202,6 @@ x-kong tī-liâu
 塌跤
 塌錢
 塌鼻
-塍
 塑
 塑膠
 塑膠桶
@@ -138766,8 +138213,6 @@ x-kong tī-liâu
 塔利班
 塔塔醬
 塗
-塗埆
-塗埆茨
 塗墼
 塗墼厝
 塗尪仔
@@ -138782,7 +138227,6 @@ x-kong tī-liâu
 塗炭
 塗牛翻身
 塗石流
-塗碳
 塗礱
 塗窯
 塗粉
@@ -138800,7 +138244,6 @@ x-kong tī-liâu
 塗質
 塗跤
 塗魠
-塗鮀
 塗龍
 塘
 塚
@@ -138830,7 +138273,6 @@ x-kong tī-liâu
 塞掙
 塞斷
 塞暗烏
-塞櫼
 塞死
 塞氣
 塞漏
@@ -138843,7 +138285,6 @@ x-kong tī-liâu
 塞草
 塞葉
 塞補
-塞貼
 塞路
 塞隙
 塞頭
@@ -138855,7 +138296,6 @@ x-kong tī-liâu
 填井
 填土
 填地
-填塗
 填填
 填岸
 填平
@@ -138910,7 +138350,6 @@ x-kong tī-liâu
 墓桌
 墓牌
 墓碑
-墓神仔
 墓穴
 墓粿
 墓紙
@@ -138932,7 +138371,6 @@ x-kong tī-liâu
 墜精
 墜繩
 墜肚重
-墜腳氣
 墜腸
 墜落
 墜跤氣
@@ -139010,7 +138448,6 @@ x-kong tī-liâu
 墩
 墩仔
 墩墩
-墭籃
 墮
 墮胎
 墳
@@ -139055,7 +138492,6 @@ x-kong tī-liâu
 壁魚
 壁龕仔
 壅
-壅塍
 壅壅
 壅屎
 壅田
@@ -139293,7 +138729,6 @@ x-kong tī-liâu
 外債
 外傷
 外僑
-外儂
 外公
 外冊
 外力
@@ -139328,7 +138763,6 @@ x-kong tī-liâu
 外委
 外姪
 外媽
-外嬤
 外孫
 外客
 外家
@@ -139420,7 +138854,7 @@ x-kong tī-liâu
 多(濟)嘴食火燒餅
 多(濟)少
 多(濟)年
-多(濟)戲多()濟人看
+多(濟)戲多濟人看
 多(濟)樣
 多(濟)歲
 多(濟)牛踏無屎
@@ -139504,7 +138938,6 @@ x-kong tī-liâu
 夜飲
 夜餐
 夠
-夠喟
 夠夠
 夠工
 夠月
@@ -139579,9 +139012,7 @@ x-kong tī-liâu
 大便
 大俸祿
 大個
-大倌
 大假
-大儂
 大儒
 大元帥
 大兄
@@ -139660,8 +139091,6 @@ x-kong tī-liâu
 大喉壙
 大喉孔
 大喜慶
-大喟
-大喟喘
 大喪
 大嘴
 大嘴斗
@@ -139717,7 +139146,6 @@ x-kong tī-liâu
 大姆
 大姊
 大姊頭仔
-大姐
 大姑
 大姓
 大姨
@@ -139728,7 +139156,6 @@ x-kong tī-liâu
 大嫂
 大嫖
 大嫖客
-大子
 大孔
 大孔人
 大孔細裂
@@ -139757,7 +139184,6 @@ x-kong tī-liâu
 大宴
 大家
 大家伙
-大家倌
 大家口
 大家口眾
 大家官
@@ -139807,7 +139233,6 @@ x-kong tī-liâu
 大廈
 大廞
 大廟
-大廣弦
 大廣深
 大廣絃
 大廳
@@ -139819,7 +139244,6 @@ x-kong tī-liâu
 大後日
 大後生
 大德行
-大心喟
 大心思
 大心氣
 大心菜
@@ -139989,7 +139413,6 @@ x-kong tī-liâu
 大注賭
 大注錢
 大泱
-大泳
 大洋
 大派
 大派頭
@@ -140008,7 +139431,6 @@ x-kong tī-liâu
 大溪區
 大漢
 大漢囝
-大漢子
 大漢溪
 大漭漭
 大潭
@@ -140054,7 +139476,6 @@ x-kong tī-liâu
 大甲草
 大甲蓆
 大甲藺
-大甲𥱊
 大畏大細畏細
 大略
 大番魂
@@ -140106,7 +139527,6 @@ x-kong tī-liâu
 大秫
 大稻埕偶戲館
 大穴
-大竈
 大端
 大竹
 大竹板
@@ -140118,7 +139538,6 @@ x-kong tī-liâu
 大箍大把
 大箍懛
 大箍把
-大箍獃
 大管絃
 大管草
 大管蝦
@@ -140197,7 +139616,6 @@ x-kong tī-liâu
 大腦惱
 大腱
 大腳
-大腳筒
 大腳色
 大腳賬
 大腸
@@ -140230,8 +139648,6 @@ x-kong tī-liâu
 大花樣
 大花面
 大英
-大茨
-大茨起
 大茴
 大茴香
 大草唅
@@ -140386,7 +139802,6 @@ x-kong tī-liâu
 大頭婆
 大頭拇
 大頭棍
-大頭母
 大頭狗母
 大頭老
 大頭芒
@@ -140418,7 +139833,6 @@ x-kong tī-liâu
 大驚小怪
 大骨
 大骨湯
-大骹筒
 大骿皮
 大體
 大髻
@@ -140555,7 +139969,6 @@ x-kong tī-liâu
 天恩
 天意
 天懷
-天房
 天才
 天打天成
 天拆籜
@@ -140577,7 +139990,6 @@ x-kong tī-liâu
 天未光
 天柱
 天梯
-天棚
 天橋
 天機
 天欲光
@@ -140858,7 +140270,6 @@ x-kong tī-liâu
 失人禮
 失信
 失儀
-失儂禮
 失分
 失分率
 失力
@@ -141259,7 +140670,6 @@ x-kong tī-liâu
 奶仔草
 奶包
 奶喙仔
-奶嘴仔
 奶奶
 奶帕仔
 奶房
@@ -141333,7 +140743,6 @@ x-kong tī-liâu
 好代誌
 好份
 好佳哉
-好佳在
 好價
 好兄弟
 好兄弟仔
@@ -141360,7 +140769,6 @@ x-kong tī-liâu
 好味
 好味好數
 好味數
-好味是
 好命
 好命人
 好品行
@@ -141368,7 +140776,6 @@ x-kong tī-liâu
 好喙
 好喙斗
 好喙水
-好嘉哉
 好嘴
 好嘴斗
 好嘴水
@@ -141385,7 +140792,6 @@ x-kong tī-liâu
 好好
 好好人
 好好仔
-好好儂
 好姦
 好嫖
 好子
@@ -141440,7 +140846,6 @@ x-kong tī-liâu
 好星
 好景
 好朋
-好未是
 好本領
 好枝骨
 好柴
@@ -141449,7 +140854,6 @@ x-kong tī-liâu
 好步
 好歹
 好死
-好死不死
 好死毋死
 好派
 好派頭
@@ -141542,7 +140946,6 @@ x-kong tī-liâu
 好頭彩
 好額
 好額人
-好額儂
 好額底
 好風日
 好食
@@ -141698,13 +141101,10 @@ x-kong tī-liâu
 始終
 姐
 姐夫
-姐妹
 姐弟仔
 姐母
 姑
 姑丈
-姑不二將
-姑不二終
 姑不將
 姑不而將
 姑且
@@ -141758,7 +141158,6 @@ x-kong tī-liâu
 姜詩
 姜黃
 姣
-姥
 姦
 姦kiāu
 姦夫
@@ -141850,8 +141249,6 @@ x-kong tī-liâu
 娘囝
 娘奶
 娘娘
-娘嫺
-娘嫻
 娘嬭
 娘父
 娘繭
@@ -141933,7 +141330,6 @@ x-kong tī-liâu
 婦五等
 婦人
 婦人人
-婦人儂
 婦人科
 婦女
 婦女人
@@ -141959,12 +141355,6 @@ x-kong tī-liâu
 媒人禮
 媒人線
 媒介
-媒儂
-媒儂公
-媒儂喙
-媒儂嘴
-媒儂婆
-媒儂禮
 媒婆
 媒氣
 媒油
@@ -141973,17 +141363,13 @@ x-kong tī-liâu
 媚媚
 媠
 媠命
-媠喟
 媠噹噹
 媠氣
-媠璫璫
 媠色
 媠面
 媧
 媳
 媳婦
-媵
-媵頭
 媽
 媽口
 媽口人
@@ -142014,9 +141400,7 @@ x-kong tī-liâu
 嫁妝
 嫁娶
 嫁嫁
-嫁尪
 嫁查某囝
-嫁查某子
 嫁禍
 嫁粧
 嫁翁
@@ -142051,7 +141435,6 @@ x-kong tī-liâu
 嫡長女
 嫡長子
 嫣
-嫣投
 嫣水
 嫣頭
 嫦
@@ -142067,15 +141450,11 @@ x-kong tī-liâu
 嫩鳥
 嫩鳥仔
 嫪
-嫺
-嫻
 嬈
 嬈kih-kih
 嬈kí-kí
 嬈lak-lak
 嬈leh-leh
-嬈俳
-嬈倖錢
 嬈夯
 嬈婊
 嬈狂
@@ -142097,8 +141476,6 @@ x-kong tī-liâu
 嬌色
 嬌頭
 嬖妾
-嬤
-嬤祖
 嬭
 嬰
 嬰仔
@@ -142113,7 +141490,6 @@ x-kong tī-liâu
 嬰嬰睏
 嬰孩
 嬰母仔
-嬲花
 嬸
 嬸--仔
 嬸姆
@@ -142124,7 +141500,6 @@ x-kong tī-liâu
 子仔
 子仔樹
 子債父不知
-子兒
 子兒坑
 子午
 子午儀
@@ -142183,7 +141558,6 @@ x-kong tī-liâu
 孔仔縫
 孔內惡
 孔口惡
-孔喙
 孔嘴
 孔夫子
 孔子
@@ -142234,7 +141608,6 @@ x-kong tī-liâu
 字姓燈
 字尾
 字屎
-字巡
 字帖
 字幕
 字彙
@@ -142363,7 +141736,6 @@ x-kong tī-liâu
 孝物
 孝牲禮
 孝狀腳
-孝獃
 孝男
 孝男孝篤
 孝男神
@@ -142458,7 +141830,6 @@ x-kong tī-liâu
 孤老牌
 孤老祠
 孤老院
-孤腳手
 孤色
 孤行獨市
 孤衫孤褲
@@ -142478,7 +141849,6 @@ x-kong tī-liâu
 孤霜
 孤項
 孤飛
-孤骹手
 孤魂
 孤鳥
 孤鸞
@@ -142504,7 +141874,6 @@ x-kong tī-liâu
 孫行者
 孫醫真人
 孫陽
-孬材
 孰是孰非
 孱
 孱弱
@@ -142512,7 +141881,6 @@ x-kong tī-liâu
 孵卵
 孵孵
 孵岫
-孵巢
 孵膿
 學
 學乖
@@ -142520,7 +141888,6 @@ x-kong tī-liâu
 學仔
 學仔仙
 學位
-學儂
 學內
 學分
 學制
@@ -142705,8 +142072,6 @@ x-kong tī-liâu
 安心
 安心樂業
 安心無慮
-安怎
-安怎樣
 安息
 安息日
 安息香
@@ -142772,7 +142137,6 @@ x-kong tī-liâu
 宋帝王
 宋朝
 宋江陣
-宋盻个
 宋盼的
 宋米
 宋米仔
@@ -143026,7 +142390,6 @@ x-kong tī-liâu
 客人
 客人頭福佬尾
 客位
-客儂
 客兄
 客兄公
 客兄哥
@@ -143161,7 +142524,6 @@ x-kong tī-liâu
 害猴
 害當當
 害草鞋
-害虫
 害蟲
 害貨
 宴
@@ -143262,8 +142624,6 @@ x-kong tī-liâu
 家母
 家母妗
 家母舅
-家治
-家治人
 家法
 家父
 家產
@@ -143299,7 +142659,6 @@ x-kong tī-liâu
 家財
 家貲
 家費
-家賄
 家賊難防
 家運
 家道
@@ -143367,7 +142726,6 @@ x-kong tī-liâu
 寄生
 寄生仔
 寄生樹
-寄生虫
 寄生蟲
 寄留
 寄監
@@ -143397,7 +142755,6 @@ x-kong tī-liâu
 寄食
 寄飯
 寄養家庭
-寄骹
 寅
 寅午戌
 寅時
@@ -143491,7 +142848,6 @@ x-kong tī-liâu
 寒kih-kih
 寒人
 寒假
-寒儂
 寒儒
 寒冰地獄
 寒冰池
@@ -143552,7 +142908,6 @@ x-kong tī-liâu
 寓意
 寓所
 寓言
-寔鼻
 寞
 察
 察奪
@@ -143725,7 +143080,6 @@ x-kong tī-liâu
 寵愛
 寵權
 寵物
-寵盛
 寵遇
 寶
 寶丹
@@ -143797,7 +143151,6 @@ x-kong tī-liâu
 封印
 封厝
 封喙
-封嘴
 封土
 封妻蔭子
 封官
@@ -144199,14 +143552,12 @@ x-kong tī-liâu
 小半晡
 小卒仔
 小南門
-小卷仔
 小去
 小叉
 小叔
 小叔仔
 小口
 小可仔
-小吃
 小吉
 小名
 小吹
@@ -144214,7 +143565,6 @@ x-kong tī-liâu
 小呢
 小唱
 小商
-小噍
 小器
 小器具
 小四
@@ -144239,7 +143589,6 @@ x-kong tī-liâu
 小婿
 小媳
 小嬸
-小子
 小字
 小字姓
 小孟臣罐
@@ -144493,8 +143842,6 @@ x-kong tī-liâu
 尖嘴
 尖嘴--的
 尖嘴un
-尖嘴夾仔
-尖嘴掘仔
 尖嘴椒
 尖尖
 尖尾
@@ -144510,13 +143857,11 @@ x-kong tī-liâu
 尖端
 尖絡絡
 尖腳川
-尖腳幼手
 尖角
 尖跤幼手
 尖鋉
 尖鑽
 尖頭
-尖骹幼手
 尖鼻
 尚
 尚m̄
@@ -144525,7 +143870,6 @@ x-kong tī-liâu
 尚仔
 尚剩
 尚尚
-尚尾
 尚文
 尚更
 尚更較
@@ -144568,7 +143912,6 @@ x-kong tī-liâu
 尪姨
 尪姨嘴
 尪婆
-尪婿
 尪媽
 尪帳
 尪架桌
@@ -144613,7 +143956,6 @@ x-kong tī-liâu
 尺窗堵
 尺頭
 尻
-尻倉後話
 尻呆
 尻坦覆
 尻川
@@ -144655,7 +143997,6 @@ x-kong tī-liâu
 尾二指
 尾仔
 尾仔囝
-尾仔子
 尾位
 尾來
 尾冬
@@ -144702,14 +144043,12 @@ x-kong tī-liâu
 尾聲
 尾胴骨
 尾脽
-尾蛾
 尾蝶
 尾蝶仔泅
 尾蝶花
 尾行
 尾身
 尾運
-尾錐
 尾面
 尾韻
 尾頭
@@ -144719,9 +144058,7 @@ x-kong tī-liâu
 尿帕
 尿帕仔
 尿敷
-尿敷仔
 尿斗
-尿杓
 尿桶
 尿桸
 尿滓
@@ -144777,7 +144114,6 @@ x-kong tī-liâu
 屈--落
 屈--著
 屈下
-屈傷
 屈勢
 屈原
 屈原廟
@@ -144804,7 +144140,6 @@ x-kong tī-liâu
 屈服
 屈枕
 屈橋
-屈歲
 屈死
 屈突
 屈而受之
@@ -144859,7 +144194,6 @@ x-kong tī-liâu
 屎礐寮
 屎礐蟲
 屎礐間
-屎篦齒
 屎系
 屎缸
 屎羓
@@ -144904,7 +144238,6 @@ x-kong tī-liâu
 展示
 展紅
 展緩
-展翅
 展翼
 展覽
 展覽會
@@ -144919,12 +144252,10 @@ x-kong tī-liâu
 屘仔
 屘叔
 屘囝
-屘子
 屜
 屜仔
 屜仔牽
 屜屜
-屜門
 屠
 屠戶
 屠殺
@@ -145110,7 +144441,6 @@ x-kong tī-liâu
 山溝
 山漆
 山澤蘭
-山濛
 山煙
 山煙草
 山熊
@@ -145175,12 +144505,10 @@ x-kong tī-liâu
 山茄
 山茄報
 山茉莉
-山茫
 山茭破
 山茱萸
 山茶
 山茶仔
-山茼萵
 山荊
 山荖葉
 山莊
@@ -145256,7 +144584,6 @@ x-kong tī-liâu
 山馬茶
 山馬薯
 山馬蹄
-山骹
 山高
 山高水牛大
 山鬼
@@ -145277,12 +144604,6 @@ x-kong tī-liâu
 山龍眼
 岌岌
 岐
-岑
-岑仔
-岑簷
-岒
-岒仔
-岒簷
 岡
 岡山
 岡山區
@@ -145311,8 +144632,6 @@ x-kong tī-liâu
 岸邊
 峇
 峇微
-峘
-峘頂
 峨眉鄉
 峭
 峭橈
@@ -145336,7 +144655,6 @@ x-kong tī-liâu
 崁頂
 崁頂鄉
 崁頭崁面
-崁骹
 崇
 崇德
 崇拜
@@ -145456,7 +144774,6 @@ x-kong tī-liâu
 工人
 工仔
 工作
-工儂
 工兵
 工具
 工具人
@@ -145606,7 +144923,6 @@ x-kong tī-liâu
 差押
 差押官
 差教
-差校
 差止
 差派
 差濟
@@ -145657,7 +144973,6 @@ x-kong tī-liâu
 巴戟
 巴戟天
 巴掌
-巴攏
 巴斗
 巴旦杏
 巴犁
@@ -145788,7 +145103,6 @@ x-kong tī-liâu
 布袋鵝
 布袞
 布裡
-布規
 布賂
 布質
 布路
@@ -145827,7 +145141,6 @@ x-kong tī-liâu
 希望
 希羅式相偃
 希臘
-帔
 帕
 帕仔
 帕仔巾
@@ -145919,7 +145232,6 @@ x-kong tī-liâu
 帳楣
 帳薕
 帳鉤
-帳額
 帳鬚
 帶
 帶下
@@ -146045,7 +145357,6 @@ x-kong tī-liâu
 幢幡
 幣
 幣帛
-幪被仔
 幫
 幫助
 幫差
@@ -146072,7 +145383,6 @@ x-kong tī-liâu
 干但
 干卿底事
 干喉
-干單
 干城
 干奶
 干己
@@ -146193,7 +145503,6 @@ x-kong tī-liâu
 平鎮區
 平鏡
 平陵
-平陽
 平階
 平靜
 平面
@@ -146291,7 +145600,6 @@ x-kong tī-liâu
 幹當難
 幹細胞
 幹線
-幹譑
 幹路
 幹辦
 幹部
@@ -146319,7 +145627,6 @@ x-kong tī-liâu
 幼咪咪
 幼囝
 幼嫩
-幼子
 幼字
 幼孝
 幼孩
@@ -146385,7 +145692,6 @@ x-kong tī-liâu
 幽居
 幽幽
 幽幽仔疼
-幽幽仔痛
 幽雅
 幾
 幾nā
@@ -146411,7 +145717,6 @@ x-kong tī-liâu
 庄正
 庄民
 庄社
-庄腳
 庄裡
 庄裡人
 庄裡傖
@@ -146420,12 +145725,10 @@ x-kong tī-liâu
 庄裡款
 庄跤
 庄跤人
-庄跤儂
 庄長
 庄門
 庄頂
 庄頭
-庄骹
 庇
 庇佑
 庇蔭
@@ -146450,14 +145753,12 @@ x-kong tī-liâu
 序
 序大
 序大人
-序大儂
 序幕
 序文
 序細
 底
 底tsioh
 底下
-底事
 底代
 底價
 底拕
@@ -146646,11 +145947,9 @@ x-kong tī-liâu
 廊
 廊仔
 廍
-廓頭
 廕
 廖
 廚
-廚仔
 廚子
 廚廚
 廚房
@@ -146664,7 +145963,6 @@ x-kong tī-liâu
 廟埕
 廟宇
 廟寺
-廟庭
 廟會
 廟田
 廟祝
@@ -146809,7 +146107,6 @@ x-kong tī-liâu
 弄刀
 弄劍
 弄喙花
-弄嘴花
 弄囡仔
 弄家散宅
 弄巧反拙
@@ -146853,7 +146150,6 @@ x-kong tī-liâu
 弄鬼
 弄龍
 弇
-弈
 弊
 弊害
 弊案
@@ -146954,7 +146250,6 @@ x-kong tī-liâu
 引電機
 引電線
 引領
-引頭路
 引體搝起
 引鬼入宅
 引魂
@@ -146970,7 +146265,6 @@ x-kong tī-liâu
 弟婦仔
 弟子
 弦
-弦仔
 弦樂
 弧
 弱
@@ -147032,7 +146326,6 @@ x-kong tī-liâu
 張簡
 張網
 張老
-張老鼠
 張聖者
 張許
 張身勢
@@ -147096,7 +146389,6 @@ x-kong tī-liâu
 強腳
 強腳兵
 強行佔據壘包
-強要
 強討
 強記
 強詞
@@ -147109,7 +146401,6 @@ x-kong tī-liâu
 強食弱
 強鳥
 強黨
-彆
 彈
 彈丸
 彈出式視窗
@@ -147148,7 +146439,6 @@ x-kong tī-liâu
 彎uat
 彎乖
 彎來sak去
-彎來拐去
 彎來斡去
 彎借
 彎光仔
@@ -147157,7 +146447,6 @@ x-kong tī-liâu
 彎刀
 彎孔uat縫
 彎彎
-彎彎拐拐
 彎彎斡斡
 彎挖
 彎曲
@@ -147249,7 +146538,6 @@ x-kong tī-liâu
 影集
 影音
 影響
-彳亍
 彷
 彷彿
 役
@@ -147303,7 +146591,6 @@ x-kong tī-liâu
 彼當陣
 彼當陣仔
 彼的
-彼瞬
 彼種
 彼站
 彼等人
@@ -147373,7 +146660,6 @@ x-kong tī-liâu
 後下
 後世
 後世人
-後世儂
 後事
 後人
 後代
@@ -147391,7 +146677,6 @@ x-kong tī-liâu
 後半世人
 後厝
 後叔
-後受
 後台
 後哨
 後嗣
@@ -147409,7 +146694,6 @@ x-kong tī-liâu
 後壁郊
 後壁鈕
 後壟
-後売
 後天
 後天教
 後夫
@@ -147495,7 +146779,6 @@ x-kong tī-liâu
 後界土
 後的
 後筒槍
-後紐
 後編
 後繼
 後繼者
@@ -147541,9 +146824,7 @@ x-kong tī-liâu
 後面風
 後頭
 後頭厝
-後頭茨
 後驛
-後骹
 後齒
 後齣
 後齣頭
@@ -147574,9 +146855,7 @@ x-kong tī-liâu
 得人心
 得人惜
 得人疼
-得人痛
 得來
-得儂惜
 得其中
 得分
 得分位置
@@ -147601,7 +146880,6 @@ x-kong tī-liâu
 得忍且忍
 得意
 得時
-得桃
 得民心
 得法
 得票
@@ -147631,10 +146909,8 @@ x-kong tī-liâu
 徙碇
 徙腳
 徙腳步
-徙舖
 徙跤
 徙鋪
-徙骹
 徛
 徛叉仔
 徛台
@@ -147719,14 +146995,11 @@ x-kong tī-liâu
 御豆
 御駕
 御龍
-徦
-徦是
 復
 復--起來
 復仇
 復健
 復健教練
-復元
 復到倒
 復到返
 復刻
@@ -147868,7 +147141,6 @@ x-kong tī-liâu
 心爽
 心狂火熱
 心狂火著
-心狂火𤏸
 心狂燥熱
 心理
 心理學
@@ -147891,7 +147163,6 @@ x-kong tī-liâu
 心肌梗窒
 心肝
 心肝仔囝
-心肝仔子
 心肝囝
 心肝嬰
 心肝底
@@ -147919,7 +147190,6 @@ x-kong tī-liâu
 心血
 心血管病
 心行
-心裡話
 心跳
 心輔狗
 心適
@@ -148147,20 +147417,6 @@ x-kong tī-liâu
 怠惰骨
 怠慢
 怡
-怣
-怣人
-怣儂
-怣呆
-怣大呆
-怣大獃
-怣怣
-怣想
-怣獃
-怣直
-怣神
-怣膽
-怣話
-怣頭怣面
 急
 急信
 急務
@@ -148205,7 +147461,6 @@ x-kong tī-liâu
 性質
 性騷擾
 怨
-怨切
 怨命
 怨嘆
 怨地
@@ -148225,7 +147480,6 @@ x-kong tī-liâu
 怪人
 怪傑
 怪像
-怪儂
 怪及
 怪奇
 怪孽
@@ -148256,7 +147510,6 @@ x-kong tī-liâu
 怯意
 怯膽
 怱怱
-怹
 恁
 恁大家
 恁娘
@@ -148278,7 +147531,6 @@ x-kong tī-liâu
 恐
 恐做
 恐喝
-恐嚇
 恐嚇取財
 恐怕
 恐怖
@@ -148454,7 +147706,6 @@ x-kong tī-liâu
 悾神
 悾闇
 悾顛
-悿
 情
 情phue
 情人
@@ -148533,7 +147784,6 @@ x-kong tī-liâu
 惡佃
 惡例
 惡俗
-惡儂
 惡化
 惡地
 惡報
@@ -148609,7 +147859,6 @@ x-kong tī-liâu
 想到腹破
 想厭
 想孔
-想孔想縫
 想定
 想差
 想心想肝
@@ -148646,7 +147895,6 @@ x-kong tī-liâu
 惹
 惹lān接鼻
 惹事
-惹事志
 惹代誌
 惹出事
 惹禍
@@ -148778,7 +148026,6 @@ x-kong tī-liâu
 愛睏藥仔
 愛睏鬼
 愛笑
-愛美
 愛聽
 愛花
 愛護
@@ -148790,7 +148037,6 @@ x-kong tī-liâu
 愛雀
 愛顧
 愛食
-愜意
 感
 感--著
 感--著-風
@@ -148895,7 +148141,6 @@ x-kong tī-liâu
 慢死趖
 慢氣
 慢火
-慢皮
 慢經風
 慢脾風
 慢行
@@ -149102,8 +148347,6 @@ x-kong tī-liâu
 懊嘟面
 懊惱
 懊惱癖
-懊揬面
-懊盹面
 懊鬱
 懊鬱熱
 懍
@@ -149155,7 +148398,6 @@ x-kong tī-liâu
 懷胎
 懷舊
 懸
-懸下
 懸低
 懸低坎
 懸低槓
@@ -149183,7 +148425,6 @@ x-kong tī-liâu
 懼怕
 懼懼戰
 懼罪
-懾屎
 懾膽
 懿
 懿族
@@ -149202,11 +148443,9 @@ x-kong tī-liâu
 戇仔魚
 戇仔鯊
 戇倯(sông)
-戇儂
 戇入無戇出
 戇呆
 戇大呆
-戇大獃
 戇大豬
 戇工
 戇想
@@ -149247,8 +148486,6 @@ x-kong tī-liâu
 戌
 戌時
 戌月
-戍
-戍邊兜
 戎
 成
 成luā
@@ -149267,7 +148504,6 @@ x-kong tī-liâu
 成佛
 成個銀
 成做
-成儂
 成全
 成凊天
 成分
@@ -149384,29 +148620,22 @@ x-kong tī-liâu
 戥桿
 戥銀
 截
-截光
 截刀
 截句
 截圖
 截尾
-截屏
 截幼幼
 截截
 截斷
-截日
 截椅
 截止
 截稿
 截股
 截草
-截路
-截車
 截途
 截鋸
 截長補短
-截風
 戮
-戮孔
 戮空
 戮銃術
 戮鑽
@@ -149465,7 +148694,6 @@ x-kong tī-liâu
 戰靴
 戰顫
 戰顫腳
-戰風
 戰馬
 戰鬥
 戰鬥艦
@@ -149539,7 +148767,6 @@ x-kong tī-liâu
 戶名
 戶外
 戶字頭
-戶定
 戶尉
 戶戶
 戶房
@@ -149553,7 +148780,6 @@ x-kong tī-liâu
 戶籍
 戶籍簿
 戶部
-戶閬
 戶頭
 戶頭名
 戽
@@ -149567,7 +148793,6 @@ x-kong tī-liâu
 戽斗的
 戽杓
 戽桶
-戽桸
 戽櫸
 戽水
 戽溝
@@ -149738,8 +148963,6 @@ x-kong tī-liâu
 手抱孩兒
 手指
 手指頭仔
-手按仔
-手捍仔
 手捗
 手捻內
 手掌
@@ -149765,7 +148988,6 @@ x-kong tī-liâu
 手枕
 手枷
 手梏
-手梳揭峘
 手梳攑懸
 手槍
 手槍仔
@@ -149873,7 +149095,6 @@ x-kong tī-liâu
 手骨
 手黏
 手鼓
-手𫟊
 才
 才之調
 才人
@@ -149898,53 +149119,6 @@ x-kong tī-liâu
 才閣
 扎
 扑
-扑交落
-扑咯雞
-扑咳啾
-扑喙鼓
-扑噗仔
-扑姥菜
-扑字機
-扑官司
-扑尻川
-扑層
-扑手
-扑手銃
-扑折
-扑拍
-扑拚
-扑拳
-扑拳頭
-扑拼
-扑損
-扑斷
-扑歹
-扑派
-扑火
-扑無去
-扑獵
-扑球
-扑生驚
-扑石
-扑石師
-扑破
-扑種
-扑算
-扑算盤
-扑納涼
-扑結
-扑翸
-扑觸衰
-扑賣
-扑通關
-扑醒
-扑金仔
-扑鐵
-扑鐵仔師
-扑鐵仔褲
-扑鳥帽
-扑麟
-扑麻雀
 扒
 扒khàng
 扒khàng挖
@@ -149989,7 +149163,6 @@ x-kong tī-liâu
 打不見
 打不適好
 打中午
-打交落
 打件
 打俾伊到
 打倒
@@ -150023,17 +149196,12 @@ x-kong tī-liâu
 打卵
 打叉
 打合
-打呃
-打咯雞
-打咳啾
 打咳嗽
 打哈
 打唪管
 打唪鼓
 打嘴古
-打嘴鼓
 打噎
-打噗仔
 打噠
 打圖
 打土礱
@@ -150062,7 +149230,6 @@ x-kong tī-liâu
 打寒熱
 打寸
 打尻川
-打層
 打山林
 打岔
 打工
@@ -150092,7 +149259,6 @@ x-kong tī-liâu
 打抽豐
 打拍
 打拍傷
-打拚
 打招
 打拳
 打拳頭
@@ -150145,7 +149311,6 @@ x-kong tī-liâu
 打死人大
 打死人膽
 打死板
-打殕仔光
 打水
 打水pān
 打水花
@@ -150158,7 +149323,6 @@ x-kong tī-liâu
 打泙泅
 打洗
 打洞
-打派
 打浮花
 打深淺
 打滅
@@ -150174,11 +149338,9 @@ x-kong tī-liâu
 打烞
 打烞仔
 打無
-打無去
 打無疑
 打無門
 打熄
-打爽
 打牌
 打狀
 打狀元
@@ -150203,7 +149365,6 @@ x-kong tī-liâu
 打眠床枷
 打石
 打石司
-打石師
 打砂
 打破
 打破事
@@ -150225,9 +149386,7 @@ x-kong tī-liâu
 打粟
 打精神
 打約
-打納涼
 打索
-打紮
 打結
 打結球
 打給人
@@ -150282,7 +149441,6 @@ x-kong tī-liâu
 打豆簽
 打豬肉
 打貓
-打賣
 打贏
 打赤酸噎
 打走
@@ -150303,7 +149461,6 @@ x-kong tī-liâu
 打透
 打通套
 打通透
-打通關
 打造
 打過十八銅人
 打遞解
@@ -150315,7 +149472,6 @@ x-kong tī-liâu
 打醒眠
 打醮
 打金
-打金仔
 打釘
 打鈕仔
 打銀
@@ -150331,8 +149487,6 @@ x-kong tī-liâu
 打鏨
 打鐵
 打鐵lūn
-打鐵仔師
-打鐵仔褲
 打鐵哥
 打鐵鞭
 打鐵鱸
@@ -150344,7 +149498,6 @@ x-kong tī-liâu
 打長歇
 打閂根
 打隊
-打青驚
 打面
 打革
 打靶
@@ -150375,7 +149528,6 @@ x-kong tī-liâu
 打鵪鶉
 打鹵
 打鹽
-打麟
 打麵
 打麻雀
 打點
@@ -150421,7 +149573,6 @@ x-kong tī-liâu
 扞家
 扞數
 扞盤
-扞賬
 扞頭
 扞鼎灶
 扣
@@ -150430,7 +149581,6 @@ x-kong tī-liâu
 扣抵
 扣押
 扣掉
-扣油
 扣留
 扣粟
 扣糕仔
@@ -150454,9 +149604,7 @@ x-kong tī-liâu
 扭尻川
 扭扭
 扭扭la̍k-la̍k
-扭扭搙搙
 扭掠
-扭搙
 扭搦
 扭曲
 扭碇
@@ -150482,18 +149630,6 @@ x-kong tī-liâu
 扯籤
 扯靈
 扱
-扱囡仔
-扱客
-扱恨
-扱拾
-扱柴
-扱桷
-扱稅
-扱著
-扱襇
-扱錢
-扱骨
-扱骨頭
 扲
 扲壁藤
 扲壁龍
@@ -150501,7 +149637,6 @@ x-kong tī-liâu
 扳
 扳仔
 扳函
-扳輦轉
 扳過來
 扴
 扴味
@@ -150517,10 +149652,8 @@ x-kong tī-liâu
 扶插
 扶摤
 扶撐
-扶撑
 扶桑花
 扶腳摤手
-扶膦脬
 扶落柴
 扶起
 扶轎
@@ -150529,7 +149662,6 @@ x-kong tī-liâu
 扷
 批
 批中
-批仔
 批信
 批內
 批准
@@ -150647,7 +149779,6 @@ x-kong tī-liâu
 抄譯
 抄賬
 抄錄
-抈鼻
 抉
 抉子弟
 抉手
@@ -150675,14 +149806,10 @@ x-kong tī-liâu
 抐
 抑
 抑m̄
-抑不過
 抑勒
 抑揚
 抑是
-抑更咧
-抑毋擱
 抑無
-抑甲咧
 抑若m̄
 抑若無
 抑鬱
@@ -150749,20 +149876,17 @@ x-kong tī-liâu
 投胎
 投腳tsàm蹄
 投腳擲蹄
-投腳蹔蹄
 投腳雞
 投藥
 投補配搭
 投詞
 投誠
 投資
-投路
 投跳
 投身
 投軍
 投降
 投靠
-投骹蹔蹄
 抗
 抗力作用
 抗力肌
@@ -150790,8 +149914,6 @@ x-kong tī-liâu
 折半
 折去
 折對半
-折手把
-折手霸
 折扣
 折折
 折指
@@ -150831,7 +149953,6 @@ x-kong tī-liâu
 披閱
 披露
 抬舉
-抰
 抱
 抱告
 抱定
@@ -150853,7 +149974,6 @@ x-kong tī-liâu
 抱隱
 抱頭鼠竄
 抱養
-抴門
 抵
 抵ta̍p
 抵ta̍uh叫
@@ -150870,7 +149990,6 @@ x-kong tī-liâu
 抵塞
 抵壁
 抵天
-抵好
 抵平
 抵後
 抵得
@@ -150881,11 +150000,8 @@ x-kong tī-liâu
 抵抵ta̍uh-ta̍uh
 抵抵篤篤
 抵押
-抵搪
 抵敵
-抵數
 抵槌
-抵欲
 抵止
 抵水
 抵流
@@ -150894,8 +150010,6 @@ x-kong tī-liâu
 抵當權
 抵統
 抵臍
-抵著
-抵要
 抵觸
 抵賬
 抵還
@@ -150982,7 +150096,6 @@ x-kong tī-liâu
 抽分
 抽唸
 抽壽
-抽峘
 抽工
 抽弄
 抽後線
@@ -151021,7 +150134,6 @@ x-kong tī-liâu
 抽風
 抽餉
 抽驗
-抽高
 抽鬃
 抽鬮
 抽麵線
@@ -151034,10 +150146,8 @@ x-kong tī-liâu
 抾恨
 抾拾
 抾捔
-抾掬
 抾柴
 抾水
-抾确
 抾稅
 抾紅點仔
 抾線
@@ -151065,9 +150175,7 @@ x-kong tī-liâu
 拄䢢
 拄仔
 拄仔好
-拄則
 拄千
-拄即
 拄咧
 拄喙
 拄好
@@ -151079,26 +150187,17 @@ x-kong tī-liâu
 拄搪
 拄數
 拄欲
-拄痀
 拄眠
 拄瞌睡
-拄磕睡
 拄著
-拄要
-拄賬
 拄開始
 拄頭
 拄龜
-担
-担仔
-担仔麵
 拆
 拆ha̍h
 拆伙灶
 拆伙鼎
-拆吃落腹
 拆單
-拆噍落腹
 拆城避車
 拆夥計
 拆字
@@ -151145,7 +150244,6 @@ x-kong tī-liâu
 拈染
 拈生
 拈田嬰
-拈田𧉅
 拈米卦
 拈香
 拈鬮
@@ -151189,13 +150287,9 @@ x-kong tī-liâu
 拌獅
 拌耳
 拌蚊
-拌蚊仔
 拌蠓仔
 拌鹵
 拍
-拍䀟仔光
-拍不見
-拍交嗆
 拍交落
 拍位
 拍光條
@@ -151209,11 +150303,7 @@ x-kong tī-liâu
 拍咯雞
 拍咳啾
 拍喙鼓
-拍嗝
-拍嘴鼓
-拍噎
 拍噗仔
-拍姆菜
 拍字機
 拍官司
 拍尻川
@@ -151234,7 +150324,6 @@ x-kong tī-liâu
 拍摔
 拍撋
 拍斷
-拍普仔光
 拍暗影
 拍板
 拍某菜
@@ -151261,9 +150350,7 @@ x-kong tī-liâu
 拍粉底
 拍結
 拍結毬
-拍結球
 拍翸
-拍苺
 拍莓
 拍觸衰
 拍賣
@@ -151308,8 +150395,6 @@ x-kong tī-liâu
 拒絕
 拒霜花
 拓
-拓仔
-拓土機
 拓寬
 拓展
 拓跋
@@ -151433,7 +150518,6 @@ x-kong tī-liâu
 拗曲
 拗橫
 拗氣
-拗熨
 拗痕
 拗癖
 拗皮蠻
@@ -151441,7 +150525,6 @@ x-kong tī-liâu
 拗直
 拗笨
 拗紙
-拗紨
 拗蠻
 拗蠻仔
 拗蠻拗觸
@@ -151580,7 +150663,6 @@ x-kong tī-liâu
 拜先生
 拜公
 拜公媽
-拜公嬤
 拜六
 拜別
 拜卯
@@ -151636,7 +150718,6 @@ x-kong tī-liâu
 拜辭
 拜靈
 拜領
-拫
 括
 括弧
 括斷
@@ -151664,7 +150745,6 @@ x-kong tī-liâu
 拳頭拇
 拳頭槌
 拳頭步
-拳頭母
 拳頭砧
 拳頭砧胚
 拳頭館
@@ -151683,20 +150763,11 @@ x-kong tī-liâu
 拺
 拺拍
 拼
-拼俗
-拼勢
-拼命
-拼性命
 拼拼
-拼暝工
-拼生死
-拼生理
 拼皮
-拼硬仔
 拼繃機
 拼繃開
 拼繃鼓
-拼輸贏
 拼音
 拾
 拾--人-的
@@ -151704,7 +150775,6 @@ x-kong tī-liâu
 拾倚
 拾像
 拾司仔
-拾囝仔
 拾囝婆
 拾囝母
 拾姐
@@ -151916,7 +150986,6 @@ x-kong tī-liâu
 按頭
 按額
 按鼎
-按鼎灶
 按鼓板
 挌
 挐
@@ -151929,16 +150998,13 @@ x-kong tī-liâu
 挑土
 挑堂
 挑夫
-挑工
 挑戰
 挑戲
 挑手
-挑手旁
 挑手爿
 挑才
 挑才旁
 挑挑
-挑故意
 挑明
 挑暢
 挑火
@@ -151962,7 +151028,6 @@ x-kong tī-liâu
 挖
 挖人才
 挖仔
-挖土
 挖塗
 挖孔
 挖心肝
@@ -151982,7 +151047,6 @@ x-kong tī-liâu
 挨夾
 挨工
 挨延
-挨弦仔
 挨挨
 挨挨陣陣
 挨挨𤲍𤲍
@@ -152000,16 +151064,13 @@ x-kong tī-liâu
 挨著
 挨虱母礱
 挨過
-挨餜
 挨麥
 挩
-挩板
 挩枋
 挩窗
 挩鍊仔
 挩門
 挫
-挭
 振
 振作
 振動
@@ -152046,7 +151107,6 @@ x-kong tī-liâu
 挹貼
 挹酒
 挺
-挺徛
 挺身
 挼
 挽
@@ -152129,13 +151189,6 @@ x-kong tī-liâu
 捌字
 捌想
 捌貨
-捍
-捍家
-捍數
-捍盤
-捍賬
-捍頭
-捍鼎灶
 捎
 捎來塞去
 捎倒
@@ -152199,17 +151252,13 @@ x-kong tī-liâu
 捙
 捙倒
 捙拚
-捙拼
 捙桶倒
 捙畚斗
 捙盤
-捙糞斗
 捙蛆
 捙跋反
 捙輾斗
 捥
-捦
-捦稠稠
 捧
 捧寶
 捧屎抹面
@@ -152238,8 +151287,6 @@ x-kong tī-liâu
 捲枝仔
 捲條
 捲煎粿
-捲煙
-捲熏
 捲葉蟲
 捲蔫
 捲薰
@@ -152266,7 +151313,6 @@ x-kong tī-liâu
 捷限無憑
 捻
 捻名
-捻寶
 捻手
 捻捻leh-leh
 捻握
@@ -152276,7 +151322,6 @@ x-kong tī-liâu
 捻紅
 捻舌
 捻菜
-捻鑽
 捽
 捽仔
 捽後炮
@@ -152299,7 +151344,6 @@ x-kong tī-liâu
 掀蓋
 掀開
 掂
-掂斗
 掂篤
 掃
 掃--落去
@@ -152310,12 +151354,9 @@ x-kong tī-liâu
 掃做堆
 掃厝
 掃國
-掃土腳
 掃地
 掃塊
-掃塗腳
 掃塗跤
-掃塗骹
 掃墓
 掃帚
 掃帚星
@@ -152329,8 +151370,6 @@ x-kong tī-liâu
 掃梳朵
 掃梳笒仔
 掃涵
-掃箒
-掃箒星
 掃箒草
 掃除
 掃體面
@@ -152352,7 +151391,6 @@ x-kong tī-liâu
 授課
 掉
 掊
-掊開
 掌
 掌中
 掌中珠
@@ -152375,7 +151413,6 @@ x-kong tī-liâu
 掌聲
 掌舖
 掌轎
-掌頭仔
 掏
 掏掏
 掐
@@ -152450,7 +151487,6 @@ x-kong tī-liâu
 掖秧
 掖秧仔
 掖種
-掗孤爿
 掘
 掘仔
 掘掘
@@ -152528,8 +151564,6 @@ x-kong tī-liâu
 掛鬚
 掜
 掜脆
-掞
-掞㧒捔
 掟
 掟拳頭母
 掟掟
@@ -152619,9 +151653,7 @@ x-kong tī-liâu
 掠閃電
 掠雞寄山貓
 掠風jip影
-掠飢
 掠餉
-掠餓
 掠鬼
 掠魚
 掠龍
@@ -152629,7 +151661,6 @@ x-kong tī-liâu
 掠龍的
 掠龍骨
 掠龜走鱉
-掠龜走鼈
 採
 採取
 採工
@@ -152776,7 +151807,6 @@ x-kong tī-liâu
 接骨木
 接骨筒
 接骨草
-接骹
 接龍
 控
 控制
@@ -152805,7 +151835,6 @@ x-kong tī-liâu
 推排
 推推
 推推sak-sak
-推搡
 推撨
 推擦
 推敲
@@ -152903,7 +151932,6 @@ x-kong tī-liâu
 掰草
 掰錢
 掰開
-掽丁
 掽柑
 掽橘
 揀
@@ -152911,8 +151939,6 @@ x-kong tī-liâu
 揀人
 揀佛燒香揀菜撒油
 揀召
-揀吃
-揀噍
 揀客
 揀揀
 揀擇
@@ -153007,9 +152033,7 @@ x-kong tī-liâu
 插siâu伊
 插一跤
 插事
-插事志
 插五針
-插代志
 插代誌
 插入
 插刀
@@ -153017,7 +152041,6 @@ x-kong tī-liâu
 插喙
 插喙插舌
 插嘴
-插嘴插舌
 插嘴筅
 插圖
 插座
@@ -153166,13 +152189,11 @@ x-kong tī-liâu
 揭帖
 揭揭
 揭斑
-揭旗軍仔
 揭曉
 揭毛蓑垂
 揭破
 揭示
 揭開
-揭頭香
 揮
 揮揮
 揮揮去
@@ -153181,12 +152202,6 @@ x-kong tī-liâu
 揮發油
 揮空率
 揲
-揳
-揳孔
-揳後手
-揳手縫
-揳空
-揳縫
 援
 援兵
 援助
@@ -153214,7 +152229,6 @@ x-kong tī-liâu
 損物
 損病
 損益
-損盪
 損眼
 損破錯甕
 損神
@@ -153230,10 +152244,6 @@ x-kong tī-liâu
 搏搏
 搏酵
 搐
-搓
-搓圓
-搓草
-搓鹽
 搔
 搔人捋人
 搔光
@@ -153288,7 +152298,6 @@ x-kong tī-liâu
 搖鼓擔
 搖鼓瑯
 搙
-搙權
 搜
 搜光光
 搜厝
@@ -153312,8 +152321,6 @@ x-kong tī-liâu
 搝搝搦搦
 搝票
 搟
-搡
-搡走
 搢
 搢做前
 搢入
@@ -153322,7 +152329,6 @@ x-kong tī-liâu
 搢水
 搢流
 搢管
-搢話
 搢頭
 搢頭標
 搢頭陣
@@ -153332,7 +152338,6 @@ x-kong tī-liâu
 搣攤
 搣染
 搤
-搤孔
 搤空
 搥
 搥布
@@ -153346,14 +152351,12 @@ x-kong tī-liâu
 搥衫
 搦
 搦屎搦尿
-搦搦掣
 搦權
 搧
 搧--一-下
 搧人
 搧倒
 搧喙䫌
-搧嘴䫌
 搧大耳
 搧尾
 搧帆
@@ -153365,8 +152368,6 @@ x-kong tī-liâu
 搧緣投
 搧腹肚邊
 搧風
-搨腳
-搨骹
 搩
 搪
 搪著
@@ -153387,7 +152388,6 @@ x-kong tī-liâu
 搬生薑
 搬空
 搬穿
-搬茨
 搬話
 搬請
 搬譎
@@ -153404,7 +152404,6 @@ x-kong tī-liâu
 搭壁
 搭壁枋
 搭壁蓮
-搭夥計
 搭客
 搭密
 搭寮
@@ -153437,7 +152436,6 @@ x-kong tī-liâu
 搭胸
 搭胸坎
 搭船
-搭落
 搭蝦餅
 搭褳
 搭貨
@@ -153451,7 +152449,6 @@ x-kong tī-liâu
 搭題
 搭鯋
 搭鴨餅
-搰力
 搴
 搵
 搵墨
@@ -153492,7 +152489,6 @@ x-kong tī-liâu
 摃--折
 摃--死
 摃--著
-摃丸
 摃入
 摃大客
 摃拍
@@ -153533,7 +152529,6 @@ x-kong tī-liâu
 摒摒
 摒本
 摒盪
-摒蕩
 摒貨底
 摒鋪
 摒頭嘴
@@ -153556,17 +152551,14 @@ x-kong tī-liâu
 摔死
 摔法
 摔目
-摔目尾
 摔破
 摔碗摔箸
 摔稻
 摔稻仔
 摔粟
-摔繩
 摔蓆
 摔路
 摔身
-摕囡仔
 摖
 摖板球
 摘
@@ -153585,9 +152577,7 @@ x-kong tī-liâu
 摘車馬炮
 摘釋
 摘齣
-摝喙
 摠
-摠根頭
 摠頭
 摤
 摤勢
@@ -153601,17 +152591,8 @@ x-kong tī-liâu
 摩卡咖啡
 摩摩
 摩西
-摭
-摭丁錢
-摭骨頭
 摯
 摳
-摳仔
-摳刀
-摳刀花
-摳削
-摳皮
-摳草
 摵
 摵一下
 摵仔
@@ -153645,7 +152626,6 @@ x-kong tī-liâu
 摻摻
 摻濫
 摻白
-摻粉
 摼
 摼手勾
 摼損
@@ -153667,8 +152647,6 @@ x-kong tī-liâu
 撇撇
 撇步
 撇腳
-撇褲腳
-撇褲骹
 撈
 撈倒
 撈孔
@@ -153680,16 +152658,13 @@ x-kong tī-liâu
 撐
 撐去
 撐床
-撐懸
 撐撐
 撐椅
 撐渡
 撐渡的
 撐竹排
 撐篙
-撐腿
 撐船
-撐頭
 撐高
 撑
 撑住
@@ -153716,7 +152691,6 @@ x-kong tī-liâu
 撓土
 撓尋
 撓撓
-撕
 撕破
 撙
 撙節
@@ -153764,11 +152738,9 @@ x-kong tī-liâu
 撞突
 撞著
 撞過
-撞鐘
 撞門
 撞開
 撞頭
-撞鼓
 撟
 撟仔
 撟冬
@@ -153810,7 +152782,6 @@ x-kong tī-liâu
 撥出
 撥工
 撥所在
-撥手面
 撥撥
 撥款
 撥活鳥
@@ -153974,7 +152945,6 @@ x-kong tī-liâu
 擔頭
 擗
 擘
-擘手面
 擘擘
 擘腹
 擘金
@@ -154012,13 +152982,6 @@ x-kong tī-liâu
 擦賬
 擦鳥
 擦鼻草
-擧
-擧懸
-擧手
-擧旗軍仔
-擧箸
-擧頭
-擧頭香
 擬
 擬定
 擬徒
@@ -154034,7 +152997,6 @@ x-kong tī-liâu
 擱
 擱uann
 擱入
-擱再
 擱出去
 擱去
 擱底
@@ -154043,7 +153005,6 @@ x-kong tī-liâu
 擱礁
 擱置
 擱著沙
-擱較
 擲
 擲hiat擱
 擲lō-sò
@@ -154104,7 +153065,6 @@ x-kong tī-liâu
 擺腳
 擺腳擺手
 擺錢
-擼力
 擼電話
 擽
 擽呧
@@ -154123,12 +153083,8 @@ x-kong tī-liâu
 攀桂
 攀留
 攀開
-攃
-攃冰
-攃簽
 攄
 攄仔
-攄土機
 攄塗機
 攄頭毛
 攏
@@ -154167,10 +153123,8 @@ x-kong tī-liâu
 攔食
 攕
 攕仔
-攕担
 攕擔
 攘
-攙
 攜
 攝
 攝----去
@@ -154301,7 +153255,6 @@ x-kong tī-liâu
 收息
 收成
 收押
-收担
 收拾
 收捐
 收接
@@ -154344,7 +153297,6 @@ x-kong tī-liâu
 收縮
 收聽
 收腳
-收腳洗手
 收茶
 收落
 收著
@@ -154371,7 +153323,6 @@ x-kong tī-liâu
 收館
 收驚
 收骨頭
-收骹洗手
 收魂
 攸
 改
@@ -154648,9 +153599,6 @@ x-kong tī-liâu
 政變
 政體
 政黨
-敁
-敁斗
-敁篤
 故
 故主
 故事
@@ -154713,7 +153661,6 @@ x-kong tī-liâu
 救主
 救主誕
 救人
-救儂
 救兵
 救助
 救助費
@@ -154758,7 +153705,6 @@ x-kong tī-liâu
 敕府
 敕文
 敕旨
-敕桃
 敕章
 敕符
 敕語
@@ -154954,7 +153900,6 @@ x-kong tī-liâu
 散倒
 散凶
 散凶人
-散凶儂
 散勤
 散去
 散場
@@ -155001,7 +153946,6 @@ x-kong tī-liâu
 散財
 散賣
 散赤
-散赤人
 散赤線
 散趁
 散進士
@@ -155012,7 +153956,6 @@ x-kong tī-liâu
 散錢糧
 散陣
 散隊
-散雄
 散食
 散食人
 散館
@@ -155029,9 +153972,7 @@ x-kong tī-liâu
 敧
 敧枋牚
 敨
-敨中喟
 敨中氣
-敨喟
 敨放
 敨氣
 敨結賽制
@@ -155068,7 +154009,6 @@ x-kong tī-liâu
 敱
 敲
 敲油
-敲虎膦
 敲虎𡳞
 敲鐘
 敲門
@@ -155076,13 +154016,11 @@ x-kong tī-liâu
 整
 整修
 整個
-整儌
 整兵
 整合
 整型
 整容
 整建
-整徼
 整戲
 整整
 整數
@@ -155275,7 +154213,6 @@ x-kong tī-liâu
 斑mâu
 斑枝
 斑枝花
-斑甲
 斑痕
 斑痧
 斑白
@@ -155337,7 +154274,6 @@ x-kong tī-liâu
 料小
 料想
 料想袂到
-料想𣍐到
 料杯
 料無準
 料無著
@@ -155388,7 +154324,6 @@ x-kong tī-liâu
 斟酒
 斡
 斡角
-斡頭
 斤
 斤二稱
 斤兩
@@ -155427,7 +154362,6 @@ x-kong tī-liâu
 斬豬肉
 斬釘截鐵
 斬關
-斬頭
 斬首
 斯
 斯文
@@ -155444,7 +154378,6 @@ x-kong tī-liâu
 新佃
 新來
 新例
-新儂
 新公園
 新冊仔舊曆日
 新出--的
@@ -155586,7 +154519,6 @@ x-kong tī-liâu
 新鮮
 新鳥
 新點點
-斵
 斷
 斷乳
 斷交
@@ -155696,7 +154628,6 @@ x-kong tī-liâu
 施行
 施設
 施餓鬼
-斾鍊
 旁
 旁聽
 旁觀
@@ -156045,7 +154976,6 @@ x-kong tī-liâu
 明亮
 明仔ê昏
 明仔再
-明仔哉
 明仔後日
 明仔日
 明仔早起
@@ -156074,7 +155004,6 @@ x-kong tī-liâu
 明斷
 明日
 明旦
-明旦載
 明早
 明明
 明昏
@@ -156153,7 +155082,6 @@ x-kong tī-liâu
 映日
 映日果
 映映
-映望
 春
 春tsí
 春不老
@@ -156218,7 +155146,6 @@ x-kong tī-liâu
 昧
 昨
 昨和
-昨方
 昨日
 昨昏
 昨昏下昏
@@ -156479,9 +155406,7 @@ x-kong tī-liâu
 暈
 暈--去
 暈倒
-暈去
 暈暈
-暈迷
 暉
 暑
 暑假
@@ -156503,7 +155428,6 @@ x-kong tī-liâu
 暗sàm
 暗thâi
 暗tiuh-tiuh
-暗䀟
 暗下
 暗不靜
 暗中
@@ -156515,7 +155439,6 @@ x-kong tī-liâu
 暗價
 暗光
 暗光鳥
-暗冥
 暗分
 暗刺
 暗助
@@ -156639,7 +155562,6 @@ x-kong tī-liâu
 暗車
 暗酋
 暗醬
-暗醭
 暗錢
 暗鎖
 暗間
@@ -156717,7 +155639,6 @@ x-kong tī-liâu
 暴牙
 暴穎
 暴粒仔
-暴芽
 暴落
 暴虐
 暴行
@@ -156771,10 +155692,8 @@ x-kong tī-liâu
 曠曠曠曠
 曠曠間
 曠曠闊
-曠月
 曠白
 曠礦
-曠站
 曠縫
 曠腳
 曠臼
@@ -156999,7 +155918,6 @@ x-kong tī-liâu
 會做得
 會元
 會兄弟
-會凍
 會勘
 會務
 會友
@@ -157202,7 +156120,6 @@ x-kong tī-liâu
 有做一站
 有做虎站
 有價
-有儂緣
 有入無出
 有其名無其實
 有其處
@@ -157242,7 +156159,6 @@ x-kong tī-liâu
 有孔
 有孔人
 有孔氣
-有孔無榫
 有孕
 有字
 有孝
@@ -157398,9 +156314,7 @@ x-kong tī-liâu
 有量
 有錢
 有錢人
-有錢儂
 有開井就有拔泉
-有閑
 有閒
 有間仔
 有關
@@ -157434,7 +156348,6 @@ x-kong tī-liâu
 服從
 服毒
 服用
-服祀
 服罪
 服膺
 服藥
@@ -157545,7 +156458,6 @@ x-kong tī-liâu
 木工
 木工頭
 木師
-木心板
 木心枋
 木料
 木料廠
@@ -157661,7 +156573,6 @@ x-kong tī-liâu
 本份
 本位
 本來
-本儂
 本元
 本分
 本名
@@ -157953,7 +156864,6 @@ x-kong tī-liâu
 東引鄉
 東方
 東旁
-東時
 東東
 東東西西
 東歐
@@ -157994,7 +156904,6 @@ x-kong tī-liâu
 東轅門
 東道
 東道主
-東邊
 東部
 東部幹線
 東郭
@@ -158026,7 +156935,6 @@ x-kong tī-liâu
 松竹
 松竹梅
 松節油
-松羅
 松膠
 松膠炮
 松茸
@@ -158045,14 +156953,12 @@ x-kong tī-liâu
 板刀
 板印
 板嘹
-板堵
 板尖刀
 板店
 板新
 板板
 板條
 板椅
-板模
 板橋
 板橋區
 板球
@@ -158116,7 +157022,6 @@ x-kong tī-liâu
 林安泰古厝民俗文物館
 林投
 林投姊仔
-林投姐仔
 林投帽
 林投庵
 林投捋
@@ -158126,7 +157031,6 @@ x-kong tī-liâu
 林投菰
 林投雞
 林拔
-林拔仔
 林木
 林杞埔
 林業
@@ -158215,7 +157119,6 @@ x-kong tī-liâu
 枴仔
 枵
 枵燥
-枵豺
 枵過飢
 枵飢失頓
 枵飽吵
@@ -158231,7 +157134,6 @@ x-kong tī-liâu
 架腳
 架設
 架跤
-架骹
 枷
 枷--住
 枷大將
@@ -158262,16 +157164,11 @@ x-kong tī-liâu
 柏樹
 某
 某乜人
-某乜儂
 某人
 某啥人
 某囝
 某大姊
-某大姐
-某子
 某某
-某物人
-某物儂
 某麼
 某麼人
 柑
@@ -158336,7 +157233,6 @@ x-kong tī-liâu
 柔軟度
 柔道
 柔順
-柔魚
 柘
 柙
 柙柙
@@ -158367,13 +157263,10 @@ x-kong tī-liâu
 查問
 查埔
 查埔人
-查埔儂
 查埔囝
 查埔囡仔
-查埔子
 查埔祖
 查夜
-查夫
 查定
 查家甲
 查察
@@ -158393,15 +157286,11 @@ x-kong tī-liâu
 查某人錢
 查某佛
 查某倌
-查某儂
 查某囝
 查某囝仔
 查某囝日
 查某囡仔
-查某嫺
-查某嫻
 查某嬰
-查某子
 查某孫
 查某學生
 查某形
@@ -158423,10 +157312,8 @@ x-kong tī-liâu
 查檢
 查甫
 查甫人
-查甫儂
 查甫囝
 查甫囝仔
-查甫子
 查甫孫
 查甫查某
 查甫漢
@@ -158460,7 +157347,6 @@ x-kong tī-liâu
 柱仔石
 柱仔腳
 柱仔跤
-柱仔骹
 柱抵
 柱燭
 柱珠
@@ -158487,8 +157373,6 @@ x-kong tī-liâu
 柳條花
 柳條門
 柳樹
-柳橙
-柳橙汁
 柳營
 柳營區
 柳玉獐
@@ -158612,7 +157496,6 @@ x-kong tī-liâu
 柴頭
 柴頭仔
 柴頭尪仔
-柴頭翁仔
 柴馬
 柴鬚
 柴魚
@@ -158710,7 +157593,6 @@ x-kong tī-liâu
 根據
 根據地
 根本
-根柢
 根根
 根根鋸鋸
 根母
@@ -158860,7 +157742,6 @@ x-kong tī-liâu
 桌頭kán
 桌頭先生
 桌頭燈
-桌骹
 桐
 桐子
 桐子樹
@@ -158977,7 +157858,6 @@ x-kong tī-liâu
 梗塞
 梗紙
 梗陽
-梘
 梘嘴
 梘尾
 條
@@ -159042,7 +157922,6 @@ x-kong tī-liâu
 梳妝鏡
 梳梳
 梳盒
-梳粧打扮
 梳鏡
 梳頭
 梳齒
@@ -159103,7 +157982,6 @@ x-kong tī-liâu
 棕mâu
 棕屐
 棕掃
-棕攎仔
 棕樹
 棕筅仔
 棕篩花
@@ -159218,10 +158096,8 @@ x-kong tī-liâu
 椅鼓仔
 椆
 椆仔
-椆鼎
 植
 植物
-椎
 椎子
 椎樹
 椏
@@ -159250,8 +158126,6 @@ x-kong tī-liâu
 椰碗
 椰肉
 椰酒
-椵
-椵擔
 椵梅
 椽
 椽椽
@@ -159535,7 +158409,6 @@ x-kong tī-liâu
 樓井
 樓仔
 樓仔厝
-樓仔茨
 樓仔頂
 樓尾頂
 樓層
@@ -159553,7 +158426,6 @@ x-kong tī-liâu
 樓門
 樓閣
 樓頂
-樓骹
 標
 標價
 標明
@@ -159631,7 +158503,6 @@ x-kong tī-liâu
 樹乳油
 樹乳管
 樹乳糊
-樹乳糖
 樹乳衫
 樹乳鞋
 樹乳頭
@@ -159872,7 +158743,6 @@ x-kong tī-liâu
 檢察官
 檢屍
 檢彩
-檢採
 檢方
 檢束
 檢查
@@ -160111,14 +158981,12 @@ x-kong tī-liâu
 歁話
 歁頭歁面
 歆
-歆羨
 歇
 歇中臺
 歇倦
 歇假
 歇冬
 歇喘
-歇困
 歇天路
 歇學
 歇客
@@ -160184,7 +159052,6 @@ x-kong tī-liâu
 歐西
 歐陽
 歕
-歕嗶仔
 歕火
 歕觱仔
 歕觱仔人
@@ -160209,12 +159076,9 @@ x-kong tī-liâu
 止典候贖
 止利
 止只是
-止喙乾
 止喙焦
 止嗽
 止嘔
-止嘴乾
-止嘴焦
 止宮
 止尼薯
 止枵
@@ -160228,7 +159092,6 @@ x-kong tī-liâu
 止痛
 止血
 止飢
-止餓
 止饑
 正
 正一品
@@ -160467,7 +159330,6 @@ x-kong tī-liâu
 步行
 步調
 步輦
-步輾
 步道
 步銃射擊
 步韻
@@ -160602,8 +159464,6 @@ x-kong tī-liâu
 歸uang
 歸一
 歸世人
-歸世儂
-歸个
 歸中
 歸串
 歸主
@@ -160625,8 +159485,6 @@ x-kong tī-liâu
 歸化
 歸千歸萬
 歸千萬
-歸半埔
-歸半晡
 歸咎
 歸國
 歸土
@@ -160645,10 +159503,8 @@ x-kong tī-liâu
 歸就字
 歸尾
 歸屬
-歸山坪
 歸岫
 歸巢
-歸工
 歸幫
 歸年
 歸庄
@@ -160739,7 +159595,6 @@ x-kong tī-liâu
 歹代誌
 歹份
 歹價
-歹儂
 歹冬道
 歹到出髓
 歹剃頭
@@ -160748,14 +159603,11 @@ x-kong tī-liâu
 歹勢講
 歹勢面
 歹去
-歹吃
 歹吉兆
 歹名
 歹味
-歹呷
 歹命
 歹命人
-歹命儂
 歹品
 歹品行
 歹喙
@@ -160764,7 +159616,6 @@ x-kong tī-liâu
 歹嘴斗
 歹嘴歹鼻
 歹嘴鼻
-歹噍
 歹囝
 歹囝孫
 歹囝症
@@ -160776,7 +159627,6 @@ x-kong tī-liâu
 歹天年
 歹失德
 歹姻緣
-歹子
 歹孔
 歹字紙
 歹字運
@@ -160806,7 +159656,6 @@ x-kong tī-liâu
 歹手勢
 歹手爪
 歹手蹄
-歹扭搙
 歹扭搦
 歹收成
 歹文
@@ -160932,8 +159781,6 @@ x-kong tī-liâu
 死人款
 死人面
 死傷
-死儂款
-死儂面
 死冊
 死冤
 死刑
@@ -160950,10 +159797,7 @@ x-kong tī-liâu
 死因
 死囡仔
 死囡仔䖙
-死囡仔撐
 死囡仔脯
-死坐活吃
-死坐活噍
 死坐活食
 死失
 死好
@@ -161033,7 +159877,6 @@ x-kong tī-liâu
 死貓
 死賴
 死賴人
-死賴儂
 死趖
 死路
 死路旁
@@ -161053,11 +159896,6 @@ x-kong tī-liâu
 死鴨仔硬喙桮
 死鹹
 死龜諍kah成活鼈
-殀
-殀壽
-殀壽仔
-殀壽短命
-殀壽骨
 殃
 殉
 殉教者
@@ -161133,7 +159971,6 @@ x-kong tī-liâu
 殺身取義
 殼
 殼仔
-殼仔弦
 殼仔灰
 殼仔絃
 殼殼
@@ -161144,11 +159981,8 @@ x-kong tī-liâu
 殽水
 殿
 殿下
-殿不知
 殿中
-殿力
 殿堂
-殿屎
 殿試
 毀
 毀傷
@@ -161179,10 +160013,8 @@ x-kong tī-liâu
 毋情願
 毋成
 毋成人
-毋成儂
 毋成囝
 毋成囡仔
-毋成子
 毋成樣
 毋成款
 毋成物
@@ -161195,13 +160027,11 @@ x-kong tī-liâu
 毋是
 毋是勢
 毋是款
-毋爾
 毋甘
 毋甘嫌
 毋甘願
 毋知
 毋知人
-毋知儂
 毋知影
 毋知死
 毋管
@@ -161211,7 +160041,6 @@ x-kong tī-liâu
 毋通
 毋過
 毋還
-毋閣
 毋霸
 毋願
 毋驚
@@ -161221,7 +160050,6 @@ x-kong tī-liâu
 母--的
 母仔
 母仔囝
-母仔子
 母利
 母厝
 母囝
@@ -161229,7 +160057,6 @@ x-kong tī-liâu
 母國
 母妗
 母姨
-母子椅
 母形
 母形體
 母斗
@@ -161406,7 +160233,6 @@ x-kong tī-liâu
 毛跤
 毛重
 毛錐子
-毛骹
 毛髮
 毫
 毫克
@@ -161424,7 +160250,6 @@ x-kong tī-liâu
 氈底
 氈條
 氈毯
-氈鼠
 氏
 氐士貉
 民
@@ -161654,7 +160479,6 @@ x-kong tī-liâu
 水影
 水性
 水恬淀
-水截
 水戰
 水手
 水披
@@ -161690,12 +160514,10 @@ x-kong tī-liâu
 水柳柯
 水柿
 水桶
-水梘
 水梨
 水梨仔
 水槽
 水櫃
-水殼仔
 水母
 水母鯊
 水氣
@@ -161755,12 +160577,10 @@ x-kong tī-liâu
 水災
 水煎包
 水煙
-水煙吹
 水煙火車母
 水煙薰
 水煙薰吹
 水煙薰撚
-水熏吹
 水燈
 水燈守
 水燈心草
@@ -161976,7 +160796,6 @@ x-kong tī-liâu
 永年
 永康
 永康區
-永擺
 永日
 永春
 永春仔
@@ -162129,7 +160948,6 @@ x-kong tī-liâu
 汰
 汰汰
 汰衫
-汰討
 汲
 汲水
 決
@@ -162174,7 +160992,6 @@ x-kong tī-liâu
 沃肥
 沃花
 沃雨
-沃霑
 沈
 沈亡
 沈人
@@ -162244,7 +161061,6 @@ x-kong tī-liâu
 沒曉可衰
 沒曉得
 沒曉衰
-沒沒囚
 沒消
 沒用得
 沒能
@@ -162259,7 +161075,6 @@ x-kong tī-liâu
 沒講得
 沒起
 沒起來
-沒趁
 沒離
 沒顧得
 沓
@@ -162284,7 +161099,6 @@ x-kong tī-liâu
 沖泡飲品
 沖犯
 沖破
-沖碰
 沖罐
 沖肚
 沖茶
@@ -162297,7 +161111,6 @@ x-kong tī-liâu
 沙勻
 沙包
 沙參
-沙嗲
 沙園
 沙垵
 沙埔
@@ -162347,7 +161160,6 @@ x-kong tī-liâu
 沙鍋
 沙鑼
 沙門
-沙魚
 沙鰍
 沙鹿
 沙鹿區
@@ -162440,7 +161252,6 @@ x-kong tī-liâu
 油灰
 油炸
 油炸粿
-油炸餜
 油煙
 油燈
 油瓶
@@ -162482,7 +161293,6 @@ x-kong tī-liâu
 油蔥
 油蔥粿
 油蔥雞
-油蔥餜
 油蘭花
 油蚶
 油蟲
@@ -162494,7 +161304,6 @@ x-kong tī-liâu
 油車
 油車粿
 油車間
-油車餜
 油郊
 油鉤
 油門
@@ -162532,7 +161341,6 @@ x-kong tī-liâu
 治罪
 治邪
 治飢
-治飫
 治鬼
 沼平
 沽酒
@@ -162556,8 +161364,6 @@ x-kong tī-liâu
 泄
 泄卵
 泄尿
-泄屎
-泄屎星
 泄屎水
 泄水
 泄泄
@@ -162646,11 +161452,9 @@ x-kong tī-liâu
 泗米抹
 泛
 泛泛
-泛浮
 泛而無統
 泛舟
 泛講
-泛鏡
 泠
 泡
 泡天
@@ -162679,7 +161483,6 @@ x-kong tī-liâu
 注tâm
 注入
 注出來
-注定
 注射
 注射筒
 注心
@@ -162694,14 +161497,12 @@ x-kong tī-liâu
 注神
 注血
 注血射
-注解
 注重
 注音
 注鹹
 注鹽
 泮宮
 泰
-泰國芭樂
 泰國菝仔
 泰安
 泰安鄉
@@ -162817,7 +161618,6 @@ x-kong tī-liâu
 洗家筅
 洗手盆
 洗槍
-洗汏
 洗汰
 洗洗
 洗浴
@@ -162835,7 +161635,6 @@ x-kong tī-liâu
 洗腳
 洗衫
 洗衫店
-洗衫板
 洗衫枋
 洗衫槌
 洗身軀
@@ -162904,7 +161703,6 @@ x-kong tī-liâu
 洳潤洳潤
 洳潤潤
 活
-活**栓＝閂
 活beh
 活m̄祭嚨喉
 活人
@@ -162929,6 +161727,7 @@ x-kong tī-liâu
 活景
 活會
 活期
+活栓＝閂
 活業
 活樂
 活欲
@@ -162956,7 +161755,6 @@ x-kong tī-liâu
 活葬
 活血
 活衣
-活要
 活觀音
 活賣
 活路
@@ -163033,7 +161831,6 @@ x-kong tī-liâu
 流流
 流流phiù-phiù
 流浪
-流涎
 流湯
 流瀾
 流犯
@@ -163042,7 +161839,6 @@ x-kong tī-liâu
 流程
 流竄
 流籠
-流粢
 流糍
 流線
 流膿
@@ -163053,7 +161849,6 @@ x-kong tī-liâu
 流行
 流行感冒
 流行病
-流豬哥涎
 流豬哥瀾
 流質
 流轉
@@ -163064,7 +161859,6 @@ x-kong tī-liâu
 流霞
 流露
 流頭
-流餈
 流馬
 流鼻
 流鼻水
@@ -163174,7 +161968,6 @@ x-kong tī-liâu
 海內外
 海八哥
 海冬
-海加絕
 海勢
 海協會
 海南
@@ -163229,7 +162022,6 @@ x-kong tī-liâu
 海水花
 海沙埔
 海波
-海泳
 海洋
 海洋波
 海洋生物館
@@ -163260,7 +162052,6 @@ x-kong tī-liâu
 海相
 海石
 海砂
-海砂埔
 海神
 海科館
 海程
@@ -163287,8 +162078,6 @@ x-kong tī-liâu
 海虎
 海虎絨
 海虼蚻
-海虼蠘
-海虼蠽
 海蛇
 海蜈蚣
 海螵蛸
@@ -163368,7 +162157,6 @@ x-kong tī-liâu
 消--去
 消phiann
 消phué
-消㾪落肉
 消人的水脹
 消化
 消印
@@ -163437,7 +162225,6 @@ x-kong tī-liâu
 涉精
 涉訟
 涎
-涎垂
 涓
 涕泣
 涗
@@ -163459,7 +162246,6 @@ x-kong tī-liâu
 涵蓋
 涵養
 涸
-涸旱
 涼
 涼亭
 涼伴肥雞
@@ -163616,7 +162402,6 @@ x-kong tī-liâu
 深層
 深山
 深山林內
-深山林裡
 深度
 深徑
 深思
@@ -163882,7 +162667,6 @@ x-kong tī-liâu
 清酒
 清醒
 清錢
-清閑
 清閒
 清閒命
 清除
@@ -163940,7 +162724,6 @@ x-kong tī-liâu
 渣渣滓滓
 渣滓
 渣瘤
-渥
 渦
 渧
 測
@@ -164026,22 +162809,9 @@ x-kong tī-liâu
 湆紕
 湆酸
 湆髓
-湊
-湊做伙
-湊句
 湊坎
-湊夥計
-湊孔
 湊巧
-湊榫頭
-湊無閒
-湊相共
-湊空
-湊股
-湊腳手
 湊適坎
-湊陣
-湊鬧熱
 湒
 湒湒
 湖
@@ -164095,9 +162865,7 @@ x-kong tī-liâu
 湳
 湳仔
 湳仔地
-湳土
 湳塗
-湳水
 湳田
 溉
 源
@@ -164143,7 +162911,6 @@ x-kong tī-liâu
 溝隙
 溡
 溢
-溢乳
 溢出
 溢刺酸
 溢奶
@@ -164344,7 +163111,6 @@ x-kong tī-liâu
 滾湯
 滾滾
 滾滾滾
-滾爽笑
 滾笑
 滾絞
 滾絞疼
@@ -164495,13 +163261,8 @@ x-kong tī-liâu
 漏tshè-tshè
 漏仔
 漏去
-漏喟
 漏壺
-漏屎
-漏屎星
-漏屎馬
 漏斗
-漏桸
 漏泄
 漏洩
 漏球
@@ -164565,9 +163326,6 @@ x-kong tī-liâu
 漚貨
 漚鬱熱
 漚鹹菜
-漛
-漛茶
-漛酒
 漠
 漢
 漢人
@@ -164631,7 +163389,6 @@ x-kong tī-liâu
 漲滿
 漲漲
 漲退
-漲高價
 漳
 漳和
 漳州
@@ -164952,9 +163709,7 @@ x-kong tī-liâu
 濕瀉
 濕瘡
 濕透
-濛
 濛濛
-濛霧
 濟
 濟南府
 濟少
@@ -164970,7 +163725,6 @@ x-kong tī-liâu
 濫sám
 濫交
 濫使
-濫摻
 濫淫
 濫濫sám-sám
 濫灰
@@ -165144,7 +163898,6 @@ x-kong tī-liâu
 火煙船
 火煙車
 火煤
-火熏
 火熥
 火燒
 火燒刀
@@ -165159,7 +163912,6 @@ x-kong tī-liâu
 火燒烙
 火燒罟寮
 火燒船
-火燒茨
 火燒酒
 火燒麥
 火燻
@@ -165269,7 +164021,6 @@ x-kong tī-liâu
 灰白色
 灰石
 灰窯
-灰窰
 灰粉
 灰色
 灰落落
@@ -165295,7 +164046,6 @@ x-kong tī-liâu
 灶頭
 灶額
 灶馬
-灶骹
 灸
 灸火hiānn
 灸薰
@@ -165321,7 +164071,6 @@ x-kong tī-liâu
 炊粉
 炊粿
 炊飯
-炊餜
 炊魚
 炊龜
 炎
@@ -165384,10 +164133,8 @@ x-kong tī-liâu
 炙草
 炤
 炫
-炫目
 炭
 炭丸
-炭孔
 炭屎
 炭工
 炭幼
@@ -165468,10 +164215,6 @@ x-kong tī-liâu
 為難
 為非作歹
 為非糝做
-烆
-烆柴
-烆水
-烆火
 烈
 烈女
 烈婦
@@ -165518,8 +164261,6 @@ x-kong tī-liâu
 烏㽎㽎
 烏么
 烏也la̍k
-烏乾㾪
-烏乾瘦
 烏人
 烏仁
 烏仁目鏡
@@ -165531,7 +164272,6 @@ x-kong tī-liâu
 烏仔魚
 烏令
 烏來區
-烏儂
 烏別仔
 烏刺仔
 烏刺茄
@@ -165585,7 +164325,6 @@ x-kong tī-liâu
 烏張飛
 烏影
 烏影錯
-烏微
 烏心石
 烏心肝
 烏念白念
@@ -165615,8 +164354,6 @@ x-kong tī-liâu
 烏材柿
 烏杭綾
 烏松
-烏板
-烏板拭仔
 烏枋
 烏枋拭仔
 烏枝仔
@@ -165643,7 +164380,6 @@ x-kong tī-liâu
 烏水溝
 烏水烙
 烏汁汁
-烏沁沁
 烏油
 烏油暗漆
 烏油杉
@@ -165656,7 +164392,6 @@ x-kong tī-liâu
 烏滓
 烏滓血
 烏漂洋布
-烏漉沐漬
 烏漉肚
 烏漚
 烏濁汁凍
@@ -165664,7 +164399,6 @@ x-kong tī-liâu
 烏灰
 烏烏
 烏焦
-烏焦㾪
 烏焦焦
 烏焦瘦
 烏煙
@@ -165677,7 +164411,6 @@ x-kong tī-liâu
 烏狗
 烏狗兄
 烏猴
-烏珍珠
 烏璇石
 烏環
 烏瓦
@@ -165724,7 +164457,6 @@ x-kong tī-liâu
 烏糖粿
 烏糖糕
 烏糖茶
-烏糖餜
 烏糙米
 烏紅
 烏紅帽
@@ -165755,7 +164487,6 @@ x-kong tī-liâu
 烏腸肚
 烏臺
 烏色
-烏荒
 烏菇
 烏菇草
 烏菱
@@ -165796,7 +164527,6 @@ x-kong tī-liâu
 烏象
 烏貓
 烏貓姊仔
-烏貓姐仔
 烏貓貓
 烏貢緞
 烏貢鞋
@@ -165818,7 +164548,6 @@ x-kong tī-liâu
 烏釘蚊
 烏釘蜂
 烏鉎
-烏鏥
 烏閃閃
 烏閃電
 烏陰
@@ -165862,7 +164591,6 @@ x-kong tī-liâu
 烏魚花
 烏魚鰾
 烏魯木齊
-烏魯沐債
 烏魯白魯
 烏魴
 烏鯊
@@ -165924,7 +164652,6 @@ x-kong tī-liâu
 烞仔
 烞烞
 烞管
-烞薰
 烰
 烹
 烹油
@@ -165996,13 +164723,11 @@ x-kong tī-liâu
 無上算
 無下無落
 無下落
-無不對
 無中
 無主家神
 無了時
 無事
 無事使
-無事無志
 無事無情
 無事無故
 無事無白
@@ -166023,7 +164748,6 @@ x-kong tī-liâu
 無傳
 無價
 無價寶
-無儂緣
 無兩想
 無兩無想
 無公道
@@ -166055,11 +164779,8 @@ x-kong tī-liâu
 無命
 無品
 無啥
-無啥乜
 無啥物
 無啥貨
-無啥麼
-無喟
 無嗣亭
 無嗣墓
 無嗣鬼
@@ -166123,14 +164844,12 @@ x-kong tī-liâu
 無庸
 無張持
 無張無持
-無張除
 無形
 無彩
 無彩工
 無影
 無影無影
 無影無跡
-無影無迹
 無影跡
 無後爪
 無得定
@@ -166139,7 +164858,6 @@ x-kong tī-liâu
 無心
 無心tsiânn
 無心情
-無心成
 無心肝
 無忌憚
 無恙
@@ -166201,7 +164919,6 @@ x-kong tī-liâu
 無時恬
 無時無tsūn
 無時無陣
-無時閑
 無時閒
 無時陣
 無暝無日
@@ -166313,7 +165030,6 @@ x-kong tī-liâu
 無葉藤
 無著
 無藝
-無藝量
 無行止
 無要無緊
 無要緊
@@ -166344,7 +165060,6 @@ x-kong tī-liâu
 無蹤
 無蹤無跡
 無蹤跡
-無較差
 無較縒
 無輸贏
 無輸雙
@@ -166355,15 +165070,12 @@ x-kong tī-liâu
 無道
 無邊
 無醫
-無采
-無采工
 無重巡
 無量
 無釐絲
 無銷
 無錢
 無錯
-無閑
 無閒
 無閒𩑾𩑾
 無關係
@@ -166394,11 +165106,6 @@ x-kong tī-liâu
 無鼻縫
 無齒菜
 無齒虎
-焢
-焢窰
-焢肉
-焢肉飯
-焢菜頭
 焦
 焦tso
 焦亂
@@ -166423,7 +165130,6 @@ x-kong tī-liâu
 焮火
 焮焮
 焮燒
-焮芳
 焰
 焰焰
 焰焰叫
@@ -166559,7 +165265,6 @@ x-kong tī-liâu
 煞戲
 煞手
 煞打
-煞拍
 煞方
 煞死
 煞氣
@@ -166692,10 +165397,6 @@ x-kong tī-liâu
 煩雜
 煬
 煮
-煮吃
-煮吃裙仔
-煮噍
-煮噍裙仔
 煮忝
 煮暗未
 煮油淨宅
@@ -166713,14 +165414,12 @@ x-kong tī-liâu
 煮飯花
 煮鹽
 煮麵
-煴
 煽
 煽動
 煽惑
 熁
 熁燒
 熄
-熄電
 熅膿
 熇
 熇熇
@@ -166738,9 +165437,6 @@ x-kong tī-liâu
 熊石
 熊膽
 熏
-熏吹
-熏屎
-熏頭
 熔
 熔鉛
 熔銀
@@ -166758,12 +165454,10 @@ x-kong tī-liâu
 熟似
 熟似人
 熟似人客
-熟似儂
 熟嘴
 熟園
 熟土炭
 熟地
-熟姒
 熟字
 熟思
 熟慮
@@ -166799,7 +165493,6 @@ x-kong tī-liâu
 熟藥
 熟藥鋪
 熟行
-熟視
 熟識
 熟賊深思
 熟路
@@ -166809,8 +165502,6 @@ x-kong tī-liâu
 熟鬼
 熟魚
 熟鹽
-熠乍
-熠爁
 熥
 熨
 熨斗
@@ -166839,7 +165530,6 @@ x-kong tī-liâu
 熱ta̍k
 熱ta̍k-ta̍k
 熱人
-熱儂
 熱切
 熱喉
 熱嗽
@@ -166900,8 +165590,6 @@ x-kong tī-liâu
 熱點
 熱鼎
 熱齒
-熻
-熾爁
 燃
 燃料
 燃料棒
@@ -166998,7 +165686,6 @@ x-kong tī-liâu
 燒好香
 燒幾粒仔
 燒心
-燒暖
 燒死
 燒氣
 燒水
@@ -167065,7 +165752,6 @@ x-kong tī-liâu
 燕尾服
 燕尾箭
 燕巢區
-燕氣
 燕盞
 燕碎
 燕窩
@@ -167076,7 +165762,6 @@ x-kong tī-liâu
 燖
 燖補
 燖鍋
-燖鍡
 燙
 燙燒
 燙燙
@@ -167166,19 +165851,15 @@ x-kong tī-liâu
 爆--開
 爆一下
 爆孔
-爆桌
 爆炸
 爆爆
 爆發
 爆發力
-爆穎
 爆竹
 爆箍
 爆裂彈
 爆鼓
 爍
-爍乍
-爍日
 爍爁
 爍爍顫
 爐
@@ -167244,7 +165925,6 @@ x-kong tī-liâu
 爭天奪國
 爭奪
 爭妻奪田
-爭差
 爭得貓兒
 爭戰
 爭權奪利
@@ -167286,7 +165966,6 @@ x-kong tī-liâu
 父精
 父老
 父老囝幼
-父老子幼
 父親
 父頭母骨
 父飯
@@ -167296,7 +165975,6 @@ x-kong tī-liâu
 爸公業
 爸母
 爸老囝幼
-爸老子幼
 爹
 爹娘
 爹爹
@@ -167405,7 +166083,6 @@ x-kong tī-liâu
 牚篙跳
 牚腿
 牚頭
-牚高
 牛
 牛káng
 牛káng-uainnh
@@ -167419,15 +166096,11 @@ x-kong tī-liâu
 牛七
 牛乳
 牛乳凍
-牛乳喙仔
-牛乳嘴仔
 牛乳房
 牛乳樹
 牛乳油
 牛乳漿
-牛乳粉
 牛乳糖
-牛乳色
 牛乳茶
 牛乳餅
 牛仔
@@ -167437,19 +166110,15 @@ x-kong tī-liâu
 牛公刺
 牛冊仔
 牛哥
-牛喙籠
 牛喙罨
 牛嘴枷
 牛嘴籃
-牛嘴籠
-牛嘴罨
 牛囊
 牛坑
 牛坑地獄
 牛奶
 牛奶凍
 牛奶喙仔
-牛奶嘴仔
 牛奶泡
 牛奶粉
 牛奶糖
@@ -167505,7 +166174,6 @@ x-kong tī-liâu
 牛牢
 牛牢捕手
 牛牢教練
-牛牨
 牛犁擔
 牛犁耙
 牛犅
@@ -167525,7 +166193,6 @@ x-kong tī-liâu
 牛眠地
 牛磨
 牛磨店
-牛稠
 牛種
 牛種仔
 牛筋
@@ -167565,7 +166232,6 @@ x-kong tī-liâu
 牛腿銃
 牛膝
 牛膠
-牛膦脬檨
 牛舌草
 牛舌頭
 牛舌餅
@@ -167644,7 +166310,6 @@ x-kong tī-liâu
 物件
 物價
 物品
-物噍
 物理
 物產
 物種
@@ -167661,7 +166326,6 @@ x-kong tī-liâu
 物體
 牲
 牲匣
-牲生
 牲禮
 牲醴
 特
@@ -167719,7 +166383,6 @@ x-kong tī-liâu
 牽公
 牽公胚
 牽制
-牽卡
 牽印
 牽叫
 牽囝人
@@ -167734,7 +166397,6 @@ x-kong tī-liâu
 牽手
 牽扯
 牽扯勻去
-牽扱
 牽抽
 牽抾
 牽拖
@@ -167775,7 +166437,6 @@ x-kong tī-liâu
 牽線
 牽繩
 牽纏
-牽罛
 牽罟
 牽羅經
 牽羹
@@ -167801,7 +166462,6 @@ x-kong tī-liâu
 牽風
 牽馬
 牽魚
-牽龜落坔
 牽龜落湳
 犀
 犀牛
@@ -167849,9 +166509,7 @@ x-kong tī-liâu
 犯人
 犯人欹
 犯僥
-犯儂
 犯則
-犯勢
 犯嫌
 犯案
 犯法
@@ -167977,7 +166635,6 @@ x-kong tī-liâu
 狗脊
 狗腳蹄
 狗藥
-狗虱
 狗蝦
 狗蝨
 狗蟻
@@ -168103,7 +166760,6 @@ x-kong tī-liâu
 猴死囡仔
 猴洞
 猴猴
-猴猻仔
 猴珠
 猴硐
 猴神
@@ -168121,16 +166777,12 @@ x-kong tī-liâu
 猴頭果
 猴齊天
 猶
-猶不過
 猶久
 猶原
-猶擱
-猶擱咧
 猶是
 猶有
 猶未
 猶毋過
-猶甲
 猶的
 猶較
 猶閣
@@ -168139,7 +166791,6 @@ x-kong tī-liâu
 猷太人
 猷豫
 猾
-獃
 獄
 獄卒
 獄吏
@@ -168491,7 +167142,6 @@ x-kong tī-liâu
 珍愛
 珍攝
 珍書
-珍珠
 珍珠菜
 珍珠蘭
 珍藏
@@ -168541,7 +167191,6 @@ x-kong tī-liâu
 班頭館
 班館
 珮
-珮鏈
 現
 現世
 現交
@@ -168569,7 +167218,6 @@ x-kong tī-liâu
 現手契
 現拄現
 現提
-現撈仔
 現日
 現時
 現更便
@@ -168613,13 +167261,11 @@ x-kong tī-liâu
 球扇
 球技
 球桮
-球棰
 球瓠
 球童
 球箆
 球箠
 球箸
-球篦
 球賽
 球迷
 球速
@@ -168834,11 +167480,9 @@ x-kong tī-liâu
 瓦溝
 瓦片仔厝
 瓦窯
-瓦窰
 瓦筒
 瓦船
 瓦花
-瓦茨
 瓦蔥
 瓦蟲
 瓦解
@@ -168918,11 +167562,9 @@ x-kong tī-liâu
 甚
 甚且
 甚人
-甚儂
 甚然
 甚物
 甚至
-甚貨
 甚路
 甚麼
 甚麼人
@@ -168981,7 +167623,6 @@ x-kong tī-liâu
 甜路
 甜酒
 甜頭
-甜餜
 甜餡
 甜鹹淡無嫌
 甜麥
@@ -169001,7 +167642,6 @@ x-kong tī-liâu
 生仔
 生份
 生份人
-生份儂
 生來活去
 生做
 生傳
@@ -169042,7 +167682,6 @@ x-kong tī-liâu
 生妄狀
 生妒
 生姜
-生子
 生字
 生存
 生存競爭
@@ -169153,7 +167792,6 @@ x-kong tī-liâu
 生猴公樹
 生理
 生理人
-生理儂
 生理場
 生理虎
 生理面
@@ -169212,10 +167850,8 @@ x-kong tī-liâu
 生茶
 生菇
 生菜
-生菰
 生落
 生葉
-生蕃
 生薑
 生藥
 生蛇
@@ -169239,10 +167875,8 @@ x-kong tī-liâu
 生酮飲食
 生鉎
 生銑
-生銹
 生鍋
 生鍋仔
-生鏥
 生鏨雞
 生鐵
 生長
@@ -169443,15 +168077,11 @@ x-kong tī-liâu
 甲班
 甲申
 甲科
-甲站
-甲笚笠
 甲箬笠
-甲籜笠
 甲紙
 甲組
 甲聲
 甲若
-甲較
 甲辰
 甲邊
 甲醇
@@ -169574,10 +168204,6 @@ x-kong tī-liâu
 留養局
 留鬚
 畚
-畚埽市場
-畚埽車
-畚掃桶
-畚掃籠
 畚斗
 畚箕
 畚箕港
@@ -169631,7 +168257,6 @@ x-kong tī-liâu
 番仔餅
 番仔香草
 番仔龍眼
-番仔𧜞
 番俗
 番公
 番兵
@@ -169698,15 +168323,12 @@ x-kong tī-liâu
 番薑醬
 番薯
 番薯仔囝
-番薯仔子
 番薯球
 番薯稜
 番薯箍
 番薯簽
-番薯籤
 番薯粉
 番薯舅
-番藷
 番蘇木
 番蘿蔔
 番號
@@ -169771,7 +168393,6 @@ x-kong tī-liâu
 畫筆
 畫箍
 畫糖尪仔
-畫紃
 畫素
 畫結
 畫花
@@ -170043,7 +168664,6 @@ x-kong tī-liâu
 疳積
 疵
 疶
-疶尿
 疶屎
 疶屎星
 疸
@@ -170064,7 +168684,6 @@ x-kong tī-liâu
 疽瘡
 疾
 疾苦
-疿仔
 痀
 痀宮角
 痀忍
@@ -170076,7 +168695,6 @@ x-kong tī-liâu
 病人
 病例
 病債
-病儂
 病入膏肓
 病勢
 病厄
@@ -170134,16 +168752,13 @@ x-kong tī-liâu
 痚呴嗽
 痚痚
 痛
-痛命命
 痛哭
 痛喇
 痛心
 痛心恨
 痛快
 痛恨
-痛惜
 痛拕拕
-痛某菜
 痛沸沸
 痛疼
 痛筴川搔掐撈躂眉曲干
@@ -170157,7 +168772,6 @@ x-kong tī-liâu
 痟tang-tang
 痟亂
 痟人
-痟儂
 痟入
 痟公子
 痟定
@@ -170190,14 +168804,12 @@ x-kong tī-liâu
 痟齣仔
 痠
 痠抽疼
-痠抽痛
 痠洗
 痠疼
 痠痛
 痠軟
 痡
 痡心
-痡痡
 痢
 痢疾
 痢病
@@ -170216,7 +168828,6 @@ x-kong tī-liâu
 痰嗽
 痰壺
 痰氣結胸
-痰涎
 痰瀾
 痰瀾暴嗽
 痰火
@@ -170233,10 +168844,7 @@ x-kong tī-liâu
 痲去
 痲疹
 痲症
-痲痺
 痲瘋
-痲藥
-痲醉
 痲面
 痳
 痴
@@ -170341,10 +168949,8 @@ x-kong tī-liâu
 瘸腳
 瘸腳柝
 瘸跤
-瘸骹
 瘺
 瘼
-瘼鼻
 癀
 療
 療治
@@ -170379,7 +168985,6 @@ x-kong tī-liâu
 癩哥
 癩哥榕
 癩哥漢
-癩哥爛癆
 癩哥貓
 癩哥鬼
 癩病
@@ -170584,7 +169189,6 @@ x-kong tī-liâu
 發音
 發願
 發餉
-發餜
 發駕
 發齒
 白
@@ -170677,7 +169281,6 @@ x-kong tī-liâu
 白昲
 白昲白昲
 白昲色
-白晰晰
 白木耳
 白本洋
 白朮
@@ -170797,7 +169400,6 @@ x-kong tī-liâu
 白肉豆
 白肚早
 白胡椒
-白腳蹄
 白腹
 白腹仔
 白膠
@@ -170908,7 +169510,6 @@ x-kong tī-liâu
 白頭khok
 白頭仔
 白頭契
-白頭殼仔
 白頭毛
 白頭翁
 白頭蔻
@@ -170922,7 +169523,6 @@ x-kong tī-liâu
 白馬屎
 白骨山葛草
 白骨珠仔草
-白骹蹄
 白鬚
 白鬚報
 白魚
@@ -170948,7 +169548,6 @@ x-kong tī-liâu
 白鼓釘
 白鼻貓
 白龍船花
-白𩟗無味
 百
 百二
 百億
@@ -170993,7 +169592,6 @@ x-kong tī-liâu
 百歲年老
 百永
 百無二三
-百百孔
 百百樣
 百百款
 百百種
@@ -171308,7 +169906,6 @@ x-kong tī-liâu
 盤問
 盤喙錦
 盤嘴花
-盤嘴錦
 盤墘
 盤字
 盤客
@@ -171380,7 +169977,6 @@ x-kong tī-liâu
 目孔
 目孔刺
 目孔臼
-目孔赤
 目字旁
 目實
 目尖
@@ -171404,9 +170000,6 @@ x-kong tī-liâu
 目漏
 目無尊長
 目狗針
-目珠
-目珠仁
-目珠皮
 目白舌吐
 目的
 目眉
@@ -171473,18 +170066,12 @@ x-kong tī-liâu
 目頭
 目𥍉仔
 盯
-盯不知
 盯出來
 盯力
 盯尿
 盯屎
-盯怣
-盯戇
-盯毋知
-盯生
 盯目
 盯盯
-盯青
 盱
 盲
 盲啞
@@ -171584,7 +170171,6 @@ x-kong tī-liâu
 相借喙
 相借嘴
 相偃
-相偎
 相偷
 相傍
 相傍倚
@@ -171604,10 +170190,8 @@ x-kong tī-liâu
 相勸
 相卸
 相卸hō-mī
-相卸事
 相卸代
 相厝宅
-相及
 相叫喙
 相叫嘴
 相叫應
@@ -171632,7 +170216,6 @@ x-kong tī-liâu
 相好
 相妒
 相姦
-相媵
 相嫌
 相孔
 相學
@@ -171668,12 +170251,6 @@ x-kong tī-liâu
 相惡
 相愛
 相手
-相扑
-相扑雞仔
-相扑電
-相打
-相打雞仔
-相打電
 相扭
 相扯
 相扶
@@ -171691,7 +170268,6 @@ x-kong tī-liâu
 相拍電
 相拔肩
 相招
-相拱
 相持
 相挖
 相挨
@@ -171699,12 +170275,10 @@ x-kong tī-liâu
 相挨相夾
 相挨相推
 相挨相𤲍
-相挭
 相捌
 相捻手
 相掌法
 相排
-相掙
 相掟
 相探
 相接
@@ -171729,7 +170303,6 @@ x-kong tī-liâu
 相教相教
 相敬
 相整會
-相旆
 相替
 相會
 相棄嫌
@@ -171739,7 +170312,6 @@ x-kong tī-liâu
 相欺
 相比
 相比並
-相沓
 相法
 相添
 相渡
@@ -171760,7 +170332,6 @@ x-kong tī-liâu
 相疊
 相疼
 相疼痛
-相痛疼
 相皮
 相盯
 相相
@@ -171830,7 +170401,6 @@ x-kong tī-liâu
 相逢
 相連
 相連紲
-相連續
 相連蒂帶
 相遇
 相過
@@ -171870,7 +170440,6 @@ x-kong tī-liâu
 相𤆬走
 相𫝛
 盹
-盹眗
 盹瞌睡
 盹龜
 盻
@@ -171925,7 +170494,6 @@ x-kong tī-liâu
 看佛字
 看來
 看做
-看儂無
 看冊
 看出
 看出出
@@ -171988,9 +170556,7 @@ x-kong tī-liâu
 看看
 看真
 看破
-看破腳手
 看破跤手
-看破骹手
 看精
 看能出
 看脈
@@ -172028,8 +170594,6 @@ x-kong tī-liâu
 看館
 看館大爺
 看馬相踢
-看𣍐上目
-看𣍐起
 真
 真中
 真主
@@ -172188,7 +170752,6 @@ x-kong tī-liâu
 眾人
 眾人怨
 眾人惡
-眾儂
 眾口
 眾國
 眾多
@@ -172290,7 +170853,6 @@ x-kong tī-liâu
 睿智
 睿賓
 瞀
-瞇
 瞌
 瞖
 瞞
@@ -172469,7 +171031,6 @@ x-kong tī-liâu
 矮仔花
 矮仔財
 矮仔鼓
-矮儂
 矮奴
 矮拄拄
 矮擲
@@ -172695,7 +171256,6 @@ x-kong tī-liâu
 石頭鼓
 石馬
 石魚
-石鮔
 石鯪魚
 石鯽
 石鱗
@@ -172705,17 +171265,11 @@ x-kong tī-liâu
 石龍子
 石龕
 石龜
-矴
 矸
 矸仔
 矸仔菜
 矸塞
 矸底
-矸轆
-矺
-矺番藷
-矺蕃薯
-矺蕃藷
 矽砂
 砂
 砂仁
@@ -172726,7 +171280,6 @@ x-kong tī-liâu
 砂埔
 砂布
 砂手
-砂挑
 砂梨
 砂石
 砂石仔車
@@ -172843,7 +171396,6 @@ x-kong tī-liâu
 破柴龜
 破格
 破格喙
-破格嘴
 破案
 破棉績假氈
 破檨仔
@@ -172896,7 +171448,6 @@ x-kong tī-liâu
 破錢
 破鏡
 破鏨
-破鐤
 破開
 破關
 破陣
@@ -172939,12 +171490,9 @@ x-kong tī-liâu
 硩注
 硩煞
 硩番薯
-硩番藷
 硩紙
 硩線
 硩落去
-硩蕃薯
-硩蕃藷
 硩驚
 硫
 硫磺
@@ -173064,15 +171612,11 @@ x-kong tī-liâu
 硼
 硼砂
 硿缽
-碁
-碁子
-碁盤
 碁盤腳樹
 碇
 碇仔
 碇地
 碇擔
-碇硞硞
 碇索
 碇身
 碇車
@@ -173145,7 +171689,6 @@ x-kong tī-liâu
 碗櫥仔
 碗殘
 碗池趨枋
-碗疆
 碗盤
 碗碎
 碗碟箸
@@ -173165,7 +171708,6 @@ x-kong tī-liâu
 碗頭
 碗頭仔
 碗額
-碗餜
 碗龍樹
 碘質
 碘酒
@@ -173189,11 +171731,7 @@ x-kong tī-liâu
 碰造化
 碰釘
 碳
-碳孔
-碳屎
 碳水化合物
-碳礦
-碳空
 碳跤跡
 確
 確保
@@ -173220,7 +171758,6 @@ x-kong tī-liâu
 磁人物
 磁仔
 磁仔phè
-磁仔店
 磁司阜
 磁器
 磁坩
@@ -173237,14 +171774,11 @@ x-kong tī-liâu
 磁鼓椅
 磅
 磅仔
-磅壁
 磅子
-磅孔
 磅皮
 磅磅
 磅空
 磅米芳
-磅米香
 磅蟹目
 磅蟹草
 磅表
@@ -173272,7 +171806,6 @@ x-kong tī-liâu
 磚
 磚仔
 磚仔窯
-磚仔窰
 磚仔角
 磚仔門
 磚庭
@@ -173332,8 +171865,6 @@ x-kong tī-liâu
 礁仔
 礁溪
 礁溪鄉
-礁蔫
-礁鬆
 礎
 礐
 礐仔
@@ -173458,7 +171989,6 @@ x-kong tī-liâu
 祖婆
 祖婆廟
 祖媽
-祖嬤
 祖宗
 祖家
 祖師
@@ -173472,7 +172002,6 @@ x-kong tī-liâu
 祖產
 祖祖
 祖籍
-祖茨
 祖賽
 祖道
 祖餞
@@ -173666,7 +172195,6 @@ x-kong tī-liâu
 禁口針
 禁句
 禁喙
-禁喟
 禁嘴
 禁城
 禁子
@@ -173822,7 +172350,6 @@ x-kong tī-liâu
 禽
 禽流感
 禽獸
-禽胸
 禽鳥類
 禾
 禾字旁
@@ -173881,7 +172408,6 @@ x-kong tī-liâu
 私娼
 私孔
 私宅
-私家
 私密
 私底下
 私廳
@@ -173893,7 +172419,6 @@ x-kong tī-liâu
 私慾
 私房
 私掩私掩
-私敧
 私暗
 私校
 私業
@@ -173988,14 +172513,12 @@ x-kong tī-liâu
 科運
 科錢
 科長
-科頭
 秒
 秒針
 秒鐘
 秘
 秘傳
 秘力
-秘四
 秘密
 秘密密
 秘思
@@ -174021,7 +172544,6 @@ x-kong tī-liâu
 租粟
 租約
 租縛
-租茨
 租谷
 租趕
 租車
@@ -174152,7 +172674,6 @@ x-kong tī-liâu
 稅源
 稅率
 稅稅
-稅茨
 稅賦
 稅金
 稅銀
@@ -174194,10 +172715,8 @@ x-kong tī-liâu
 稠
 稠仔
 稠密
-稠鼎
 種
 種作
-種做
 種傳
 種子
 種族
@@ -174216,7 +172735,6 @@ x-kong tī-liâu
 種類
 稯木
 稱
-稱仔
 稱呼
 稱尾
 稱底
@@ -174258,7 +172776,6 @@ x-kong tī-liâu
 稻穗
 稻草
 稻草人
-稻草儂
 稻草囷
 稻菜
 稻葉
@@ -174402,9 +172919,7 @@ x-kong tī-liâu
 空喙
 空喙哺舌
 空嘔
-空嘴
 空嘴哺舌
-空嘴薄舌
 空地
 空城
 空城計
@@ -174459,7 +172974,6 @@ x-kong tī-liâu
 空腹
 空船
 空花
-空茨間
 空虛
 空行
 空襲
@@ -174517,7 +173031,6 @@ x-kong tī-liâu
 突人玍
 突傷
 突出
-突棰
 突死
 突然
 突玍
@@ -174546,10 +173059,7 @@ x-kong tī-liâu
 窒
 窒仔
 窒倒街
-窒喙孔
 窒喙空
-窒嘴孔
-窒嘴空
 窒扶斯
 窒素
 窒車
@@ -174629,7 +173139,6 @@ x-kong tī-liâu
 窮窮
 窮苦
 窮赤
-窮赤人
 窮途
 窮銀
 窮錫
@@ -174638,7 +173147,6 @@ x-kong tī-liâu
 窮鳥
 窯
 窯烘麭
-窰
 窵
 窸
 窸倏
@@ -174653,9 +173161,6 @@ x-kong tī-liâu
 竅神
 竇
 竇瓶
-竈
-竈跤
-竈頭
 竊
 竊取
 竊盜
@@ -174691,7 +173196,6 @@ x-kong tī-liâu
 立院
 立願
 立體
-竘
 站
 站bī船
 站孔
@@ -174733,7 +173237,6 @@ x-kong tī-liâu
 童叟
 童女
 童子
-童子班
 童子痟
 童年
 童生
@@ -174814,7 +173317,6 @@ x-kong tī-liâu
 竹南鎮
 竹器
 竹圍
-竹塍蠳
 竹塘鄉
 竹塹
 竹塹餅
@@ -174830,7 +173332,6 @@ x-kong tī-liâu
 竹弓
 竹心
 竹扦
-竹批仔
 竹披
 竹披仔
 竹挖仔
@@ -174880,15 +173381,12 @@ x-kong tī-liâu
 竹窗
 竹竿
 竹笙
-竹笚
 竹符
 竹笨
 竹筅
 竹筍
-竹筏
 竹筒
 竹筧
-竹筨
 竹箅
 竹箍
 竹管
@@ -174961,9 +173459,7 @@ x-kong tī-liâu
 竹風蘭雨
 竹香
 竹馬
-竹骹
 竹鼠
-竹𥱊
 竺
 竿
 竿(菅)蓁林
@@ -174982,14 +173478,12 @@ x-kong tī-liâu
 笑含含
 笑吻吻
 笑咍咍
-笑咳咳
 笑哈哈
 笑嘻嘻
 笑容
 笑市
 笑微微
 笑手
-笑杯
 笑柄
 笑桮
 笑棕色
@@ -175022,14 +173516,12 @@ x-kong tī-liâu
 笑黃
 笒
 笙
-笚
 笛
 笛仔
 笞刑
 笠
 笠仔
 笠套
-笢
 符
 符仔
 符仔水
@@ -175077,7 +173569,6 @@ x-kong tī-liâu
 笴桶
 笴腮
 笴魚
-筁仔
 筅
 筅仔
 筅仔清潔劑
@@ -175160,10 +173651,8 @@ x-kong tī-liâu
 等齊
 筊
 筊仙
-筊先
 筊場
 筊岫
-筊巢
 筊本
 筊東
 筊窟
@@ -175237,8 +173726,6 @@ x-kong tī-liâu
 筶仔
 筶仔錢
 筶信
-箄
-箄仔
 箅
 箅仔
 箅仔門
@@ -175294,7 +173781,6 @@ x-kong tī-liâu
 算起
 算錯
 算額
-算𣍐和
 箠
 箠仔
 管
@@ -175365,7 +173851,6 @@ x-kong tī-liâu
 箭竹
 箭竹仔
 箭竹仔筍
-箭筍
 箭箠
 箭翎
 箭肉
@@ -175515,12 +174000,8 @@ x-kong tī-liâu
 篾貨
 篾轎
 篾香
-篾𥱊
 簇
 簈
-簏
-簏仔
-簏袋仔
 簠
 簡
 簡介
@@ -175665,14 +174146,12 @@ x-kong tī-liâu
 米phun
 米tshiám
 米tâi
-米䊩
 米乳
 米仔kó
 米仔干
 米仔茶
 米仔酒
 米仔麩
-米佬
 米倉
 米價
 米割包
@@ -175687,7 +174166,6 @@ x-kong tī-liâu
 米市
 米店
 米心
-米扦
 米探
 米攕
 米斗
@@ -175745,7 +174223,6 @@ x-kong tī-liâu
 米芳糖
 米荖
 米蕊
-米虫
 米蟲
 米血
 米袋
@@ -175759,7 +174236,6 @@ x-kong tī-liâu
 米醋
 米間
 米頭
-米香
 米麩
 米龜
 米𧉟
@@ -175849,7 +174325,6 @@ x-kong tī-liâu
 粗俗物仔
 粗俗貨
 粗做
-粗儂
 粗刀石
 粗勇
 粗吹
@@ -175935,7 +174410,6 @@ x-kong tī-liâu
 粗腳手
 粗腳赤手
 粗腳重手
-粗腳重蹄
 粗花
 粗花糖
 粗茶
@@ -175959,14 +174433,10 @@ x-kong tī-liâu
 粗飯
 粗飽
 粗香
-粗骹重蹄
 粗體
 粗魚
 粗魯
 粗龍
-粘土
-粘塗
-粙
 粞
 粞粉
 粞粉薯
@@ -176008,9 +174478,7 @@ x-kong tī-liâu
 粵西
 粹
 粽
-粽笚
 粽箬
-粽籜
 粽葉
 精
 精pà-pà
@@ -176092,7 +174560,6 @@ x-kong tī-liâu
 粿錢
 粿面
 粿餡
-粿𥽕
 糊
 糊kha̍h
 糊人
@@ -176196,7 +174663,6 @@ x-kong tī-liâu
 糞䇞藤
 糞且
 糞口
-糞口虫
 糞口蟲
 糞土
 糞埽
@@ -176393,7 +174859,6 @@ x-kong tī-liâu
 紅杉
 紅杜鵑
 紅松柏
-紅架桌
 紅柑
 紅柑種
 紅柚
@@ -176538,7 +175003,6 @@ x-kong tī-liâu
 紅腳烏尖
 紅腳疥
 紅腳鳥
-紅膏赤脂
 紅膏赤蠘
 紅色
 紅芋
@@ -176613,7 +175077,7 @@ x-kong tī-liâu
 紅銅片
 紅銅茶kóo
 紅銅錢
-紅銑()
+紅銑
 紅銑水
 紅銑泉
 紅鐵甲
@@ -176674,7 +175138,6 @@ x-kong tī-liâu
 紅鼻
 紅龜
 紅龜粿
-紅龜餜
 紅？蓖
 紇
 紇于
@@ -176706,19 +175169,14 @@ x-kong tī-liâu
 納錢糧
 納餉
 紐
-紐仔
-紐仔孔
 紐仔步
-紐仔空
 紐倚
 紐束仔
 紐步
 紐箍絲仔
-紐紐仔
 紐索
 紐結糖
 紐豬
-紐鈕仔
 純
 純全
 純情
@@ -176783,7 +175241,6 @@ x-kong tī-liâu
 紙撚索
 紙敬
 紙料
-紙板
 紙枋
 紙枷
 紙條
@@ -176809,7 +175266,6 @@ x-kong tī-liâu
 紙筋灰
 紙管
 紙篋仔
-紙簏仔
 紙籠
 紙籤仔
 紙背
@@ -176916,7 +175372,6 @@ x-kong tī-liâu
 索盧
 索路
 索陽
-紨
 紩
 紩衫
 紫
@@ -177165,11 +175620,8 @@ x-kong tī-liâu
 結晶体
 結束
 結果
-結果掞捒
-結果掞搡
 結果擲捒
 結果擲掉
-結果擲搡
 結核
 結案
 結業
@@ -177239,7 +175691,6 @@ x-kong tī-liâu
 絕六無
 絕句
 絕命
-絕喟
 絕嗣
 絕囝絕孫
 絕地
@@ -177369,8 +175820,6 @@ x-kong tī-liâu
 絪
 絪絪
 絪線
-絪纏
-絭捾
 絮
 絮báng
 絮絮
@@ -177423,7 +175872,6 @@ x-kong tī-liâu
 綁桅
 綁票
 綁綁
-綉
 綑
 綑綑
 經
@@ -177478,7 +175926,6 @@ x-kong tī-liâu
 經緯
 經練
 經腳
-經腳經手
 經著
 經襪
 經話
@@ -177490,7 +175937,6 @@ x-kong tī-liâu
 經銷
 經風
 經驗
-經骹經手
 經魁
 綜
 綜合
@@ -177602,7 +176048,6 @@ x-kong tī-liâu
 網鳥
 綴
 綴人走
-綴儂走
 綴前綴後
 綴手
 綴會仔
@@ -177725,7 +176170,6 @@ x-kong tī-liâu
 緊迸迸
 緊速速
 緊驚風
-緊骹
 緊鬼鬼
 緒
 緒言
@@ -177852,7 +176296,6 @@ x-kong tī-liâu
 練達
 練雀
 練馬
-練𤞚話
 緻
 縈縈纏纏
 縈纏
@@ -177879,7 +176322,6 @@ x-kong tī-liâu
 縛緊緊
 縛縛
 縛腳
-縛腳縛手
 縛腳鞋
 縛船
 縛虎
@@ -177887,8 +176329,6 @@ x-kong tī-liâu
 縛跤縛手
 縛身
 縛頭
-縛骹
-縛骹縛手
 縛髻
 縛鬃
 縣
@@ -178177,25 +176617,18 @@ x-kong tī-liâu
 續
 續修
 續勢
-續喙
 續嘴尾
 續壇
 續壇尾
 續娶
 續後
 續手
-續扑
-續拍
 續接
-續攤
 續斷
 續篇
 續絃
 續續
 續而後
-續落來
-續落去
-續話
 續辦
 續連
 續隨子
@@ -178211,12 +176644,10 @@ x-kong tī-liâu
 纏線
 纏纏
 纏腳
-纏腳絆手
 纏腳纏手
 纏花
 纏訴
 纏足
-纏跟
 纏跤布
 纏跤絆手
 纏跤纏手
@@ -178225,7 +176656,6 @@ x-kong tī-liâu
 纏身飛蛇
 纏隨
 纏頭
-纏骹絆手
 纓
 纓纏
 纔光
@@ -178308,8 +176738,6 @@ x-kong tī-liâu
 罕行
 罕見
 罕逢
-罛
-罛仔
 罟
 罟仔
 罟寮
@@ -178325,7 +176753,6 @@ x-kong tī-liâu
 罩濛
 罩矇
 罩罩
-罩茫
 罩蘭
 罩衫
 罩被仔
@@ -178358,7 +176785,6 @@ x-kong tī-liâu
 置身無地
 置靈
 罰
-罰企
 罰俸
 罰單
 罰徛
@@ -178371,7 +176797,6 @@ x-kong tī-liâu
 罰球
 罰罪
 罰罰
-罰豎
 罰酒
 罰金
 罰銀
@@ -178456,7 +176881,6 @@ x-kong tī-liâu
 羊毛衫
 羊油
 羊港市
-羊牨
 羊牨刺
 羊犅
 羊甘草
@@ -178517,12 +176941,9 @@ x-kong tī-liâu
 美化
 美味
 美商
-美喟
-美噹噹
 美國
 美國仙丹
 美國割包
-美國土豆
 美國塗豆
 美國時間
 美國煙腸
@@ -178545,7 +176966,6 @@ x-kong tī-liâu
 美方
 美景
 美查某
-美氣
 美洲
 美滿
 美濃區
@@ -178562,7 +176982,6 @@ x-kong tī-liâu
 美舉
 美色
 美蔥
-美蝶
 美術
 美術館
 美規
@@ -178571,7 +176990,6 @@ x-kong tī-liâu
 美軍
 美醜
 美金
-美面
 美食
 美麗
 美麗島
@@ -178677,7 +177095,6 @@ x-kong tī-liâu
 羽翼
 羽飾
 翁
-翁仔
 翁仔姐
 翁仔某
 翁仲
@@ -178691,7 +177108,6 @@ x-kong tī-liâu
 翁某
 翁生某妲
 翅
-翅股
 翌日
 翌火蛇
 翎
@@ -178702,7 +177118,6 @@ x-kong tī-liâu
 翔
 翕
 翕像
-翕像機
 翕像法
 翕像館
 翕卵
@@ -178760,7 +177175,6 @@ x-kong tī-liâu
 翹唇
 翹嘴
 翹嘴唇
-翹坦
 翹翹
 翹蝦
 翻
@@ -178843,17 +177257,10 @@ x-kong tī-liâu
 老人目
 老人羶
 老人鏡
-老仔
-老伙仔
 老伴
 老來嬌
-老俀
 老倒勼
 老倒頹
-老傫
-老儂
-老儂斑
-老儂目
 老兄
 老兄台
 老光棍
@@ -178881,7 +177288,6 @@ x-kong tī-liâu
 老壽
 老大
 老大人
-老大儂
 老大公
 老天tho̍h
 老太
@@ -178956,9 +177362,7 @@ x-kong tī-liâu
 老甘蔗頭
 老生
 老田寮溪
-老番癲
 老番顛
-老痀痀
 老病
 老百姓
 老的
@@ -178999,7 +177403,6 @@ x-kong tī-liâu
 老運
 老酒
 老長壽
-老闆
 老阿伯
 老阿婆
 老陽
@@ -179022,7 +177425,6 @@ x-kong tī-liâu
 老鼠壅
 老鼠孔
 老鼠巢
-老鼠擗仔
 老鼠櫥
 老鼠炷
 老鼠當
@@ -179031,7 +177433,6 @@ x-kong tī-liâu
 老鼠蒸
 老鼠藥
 老鼠觸
-老鼠觸仔
 老鼠豚
 考
 考倒先生
@@ -179066,7 +177467,6 @@ x-kong tī-liâu
 耄
 耄耄
 者
-者爾
 者番
 耆
 耆壽
@@ -179118,11 +177518,8 @@ x-kong tī-liâu
 耳墜
 耳孔
 耳孔仔藤
-耳孔吼
 耳孔輕
-耳孔重
 耳孔鬼
-耳孔鬼仔
 耳字旁
 耳屎
 耳扒
@@ -179142,14 +177539,12 @@ x-kong tī-liâu
 耳空lō
 耳空仔藤
 耳空吼
-耳空哮
 耳空彈
 耳空輕
 耳空重
 耳空霆
 耳空鬼仔
 耳箭
-耳耳
 耳聞
 耳葉
 耳蒂
@@ -179219,7 +177614,6 @@ x-kong tī-liâu
 聖意
 聖慮
 聖戰
-聖抵聖
 聖拄聖
 聖教
 聖斷
@@ -179229,7 +177623,6 @@ x-kong tī-liâu
 聖書
 聖會
 聖朝
-聖杯
 聖母
 聖火
 聖燈
@@ -179355,7 +177748,6 @@ x-kong tī-liâu
 職訓
 職責
 職銜
-職馬
 聽
 聽--見
 聽主意
@@ -179445,7 +177837,6 @@ x-kong tī-liâu
 肉桂皮
 肉油
 肉滷
-肉焿
 肉燥
 肉燥飯
 肉片
@@ -179477,7 +177868,6 @@ x-kong tī-liâu
 肉羹
 肉肉
 肉脯
-肉腳仔
 肉色
 肉菇
 肉菜
@@ -179503,7 +177893,6 @@ x-kong tī-liâu
 肉餡
 肉骨
 肉骨酥
-肉骹仔
 肉體
 肉魚
 肉魚仔
@@ -179526,7 +177915,6 @@ x-kong tī-liâu
 肚內
 肚帶
 肚底
-肚捾
 肚捾褲
 肚掩
 肚癰
@@ -179558,7 +177946,6 @@ x-kong tī-liâu
 肝膽
 肝臟
 肝花
-肝連
 肝𦟪
 股
 股主
@@ -179626,8 +178013,6 @@ x-kong tī-liâu
 肥軟
 肨
 肨奶
-肨椅
-肨泡
 肩
 肩吾
 肩挑背負
@@ -179650,7 +178035,6 @@ x-kong tī-liâu
 育囡仔
 育囡仔歌
 育奶
-育子
 育幼院
 育成教練
 育才
@@ -179813,8 +178197,6 @@ x-kong tī-liâu
 胡蠅
 胡蠅屎
 胡蠅屎痣
-胡蠅扑仔
-胡蠅打仔
 胡蠅拍仔
 胡蠅櫥
 胡蠅紙
@@ -179845,7 +178227,6 @@ x-kong tī-liâu
 胳
 胳下
 胳下lang
-胳下孔
 胳下空
 胴
 胸
@@ -179963,7 +178344,6 @@ x-kong tī-liâu
 脫營
 脫疽
 脫種
-脫窗
 脫站
 脫箠
 脫籍
@@ -180011,7 +178391,6 @@ x-kong tī-liâu
 脹倚
 脹大
 脹尿
-脹屎
 脹死
 脹氣
 脹水
@@ -180186,10 +178565,6 @@ x-kong tī-liâu
 腳仔爪
 腳仔腳
 腳來手來
-腳倉
-腳倉䫌
-腳倉口
-腳倉后話
 腳兜
 腳凹腳
 腳刀
@@ -180204,7 +178579,6 @@ x-kong tī-liâu
 腳尾火
 腳尾燭
 腳尾紙
-腳尾錢
 腳尾飯
 腳川phué
 腳巾
@@ -180218,7 +178592,6 @@ x-kong tī-liâu
 腳後肚
 腳後距
 腳後靪
-腳後𩨑
 腳懶手懶
 腳手
 腳扣
@@ -180228,13 +178601,10 @@ x-kong tī-liâu
 腳指頭母
 腳挾
 腳捕
-腳捗
 腳接腳
 腳搖手擲
-腳擋
 腳擲手擲
 腳數
-腳斗
 腳斗仔
 腳斷
 腳曲
@@ -180244,9 +178614,7 @@ x-kong tī-liâu
 腳桶
 腳桶遨
 腳條
-腳椵
 腳楗
-腳模
 腳模手印
 腳步
 腳母草
@@ -180296,17 +178664,14 @@ x-kong tī-liâu
 腳跡
 腳跡底
 腳跬出
-腳踃間仔
 腳踏
 腳踏人的地
-腳踏仔
 腳踏差
 腳踏車
 腳蹄
 腳蹠
 腳蹠底
 腳較大身
-腳都
 腳鈴
 腳鎖鏈
 腳鐐手扣
@@ -180315,24 +178680,18 @@ x-kong tī-liâu
 腳頭
 腳頭u
 腳頭u碗
-腳頭窩
 腳頷
-腳騷
 腳骨
 腳鬆手lāng
 腳鬚
 腳鱗
-腳麻手痺
 腳鼻liâm
-腳鼻臁
-腳𫟊
 腷
 腸
 腸仔
 腸仔炎
 腸仔熱
 腸仔病
-腸仔瘍
 腸仔肚
 腸仔𣻸
 腸滑
@@ -180355,8 +178714,6 @@ x-kong tī-liâu
 腹肚
 腹肚尾
 腹肚枵
-腹肚飢
-腹肚餓
 腹腸
 腹膜
 腹膜毒瘤
@@ -180421,14 +178778,6 @@ x-kong tī-liâu
 膠黐
 膣
 膣屄
-膦
-膦嘴
-膦屌
-膦核
-膦神
-膦綏
-膦脬
-膦鳥
 膨
 膨仔褥
 膨價
@@ -180451,7 +178800,6 @@ x-kong tī-liâu
 膨風
 膨風龜
 膨餅
-膨鬆
 膨鼠
 膩
 膩䯖
@@ -180524,7 +178872,6 @@ x-kong tī-liâu
 臨時硬
 臨時臨tsūn
 臨時臨曜
-臨時臨要
 臨時臨陣
 臨機
 臨機應變
@@ -180541,7 +178888,6 @@ x-kong tī-liâu
 臨終
 臨臨仔
 臨身
-臨邊
 臨陣
 臨險
 自
@@ -180718,8 +179064,6 @@ x-kong tī-liâu
 臭tshiân
 臭tsi-tsi
 臭丸
-臭乳呆
-臭乳獃
 臭乾
 臭乾味
 臭乾尾
@@ -180728,7 +179072,6 @@ x-kong tī-liâu
 臭乾葉
 臭乾飯
 臭人
-臭儂
 臭名
 臭名聲
 臭名臭聲
@@ -180737,7 +179080,6 @@ x-kong tī-liâu
 臭嘴ham
 臭嘴角
 臭土
-臭土味
 臭塗味
 臭天黃
 臭奶hiàn
@@ -180815,14 +179157,10 @@ x-kong tī-liâu
 臭濁
 臭濃
 臭火luah
-臭火凋
 臭火烙
 臭火焦
-臭火煙
-臭火熏
 臭火燒
 臭火燻
-臭火礁
 臭火薰
 臭焦
 臭煬
@@ -180866,7 +179204,6 @@ x-kong tī-liâu
 臭腳
 臭腳liâm
 臭腳sio̍h
-臭腳液
 臭腳鼻liâm
 臭腹內
 臭臊
@@ -180893,7 +179230,6 @@ x-kong tī-liâu
 臭賤相
 臭賤骨
 臭跤液
-臭跤餿
 臭辛辛
 臭酒hiàn
 臭酸
@@ -180901,7 +179237,6 @@ x-kong tī-liâu
 臭酸步
 臭酸水
 臭酸話
-臭醭
 臭銅
 臭銅sian
 臭銅sian味
@@ -180909,8 +179244,6 @@ x-kong tī-liâu
 臭錢
 臭鐵
 臭雞酒hiàn
-臭青
-臭青公
 臭面
 臭頭
 臭頭庀
@@ -180921,7 +179254,6 @@ x-kong tī-liâu
 臭風
 臭香
 臭骨相
-臭骹液
 臭鬢邊
 臭魚
 臭鮭
@@ -181099,14 +179431,11 @@ x-kong tī-liâu
 舉出
 舉動
 舉子
-舉懸
 舉手
 舉手禮
-舉旗軍仔
 舉止
 舉用
 舉目無親
-舉箸
 舉荐
 舉薦
 舉行
@@ -181115,7 +179444,6 @@ x-kong tī-liâu
 舉辦
 舉銃
 舉頭
-舉頭香
 舊
 舊丈單
 舊主
@@ -181409,7 +179737,6 @@ x-kong tī-liâu
 艱艱苦苦
 艱苦
 艱苦人
-艱苦儂
 艱苦生
 艱苦罪過
 艱苦計
@@ -181476,8 +179803,6 @@ x-kong tī-liâu
 芋菰草
 芋薯
 芋頭
-芋餜
-芋餜蹺
 芋鹹
 芍
 芍藥
@@ -181506,8 +179831,6 @@ x-kong tī-liâu
 芒花秫
 芒苳
 芒草
-芓
-芓鳥仔
 芙
 芙蓉
 芙蓉紅蟳
@@ -181528,7 +179851,6 @@ x-kong tī-liâu
 芡滷
 芡神
 芡芳
-芡香
 芣苣
 芥
 芥末
@@ -181544,7 +179866,6 @@ x-kong tī-liâu
 芬園鄉
 芬多精
 芭
-芭仔票
 芭蕉
 芭蕉扇
 芭蕾
@@ -181676,7 +179997,6 @@ x-kong tī-liâu
 花綾
 花緞
 花縐
-花纈
 花羽
 花翎
 花肚
@@ -181695,11 +180015,9 @@ x-kong tī-liâu
 花花擲擲
 花花草草
 花花葉葉
-花苺
 花茶
 花草
 花莓
-花菉菉
 花菜
 花葉
 花葉綠
@@ -181726,7 +180044,6 @@ x-kong tī-liâu
 花街柳巷
 花衣
 花袂牢枝
-花袂稠枝
 花言
 花言巧語
 花謝
@@ -181763,8 +180080,6 @@ x-kong tī-liâu
 花點
 花鼓
 花齣
-花𣍐牢枝
-花𣍐稠枝
 芳
 芳hiaunnh-hiaunnh
 芳phùn-phùn
@@ -181777,7 +180092,6 @@ x-kong tī-liâu
 芳粉
 芳粉紙
 芳紙
-芳絳絳
 芳臭
 芳花
 芳苑鄉
@@ -182065,26 +180379,9 @@ x-kong tī-liâu
 茜草
 茨
 茨*
-茨主
-茨內
-茨地
-茨契
-茨宅
-茨瓦
-茨稅
-茨角頭
-茨角鳥仔
-茨邊
-茨邊兜
-茨邊隔壁
-茨邊頭尾
-茨頂
-茨頭家
-茨骹
 茫
 茫茫
 茫茫渺渺
-茫霧
 茭
 茭lia̍h
 茭tiann
@@ -182098,7 +180395,6 @@ x-kong tī-liâu
 茭紋蓆
 茭荖仔
 茭薦
-茭薦仔
 茭薦草
 茭薦蓆
 茭？菜
@@ -182248,7 +180544,6 @@ x-kong tī-liâu
 茶館
 茶鹵
 茶𥑮
-茶𥕥
 茸
 茸茸
 茹
@@ -182262,7 +180557,6 @@ x-kong tī-liâu
 茹促促
 茹冗
 茹念
-茹氅氅
 茹狂狂
 茹絞絞
 茹絮夢
@@ -182294,7 +180588,6 @@ x-kong tī-liâu
 草仔粿
 草仔花
 草仔頭
-草儂
 草其大略
 草其略
 草凹
@@ -182312,7 +180605,6 @@ x-kong tī-liâu
 草地sông
 草地人
 草地倯
-草地儂
 草地氣
 草地稅
 草坪
@@ -182388,7 +180680,6 @@ x-kong tī-liâu
 草色
 草花
 草花仔蛇
-草茨仔
 草草
 草莓
 草莓醬
@@ -182442,7 +180733,6 @@ x-kong tī-liâu
 草麻
 草齴
 草龍
-草𥱊
 荊
 荊仔柴
 荊妻
@@ -182457,7 +180747,6 @@ x-kong tī-liâu
 荏
 荏冉
 荏懶
-荏爛
 荏身
 荏身命
 荐
@@ -182527,7 +180816,6 @@ x-kong tī-liâu
 莊
 莊嚴
 莊子
-莊孝維
 莎
 莎草根
 莎雞
@@ -182544,7 +180832,6 @@ x-kong tī-liâu
 莞草
 莞荽
 莢
-莦聲
 莧
 莧菜
 莪朮
@@ -182605,7 +180892,6 @@ x-kong tī-liâu
 菁餅
 菅
 菅尾
-菅榛
 菅芒
 菅芒掃
 菅芒花
@@ -182650,7 +180936,6 @@ x-kong tī-liâu
 菜單
 菜圃
 菜園
-菜垞
 菜堂
 菜奶
 菜姑
@@ -182667,12 +180952,10 @@ x-kong tī-liâu
 菜底
 菜店
 菜店查某
-菜廚
 菜心
 菜快食行難修
 菜把
 菜擔
-菜擦
 菜擴
 菜教
 菜料
@@ -182724,7 +181007,6 @@ x-kong tī-liâu
 菜蔬
 菜蟲
 菜蟳
-菜觳
 菜豆
 菜豬
 菜販
@@ -182760,7 +181042,6 @@ x-kong tī-liâu
 菠薐仔
 菠薐仔菜
 菠薐菜
-菢
 菩
 菩提
 菩提丸
@@ -182935,7 +181216,6 @@ x-kong tī-liâu
 落下腭
 落下頦
 落井下石
-落交
 落人
 落人嘴唇皮
 落人的喙
@@ -182971,7 +181251,6 @@ x-kong tī-liâu
 落地耕
 落坎
 落坐
-落坔
 落坪
 落塗
 落塭
@@ -183070,11 +181349,9 @@ x-kong tī-liâu
 落第
 落筆
 落籍
-落粧
 落糞
 落線
 落績
-落翅仔
 落翼仔
 落耳
 落肉
@@ -183083,7 +181360,6 @@ x-kong tī-liâu
 落肥
 落胎
 落胳
-落腳氣
 落腸頭
 落腹
 落膏
@@ -183136,7 +181412,6 @@ x-kong tī-liâu
 落館
 落馬
 落馬瘋
-落骹氣
 落魄
 落鹵
 落鹽
@@ -183241,7 +181516,6 @@ x-kong tī-liâu
 著萎
 著落
 著著
-著虫
 著蝝
 著蟲
 著蟻
@@ -183252,7 +181526,6 @@ x-kong tī-liâu
 著辦
 著述
 著銃
-著青驚
 著頭
 著顫瘋
 著驚
@@ -183270,7 +181543,6 @@ x-kong tī-liâu
 葛藤
 葛藤草
 葛衫
-葛香
 葡
 葡萄
 葡萄乾
@@ -183297,7 +181569,6 @@ x-kong tī-liâu
 葫蘆瓜
 葫蘆簪
 葫蘆腳
-葫蠅
 葬
 葬儀
 葬棺
@@ -183393,7 +181664,6 @@ x-kong tī-liâu
 蓄水量
 蓄積
 蓄能設施
-蓄茨
 蓄電池
 蓄電設施
 蓄音器
@@ -183477,7 +181747,6 @@ x-kong tī-liâu
 蓪草花
 蓬
 蓬心
-蓬果
 蓬生果
 蓬萊
 蓬萊米
@@ -183535,10 +181804,8 @@ x-kong tī-liâu
 蔗汁
 蔗砊
 蔗種
-蔗笚
 蔗箬
 蔗節
-蔗籜
 蔗粕
 蔗苗
 蔗虎
@@ -183609,7 +181876,6 @@ x-kong tī-liâu
 蔽蔽積積
 蕃
 蕃仔刺
-蕃仔幔
 蕃仔掃箒
 蕃仔林投
 蕃仔灣
@@ -183620,7 +181886,6 @@ x-kong tī-liâu
 蕃仔豆
 蕃仔香草
 蕃仔龍眼
-蕃仔𧜞
 蕃刺仔
 蕃姜
 蕃婆怨
@@ -183628,7 +181893,6 @@ x-kong tī-liâu
 蕃婆灣
 蕃柑
 蕃產物
-蕃社
 蕃花
 蕃菁
 蕃薑
@@ -183643,15 +181907,12 @@ x-kong tī-liâu
 蕃薯煎
 蕃薯箍
 蕃薯簽
-蕃薯籤
 蕃薯粉
 蕃薯粿
 蕃薯糟
 蕃薯舅
 蕃薯葉
 蕃薯酒
-蕃藷
-蕃顛
 蕃麥
 蕃黍
 蕉
@@ -183666,7 +181927,6 @@ x-kong tī-liâu
 蕎麥
 蕗
 蕗蕎
-蕗藠
 蕗藤
 蕘
 蕢
@@ -184098,7 +182358,6 @@ x-kong tī-liâu
 蘿蔔菜
 虎
 虎--人
-虎人
 虎仔帽
 虎仔爺
 虎仔花
@@ -184321,24 +182580,17 @@ x-kong tī-liâu
 虧累
 虧虧
 虧負
-虫
 虫字旁
 虫字腳
-虫豸
-虬
-虬毛
-虬虬
 虯
 虯儉
 虯毛
 虯虯
 虱
-虱母
 虱母子
 虱母子草
 虱母頭
 虱目魚
-虱篦
 虱篦草
 虹
 虹出半篷
@@ -184349,28 +182601,22 @@ x-kong tī-liâu
 虼
 虼蚤
 虼蚻
-虼蠘
-虼蠽
 蚊
 蚊bui
 蚊仔
 蚊仔公
-蚊仔水
 蚊仔煙
 蚊仔煙草
 蚊仔燻
 蚊仔燻草
 蚊仔詩
 蚊仔酥
-蚊仔香
 蚊嘴
 蚊帳
 蚊帳鉤
 蚊弓
 蚊拂仔
-蚊捽仔
 蚊摔
-蚊摔仔
 蚊摔枝
 蚊燻
 蚊瓠
@@ -184385,7 +182631,6 @@ x-kong tī-liâu
 蚊罩鉤
 蚊罩鬃
 蚊罩鬚
-蚊虫
 蚊蟀
 蚊蟲
 蚊香
@@ -184420,7 +182665,6 @@ x-kong tī-liâu
 蚵仔輪
 蚵仔飯
 蚵仔麵線
-蚵嗲
 蚵埕
 蚵堆
 蚵干
@@ -184450,7 +182694,6 @@ x-kong tī-liâu
 蚶殼錢
 蚶肉
 蚻
-蚼蟻
 蛀
 蛀iûnn
 蛀孔
@@ -184494,7 +182737,6 @@ x-kong tī-liâu
 蛇黃
 蛋
 蛋白質
-蛓毛蟲
 蛙
 蛛
 蛛*
@@ -184598,7 +182840,6 @@ x-kong tī-liâu
 蜷
 蜻蛉
 蜻蜓
-蝎仔
 蝒
 蝒蟲
 蝕
@@ -184638,7 +182879,6 @@ x-kong tī-liâu
 蝦脯
 蝦膎
 蝦蛄
-蝦蛄拍仔
 蝦蛄擗仔
 蝦蛄草
 蝦蛄頭
@@ -184647,7 +182887,6 @@ x-kong tī-liâu
 蝦鬚
 蝦鬚仔線
 蝦鮭
-蝦龜嗽
 蝨
 蝨母
 蝨母卵
@@ -184734,7 +182973,6 @@ x-kong tī-liâu
 螽斯
 螿
 螿蜍
-螿蠩
 蟀
 蟄
 蟉蠽翼
@@ -184770,7 +183008,6 @@ x-kong tī-liâu
 蟯仔街
 蟯嘴
 蟯桮
-蟯篦
 蟯蟯趖
 蟲
 蟲子
@@ -184833,16 +183070,10 @@ x-kong tī-liâu
 蠓仔電
 蠓仔香
 蠓捽仔
-蠓摔仔
 蠓罩
-蠓虫
 蠓蟲
-蠔
 蠔乳
-蠔仔
-蠔仔煎
 蠔殼仔
-蠔炱
 蠕
 蠘
 蠘仔
@@ -185028,7 +183259,6 @@ x-kong tī-liâu
 行痕
 行直
 行短路
-行碁
 行禮
 行禮路
 行私
@@ -185086,9 +183316,6 @@ x-kong tī-liâu
 行頭
 行額禮
 行香
-行骹花
-行𣍐開腳
-行𣍐開骹
 衍
 衍生
 術
@@ -185197,7 +183424,6 @@ x-kong tī-liâu
 表妹
 表姊
 表姊妹
-表姐
 表姪
 表姪孫
 表孫仔
@@ -185303,14 +183529,11 @@ x-kong tī-liâu
 袂使
 袂使得
 袂做得
-袂凍
 袂博假博
 袂口
-袂吃袂睏
 袂合
 袂和
 袂和盤
-袂噍𣍐睏
 袂堪得
 袂套
 袂尾
@@ -185368,7 +183591,6 @@ x-kong tī-liâu
 袚
 袚巾
 袚鍊
-袜仔
 袞
 袞墘
 袞條
@@ -185548,7 +183770,6 @@ x-kong tī-liâu
 裝貨
 裟
 裡
-裡籬仔
 裨
 裨益
 裱
@@ -185624,13 +183845,10 @@ x-kong tī-liâu
 褪牙
 褪皮
 褪腹裼
-褪色
 褪衫
 褪褲
-褪褲膦
 褪褲𡳞
 褪赤跤
-褪赤骹
 褪齒
 褫
 褫開
@@ -185652,20 +183870,13 @@ x-kong tī-liâu
 褲長
 褲頭
 褲頭龍
-褲骹
 褻瀆
 襀
 襁褓
 襄
 襄理
 襇
-襉
 襉龜
-襒
-襒手䘼
-襒紮
-襒褲腳
-襒褲骹
 襖
 襖仔
 襖套
@@ -185738,7 +183949,6 @@ x-kong tī-liâu
 西比利亞
 西洋
 西洋人
-西洋儂
 西洋冊
 西洋劍
 西洋字
@@ -185805,8 +184015,6 @@ x-kong tī-liâu
 要務
 要口
 要吐
-要呢
-要哭要𥍉
 要地
 要塞
 要害
@@ -185817,12 +184025,10 @@ x-kong tī-liâu
 要是
 要暗
 要暗仔
-要死要活
 要求
 要港部
 要用
 要略
-要知
 要素
 要緊
 要脅
@@ -185900,7 +184106,6 @@ x-kong tī-liâu
 見眾
 見積
 見笑
-見笑事
 見笑代
 見笑草
 見紅黃
@@ -185944,7 +184149,6 @@ x-kong tī-liâu
 規年迵天
 規律
 規心
-規旁
 規日
 規晡
 規晡久
@@ -185982,19 +184186,13 @@ x-kong tī-liâu
 覓錢
 覓頭路
 覓食
-覓鴞
-覓鷂
 覕
 覕喙
-覕嘴
-覕相找
 覕相揣
 覕雨
 覕鬚
 視
 視力
-視大
-視大人
 視學
 視察
 視神經
@@ -186014,7 +184212,6 @@ x-kong tī-liâu
 親伯
 親像
 親像人
-親儂
 親兄
 親兵
 親切
@@ -186095,9 +184292,6 @@ x-kong tī-liâu
 覺
 覺悟
 覺醒
-覻
-覻目
-覻覻
 覽
 觀
 觀世音
@@ -186314,7 +184508,6 @@ x-kong tī-liâu
 言責
 言起
 言輕
-言辭
 言重
 訂
 訂做
@@ -186328,7 +184521,6 @@ x-kong tī-liâu
 訂約
 訂製
 訂貨
-訂銀
 訂閱制
 訃
 訃音
@@ -186361,7 +184553,6 @@ x-kong tī-liâu
 討保
 討債
 討債囝
-討債子
 討功勞
 討厭
 討命
@@ -186378,7 +184569,6 @@ x-kong tī-liâu
 討死
 討海
 討海人
-討海儂
 討海船
 討牽頭
 討玍接鼻
@@ -186493,18 +184683,11 @@ x-kong tī-liâu
 訪查
 訪訪
 訪談
-訬
-訬家抐宅
-訬家抐計
-訬抐
-訬撓
-訬鬧
 設
 設仙
 設使
 設便
 設備
-設嫣頭
 設定
 設局
 設帳
@@ -186523,7 +184706,6 @@ x-kong tī-liâu
 許
 許可
 許可證
-許呢
 許多
 許樹
 許準准
@@ -186548,7 +184730,6 @@ x-kong tī-liâu
 註冊
 註好好
 註定
-註文
 註明
 註死
 註消
@@ -186622,7 +184803,6 @@ x-kong tī-liâu
 試煉
 試用
 試看
-試看昧
 試看覓
 試穿
 試草
@@ -186637,7 +184817,6 @@ x-kong tī-liâu
 試驗
 試鹹汫
 試鹹淡
-試鹹𩟗
 詨
 詨六
 詨六詨篤
@@ -186717,7 +184896,6 @@ x-kong tī-liâu
 話縫
 話腔
 話舊
-話虎膦
 話蝨
 話語
 話調
@@ -186944,7 +185122,6 @@ x-kong tī-liâu
 請佛
 請你
 請假
-請儂客
 請出轎
 請功
 請命
@@ -187042,7 +185219,6 @@ x-kong tī-liâu
 諸侯
 諸君
 諸國
-諸夫
 諸子
 諸父
 諸生
@@ -187122,7 +185298,6 @@ x-kong tī-liâu
 講仙古
 講代人
 講來講去
-講僊古
 講價
 講僻
 講冊
@@ -187140,7 +185315,6 @@ x-kong tī-liâu
 講和
 講嘐潲
 講嘐潲話
-講嘐韶話
 講四句
 講堂
 講壇
@@ -187193,7 +185367,6 @@ x-kong tī-liâu
 講耍笑
 講聖諭
 講親情
-講親成
 講解
 講評
 講話
@@ -187265,7 +185438,6 @@ x-kong tī-liâu
 謠言誹謗
 謬
 謳
-謳咾
 謹
 謹具
 謹呈
@@ -187427,7 +185599,6 @@ x-kong tī-liâu
 讀偏
 讀冊
 讀冊人
-讀冊儂
 讀冊廳
 讀冊房
 讀冊桌
@@ -187476,7 +185647,6 @@ x-kong tī-liâu
 變態
 變成
 變把戲
-變捻
 變換
 變撚
 變改
@@ -187490,7 +185660,6 @@ x-kong tī-liâu
 變步
 變歹
 變烏
-變無捻
 變無撚
 變無空
 變無路
@@ -187532,7 +185701,6 @@ x-kong tī-liâu
 變魍
 變黃
 變龜變鱉
-讎
 讒言
 讒諂
 讓
@@ -187577,7 +185745,6 @@ x-kong tī-liâu
 豆干模
 豆干炸
 豆干焙
-豆干糋
 豆干胚
 豆旁
 豆枝
@@ -187599,7 +185766,6 @@ x-kong tī-liâu
 豆箍
 豆簽
 豆籐
-豆籤
 豆粉
 豆粕
 豆糬
@@ -187641,7 +185807,6 @@ x-kong tī-liâu
 豆餡
 豆鬼仔
 豆鹹
-豆麩
 豈
 豈可
 豈敢
@@ -187656,19 +185821,8 @@ x-kong tī-liâu
 豌豆瘡
 豍
 豎
-豎名
-豎家
-豎屏
-豎泅
-豎燈篙
 豎班
-豎眉
-豎票
 豎豎
-豎起
-豎靈
-豎頭
-豎黃
 豐
 豐厚
 豐原
@@ -187681,7 +185835,6 @@ x-kong tī-liâu
 豐收
 豐樂公園
 豐沛
-豐派
 豐濱鄉
 豐田
 豐登
@@ -187702,13 +185855,11 @@ x-kong tī-liâu
 象山
 象形
 象徵
-象杯
 象桮
 象棋
 象油
 象牙
 象皮
-象碁
 象管
 象簡
 象耳
@@ -187737,7 +185888,6 @@ x-kong tī-liâu
 豬仔
 豬仔囝
 豬仔墟
-豬仔子
 豬仔尾
 豬仔牙
 豬仔狗仔
@@ -187775,7 +185925,6 @@ x-kong tī-liâu
 豬母
 豬母三朝
 豬母乳
-豬母乳仔
 豬母乳舅
 豬母乳鋸
 豬母奶
@@ -187795,16 +185944,13 @@ x-kong tī-liâu
 豬父
 豬牢
 豬狗
-豬狗牲生
 豬狗畜牲
 豬狗禽獸
 豬狗精牲
 豬甪仔
 豬疫
 豬砧
-豬稠
 豬種仔
-豬竈
 豬笱
 豬箅
 豬籠
@@ -187822,8 +185968,6 @@ x-kong tī-liâu
 豬腰
 豬腳
 豬腳楠
-豬腳箍
-豬腳麵線
 豬腸仔
 豬腿
 豬膋
@@ -187853,16 +185997,12 @@ x-kong tī-liâu
 豬頭肥
 豬頭豬鼻
 豬頭面
-豬骹
-豬骹箍
-豬骹麵線
 豬鬃
 豸
 豹
 豹仔皮
 豹皮
 豺狼
-豺食
 貂
 貂套
 貂帽
@@ -187872,7 +186012,6 @@ x-kong tī-liâu
 貂鼠
 貉
 貌
-貍貓
 貓
 貓bî
 貓仔
@@ -187895,7 +186034,6 @@ x-kong tī-liâu
 貓母
 貓毛
 貓狗
-貓猊竹
 貓王
 貓痕
 貓的
@@ -188006,8 +186144,6 @@ x-kong tī-liâu
 貧居
 貧惰
 貧惰骨
-貧憚
-貧憚骨
 貧民
 貧窮
 貧縮縮
@@ -188055,7 +186191,6 @@ x-kong tī-liâu
 販厝
 販番
 販艚
-販茨
 販貨
 販販
 販賣
@@ -188063,8 +186198,6 @@ x-kong tī-liâu
 貪
 貪tshông
 貪他一斗米
-貪吃
-貪噍
 貪四不貪六
 貪婪
 貪官汙吏
@@ -188097,7 +186230,6 @@ x-kong tī-liâu
 貫滿
 貫眾
 貫穿
-貫綰
 貫耳
 貫耳仔
 貫貫
@@ -188181,7 +186313,6 @@ x-kong tī-liâu
 貴米
 貴老師
 貴職
-貴蔘蔘
 貴處
 貴號
 貴行
@@ -188254,10 +186385,7 @@ x-kong tī-liâu
 費費
 貼
 貼tiâu
-貼人噍
 貼人食
-貼儂吃
-貼儂食
 貼圖
 貼底
 貼心
@@ -188462,7 +186590,6 @@ x-kong tī-liâu
 賢人
 賢做
 賢做人
-賢儂
 賢儒
 賢兄
 賢君
@@ -188532,7 +186659,6 @@ x-kong tī-liâu
 賤歲
 賤民
 賤荊
-賤虫
 賤蟲
 賤軀
 賤骨
@@ -188563,7 +186689,6 @@ x-kong tī-liâu
 賬單
 賬尾
 賬底
-賬念
 賬想
 賬房
 賬斤十六兩
@@ -188633,16 +186758,10 @@ x-kong tī-liâu
 賴賴行
 賴賴趖
 賺
-賺吃
-賺吃人
-賺噍
-賺噍查某
-賺流水
 賺賭食
 賺賺
 賺錢
 賺食
-賺食人
 賺食查某
 購
 購併
@@ -188665,13 +186784,11 @@ x-kong tī-liâu
 贅
 贈
 贈位
-贈助
 贈口份
 贈品
 贈答
 贈粿
 贈與
-贈袂牢
 贈贈
 贈送
 贊
@@ -188691,7 +186808,6 @@ x-kong tī-liâu
 贊拳
 贊普
 贊聲
-贊袂牢
 贊頌
 贌
 贌田
@@ -188795,9 +186911,7 @@ x-kong tī-liâu
 赤翅
 赤肉
 赤腳
-赤腳仙仔
 赤腳先
-赤腳先仔
 赤腳赤手
 赤色
 赤芍
@@ -188818,9 +186932,6 @@ x-kong tī-liâu
 赤道
 赤金
 赤骨
-赤骹
-赤骹仙仔
-赤骹先仔
 赤體
 赤鬃
 赤鬃魚
@@ -188842,7 +186953,6 @@ x-kong tī-liâu
 赦餉
 赦馬
 赫
-赫爾
 赫連
 走
 走--來
@@ -188888,7 +186998,6 @@ x-kong tī-liâu
 走手寫
 走掛拍
 走揣
-走撞
 走散
 走文書
 走斜
@@ -188938,7 +187047,6 @@ x-kong tī-liâu
 走街仔
 走街仔仙
 走袂開跤
-走袂開骹
 走袂離
 走訪
 走賊
@@ -188959,7 +187067,6 @@ x-kong tī-liâu
 走雨
 走音
 走風
-走飆
 走餉
 走馬
 走馬hông
@@ -188977,8 +187084,6 @@ x-kong tī-liâu
 走馬風
 走鬮
 走鬮設緣投
-走𣍐開腳
-走𣍐離
 赴
 赴不及
 赴任
@@ -189152,7 +187257,6 @@ x-kong tī-liâu
 起興頭
 起船
 起色
-起茹
 起草
 起落
 起落筆
@@ -189203,22 +187307,17 @@ x-kong tī-liâu
 起馬
 起馬桌
 起駕
-起骹
-起骹動手
 起高
 起點
 起點(日)
 起鼓
-起𤞚
 起𪁎
 趁
 趁tshit
 趁人
 趁勢
 趁去
-趁吃查某
 趁嘴
-趁噍儂
 趁大錢
 趁早
 趁暢
@@ -189250,7 +187349,6 @@ x-kong tī-liâu
 趁食步仔
 趁食間
 趁鴨
-趄
 超
 超人
 超凡
@@ -189334,13 +187432,11 @@ x-kong tī-liâu
 趖跤趖手
 趙
 趙元帥
-趛痀
 趟
 趟流
 趟腳
 趟腳瘸
 趟鉤le
-趡錢孔
 趣
 趣味
 趣意書
@@ -189353,7 +187449,6 @@ x-kong tī-liâu
 趨媚
 趨枋
 趨水
-趨流籠
 趨角筅
 趨蹌
 趨輪枋
@@ -189391,9 +187486,7 @@ x-kong tī-liâu
 趼
 趾
 跂
-跂腳
 跂跤
-跂骹
 跆拳道
 跋
 跋倒
@@ -189401,11 +187494,8 @@ x-kong tī-liâu
 跋感情
 跋手
 跋文
-跋杯
 跋桮
 跋桶
-跋歹儌
-跋歹徼
 跋歹筊
 跋死
 跋涉
@@ -189416,7 +187506,6 @@ x-kong tī-liâu
 跋筊場
 跋筶
 跋筶仔
-跋繳
 跋臭
 跋落
 跋落馬
@@ -189454,9 +187543,7 @@ x-kong tī-liâu
 跙冰
 跙流籠
 跛
-跛腳
 跛跤
-跛骹
 距
 跟
 跟--人
@@ -189509,7 +187596,6 @@ x-kong tī-liâu
 跤液
 跤爪
 跤球
-跤白
 跤盤
 跤目
 跤筋
@@ -189527,13 +187613,11 @@ x-kong tī-liâu
 跤踏仔
 跤踏車
 跤蹄
-跤迹
 跤頭碗
 跤頭趺
 跤骨
 跤麻手痺
 跤鼻臁
-跤𫟊
 跨
 跨年
 跨欄
@@ -189596,7 +187680,6 @@ x-kong tī-liâu
 路線
 路草
 路行
-路衝
 路裡
 路費
 路賭
@@ -189605,7 +187688,6 @@ x-kong tī-liâu
 路途
 路邊
 路邊店仔
-路邊担仔
 路邊擔仔
 路邊花
 路錢
@@ -189759,7 +187841,6 @@ x-kong tī-liâu
 踞
 踢
 踢倒
-踢倒街
 踢倒轉
 踢拳
 踢毽
@@ -189779,7 +187860,6 @@ x-kong tī-liâu
 踴
 踴躍
 踵
-踿
 蹁
 蹁來蹁去
 蹁蹁
@@ -189797,22 +187877,15 @@ x-kong tī-liâu
 蹋蹋
 蹌
 蹌箍螺
-蹌腳雞
 蹌跤雞
-蹌錢
-蹌骹雞
 蹐
 蹓
 蹔
-蹔腳步
 蹔跤步
-蹔骹步
 蹘
 蹛
 蹛院
 蹟
-蹣
-蹣撋
 蹤
 蹤--去
 蹤射
@@ -189833,14 +187906,10 @@ x-kong tī-liâu
 蹶--一下蹶--一下
 蹶行
 蹺
-蹺腳
-蹺骹
 蹽
 蹽溪仔
 蹽落去
 躂
-躂毽子
-躂被
 躄
 躇
 躉
@@ -189912,22 +187981,17 @@ x-kong tī-liâu
 躬
 躼
 躼--的
-躼腳仔
 躼跤
 躼跤仔
 躼跤的
 躼跤蠓
 躼頷
-躼骹仔
 躽
 軀
 軁
-軁狗孔仔
 軁狗空仔
 軁錢空
 軁鑽
-軂
-軂腳蚊
 車
 車khi̍t
 車主
@@ -189972,7 +188036,6 @@ x-kong tī-liâu
 車手
 車拋輪
 車拋輪斗
-車拚
 車掌
 車擋
 車斗
@@ -189999,7 +188062,6 @@ x-kong tī-liâu
 車燈
 車牌
 車環
-車番
 車當
 車痕
 車盤
@@ -190039,7 +188101,6 @@ x-kong tī-liâu
 車輪
 車輪粿
 車輪菜
-車輾
 車轆
 車迷
 車道
@@ -190166,13 +188227,11 @@ x-kong tī-liâu
 軟哈哈
 軟嘴
 軟土
-軟土深掘
 軟地
 軟垂
 軟垂垂
 軟塗深掘
 軟孔
-軟孱
 軟市
 軟常常
 軟帽
@@ -190246,7 +188305,6 @@ x-kong tī-liâu
 軟領
 軟餅
 軟骨
-軟骹
 軟體
 軟體園區
 軟鼻
@@ -190470,8 +188528,6 @@ x-kong tī-liâu
 輻射
 輻射冷卻
 輾
-輾仔
-輾框
 輾的
 輾轉
 輿
@@ -190649,7 +188705,6 @@ x-kong tī-liâu
 辛未
 辛苦
 辛苦病疼
-辛薑仔
 辛辛
 辛辣辣
 辛酉
@@ -190779,18 +188834,6 @@ x-kong tī-liâu
 迂拘
 迂拙
 迂躇
-迄一日
-迄搭
-迄擺
-迄旁
-迄時
-迄暫
-迄款
-迄爿
-迄瞬
-迄號
-迄跡
-迄陣
 迅
 迅速
 迌
@@ -190829,7 +188872,6 @@ x-kong tī-liâu
 近來
 近侍
 近倚
-近偎
 近兜
 近冬
 近前
@@ -190881,9 +188923,6 @@ x-kong tī-liâu
 返來
 返去
 返反照
-返外家
-返後頭
-返當年
 返返
 返頭
 迦
@@ -190893,7 +188932,6 @@ x-kong tī-liâu
 迫
 迫促
 迫倚
-迫偎
 迫債
 迫出去
 迫切
@@ -190911,7 +188949,6 @@ x-kong tī-liâu
 迫迫
 迫逐
 迭
-迮
 述
 述情
 述懷
@@ -191146,7 +189183,6 @@ x-kong tī-liâu
 逆kiūnn
 逆lān乖
 逆口
-逆味
 逆喉
 逆境
 逆天
@@ -191171,7 +189207,6 @@ x-kong tī-liâu
 逍遙
 透
 透世人
-透世儂
 透中晝
 透京城
 透人
@@ -191243,25 +189278,18 @@ x-kong tī-liâu
 途
 途窮
 逗
-逗無閒
-逗鬧熱
 這
 這世人
-這世儂
 這个
 這人
 這個
 這兜
-這呢
-這嘛
 這搭
 這時
 這樣
 這款
 這氣
-這爾仔
 這當陣
-這碼
 這種
 這站
 這聲
@@ -191646,7 +189674,6 @@ x-kong tī-liâu
 運儎
 運動
 運動埕
-運動庭
 運動攀登
 運動會
 運動舞蹈
@@ -191654,7 +189681,6 @@ x-kong tī-liâu
 運厄
 運去金成鐵
 運命
-運圖
 運尾
 運工
 運干樂
@@ -191739,7 +189765,6 @@ x-kong tī-liâu
 過名
 過唐山
 過喙
-過喟
 過嘴
 過嘹
 過堂
@@ -191876,7 +189901,6 @@ x-kong tī-liâu
 過覆
 過評
 過謙
-過貓
 過貢
 過賬
 過足
@@ -191935,8 +189959,6 @@ x-kong tī-liâu
 遏血
 遏遏
 遐
-遐呢
-遐呢仔
 遐爾
 遐爾仔
 遐的
@@ -192094,11 +190116,8 @@ x-kong tī-liâu
 遮光
 遮光kha-tián
 遮光窗仔簾
-遮呢
 遮密
-遮尼仔
 遮崁
-遮截
 遮扇
 遮掩
 遮攔
@@ -192296,7 +190315,6 @@ x-kong tī-liâu
 那痟
 那石裡鏨字
 那落
-那著
 那裡
 那誅西魯
 那鬼
@@ -192372,7 +190390,6 @@ x-kong tī-liâu
 部下
 部份
 部位
-部分
 部官
 部屬
 部文
@@ -192472,7 +190489,6 @@ x-kong tī-liâu
 鄙夫
 鄙委
 鄙懷
-鄙才
 鄙臉
 鄙薄
 鄙見
@@ -192587,7 +190603,6 @@ x-kong tī-liâu
 酒會
 酒杯
 酒柝
-酒桮
 酒桶
 酒樓
 酒母
@@ -192658,7 +190673,6 @@ x-kong tī-liâu
 酥油
 酥皮
 酥糖
-酥聲
 酥腰
 酥酥
 酥酥仔熱
@@ -192777,7 +190791,6 @@ x-kong tī-liâu
 醡母草
 醡漿草
 醣類
-醪
 醫
 醫冊
 醫原全
@@ -192818,9 +190831,6 @@ x-kong tī-liâu
 醬醬
 醬鹹
 醬麵炙
-醭
-醭色
-醭醭
 醮
 醮事
 醮壇
@@ -192888,10 +190898,8 @@ x-kong tī-liâu
 重午
 重厝
 重句
-重吃
 重問
 重喪
-重噍
 重圍
 重地
 重型
@@ -192915,11 +190923,9 @@ x-kong tī-liâu
 重手
 重手頭
 重打起
-重担
 重播
 重擔
 重攲旁
-重敧旁
 重敧爿
 重整
 重整理
@@ -192948,7 +190954,6 @@ x-kong tī-liâu
 重穿
 重筆
 重篤篤
-重紃
 重紋
 重罪
 重罰
@@ -192978,7 +190983,6 @@ x-kong tī-liâu
 重輕頭
 重過
 重重
-重重沓沓
 重重疊疊
 重量
 重量訓練
@@ -193298,8 +191302,6 @@ x-kong tī-liâu
 金蓮
 金蓮花
 金蔥扇
-金蕉
-金蕉油
 金薯
 金藥
 金融
@@ -193431,7 +191433,6 @@ x-kong tī-liâu
 釘鞋
 釘鹽
 釘點
-釜頭
 針
 針包
 針孔
@@ -193482,9 +191483,6 @@ x-kong tī-liâu
 釵
 鈀
 鈁
-鈂
-鈂斗
-鈂篤
 鈃
 鈃仔
 鈉含量
@@ -193495,17 +191493,14 @@ x-kong tī-liâu
 鈍市
 鈍才
 鈍目
-鈍腳鈍手
 鈍角
 鈍跤鈍手
 鈍鈍
-鈍骹鈍手
 鈎藤
 鈔
 鈕
 鈕phàn
 鈕仔
-鈕仔孔
 鈕仔牽
 鈕仔眼
 鈕仔空
@@ -193513,7 +191508,6 @@ x-kong tī-liâu
 鈕仔豆
 鈕仔餅
 鈕筋
-鈕紐仔
 鈕絲辮
 鈕釦
 鈕鈕仔
@@ -194121,10 +192115,7 @@ x-kong tī-liâu
 鍛
 鍛鍊
 鍛鍛
-鍟仔
 鍟磺養
-鍟鍋
-鍟鐵
 鍟養油膏
 鍤
 鍤箕
@@ -194135,7 +192126,6 @@ x-kong tī-liâu
 鍪
 鍵
 鍼
-鍼灸
 鍾
 鍾乳石
 鍾馗
@@ -194173,7 +192163,6 @@ x-kong tī-liâu
 鎗尾
 鎗手
 鎗柄
-鎚
 鎮
 鎮之精塊
 鎮位
@@ -194255,7 +192244,6 @@ x-kong tī-liâu
 鏡頭
 鏢
 鏤
-鏥
 鏨
 鏨tso̍h
 鏨仔
@@ -194302,7 +192290,6 @@ x-kong tī-liâu
 鐘鼓
 鐙
 鐙巾
-鐤
 鐮
 鐮li̍k刀
 鐮仔
@@ -194316,7 +192303,6 @@ x-kong tī-liâu
 鐵仔
 鐵仔店
 鐵伐
-鐵儂
 鐵刀利器
 鐵刀木
 鐵匠
@@ -194429,7 +192415,6 @@ x-kong tī-liâu
 鐵鍤
 鐵鎚
 鐵鏈
-鐵鏥
 鐵鐕
 鐵鐵
 鐵門
@@ -194581,13 +192566,11 @@ x-kong tī-liâu
 長安
 長官
 長尻川
-長尻瘡
 長尾山娘
 長尾星
 長尾猴
 長尾竹
 長尾陣仔
-長山
 長崎
 長工
 長年
@@ -194655,9 +192638,7 @@ x-kong tī-liâu
 長瘦
 長短
 長短腳
-長短腳話
 長短跤話
-長短骹話
 長站
 長節竹
 長篙形
@@ -194719,16 +192700,13 @@ x-kong tī-liâu
 門下臼
 門人
 門內
-門公尺
 門前
 門口
 門口公
 門口埕
-門口庭
 門啄
 門啄仔
 門喙
-門嘴
 門嘴口
 門圈
 門坎仔
@@ -194790,7 +192768,6 @@ x-kong tī-liâu
 門遮
 門邊
 門錢
-門鏲
 門門有路
 門閂
 門閘仔
@@ -194799,7 +192776,6 @@ x-kong tī-liâu
 門頭
 門頭大爺
 門風
-門骹口
 門鬼
 門鬼仔
 閂
@@ -194818,8 +192794,6 @@ x-kong tī-liâu
 閃律法縫
 閃擦
 閃涼
-閃熠
-閃熾
 閃爍
 閃盆
 閃著
@@ -195071,7 +193045,6 @@ x-kong tī-liâu
 開頭
 開風氣
 開館
-開骹褲
 開鬼門
 開魂路
 開龕
@@ -195080,17 +193053,10 @@ x-kong tī-liâu
 閏年
 閏月
 閑
-閑人
 閑仔是
-閑仔話
-閑仙仙
-閑儂
 閑寒窗
 閑居
-閑工
 閑談
-閑錢
-閑間
 閑雅
 閒
 閒liu-liu
@@ -195102,7 +193068,6 @@ x-kong tī-liâu
 閒仔物
 閒仔話
 閒仙仙
-閒儂
 閒嘴
 閒地
 閒工
@@ -195163,7 +193128,6 @@ x-kong tī-liâu
 閣
 閣下
 閣再
-閣卡
 閣員
 閣妲
 閣揆
@@ -195237,7 +193201,6 @@ x-kong tī-liâu
 閻羅天子
 閻羅王
 閼
-閼泔
 闆
 闇
 闇弱
@@ -195273,7 +193236,6 @@ x-kong tī-liâu
 闕筆
 闖
 闖入
-闖講
 闖路
 闖道
 闖闖
@@ -195417,7 +193379,6 @@ x-kong tī-liâu
 阿公豆
 阿叔
 阿叔仔
-阿咾
 阿哥
 阿哥舍
 阿啄仔
@@ -195437,7 +193398,6 @@ x-kong tī-liâu
 阿婆
 阿媽
 阿嫂
-阿嬤
 阿嬰
 阿嬸
 阿孥
@@ -195449,7 +193409,6 @@ x-kong tī-liâu
 阿桑
 阿母
 阿沙不魯
-阿渣
 阿瀝
 阿爸
 阿爹
@@ -195501,7 +193460,6 @@ x-kong tī-liâu
 阿舅
 阿舍
 阿舍囝
-阿舍子
 阿芙蓉
 阿茲海默症
 阿華田
@@ -195587,7 +193545,6 @@ x-kong tī-liâu
 限期
 限滿
 限界
-限賬
 限量
 限錢
 限限
@@ -195616,7 +193573,6 @@ x-kong tī-liâu
 陣法
 陣營
 陣疼
-陣痛
 陣雨
 陣頭
 除
@@ -195694,7 +193650,6 @@ x-kong tī-liâu
 陰沈
 陰沈毒
 陰沈狗
-陰沉
 陰溝
 陰火
 陰物
@@ -195742,13 +193697,11 @@ x-kong tī-liâu
 陳明
 陳有蘭溪
 陳武帝
-陳水螺
 陳皮
 陳禮
 陳言
 陳設
 陳述
-陳雷公
 陵
 陵陽
 陶
@@ -196016,13 +193969,11 @@ x-kong tī-liâu
 隱私權
 隱私權設定
 隱者
-隱芎蕉
 隱藏
 隱語
 隱諱
 隱身法
 隱遁
-隱金蕉
 隱隱
 隱龜
 隱龜橋
@@ -196037,7 +193988,6 @@ x-kong tī-liâu
 雀舌
 雀舌花
 雀躍
-雀雀趒
 雀頭香
 雀鳥仔
 雀鳥仔膽
@@ -196189,7 +194139,6 @@ x-kong tī-liâu
 雙料
 雙料酒
 雙方
-雙旁
 雙日
 雙春
 雙月
@@ -196278,7 +194227,6 @@ x-kong tī-liâu
 雜差仔工
 雜差房
 雜役
-雜念
 雜插
 雜柴
 雜物
@@ -196363,7 +194311,6 @@ x-kong tī-liâu
 雞啼
 雞喙變鴨喙
 雞嘴
-雞嘴變鴨嘴
 雞報寅
 雞報曉
 雞妹
@@ -196397,7 +194344,6 @@ x-kong tī-liâu
 雞栽仔
 雞桃
 雞桃仔
-雞椆
 雞榆
 雞槽
 雞櫥
@@ -196412,7 +194358,6 @@ x-kong tī-liâu
 雞母瓶
 雞母皮
 雞母真珠
-雞母虫
 雞母蟲
 雞毛
 雞毛筅
@@ -196434,7 +194379,6 @@ x-kong tī-liâu
 雞眉
 雞眼
 雞禮
-雞稠
 雞筅
 雞筋
 雞箠
@@ -196466,7 +194410,6 @@ x-kong tī-liâu
 雞脾
 雞腱
 雞腳
-雞腳爪
 雞腳草
 雞腳蘭
 雞腳褲
@@ -196480,7 +194423,6 @@ x-kong tī-liâu
 雞舌黃
 雞薊卷
 雞襟胸
-雞角
 雞記持
 雞豚仔
 雞距
@@ -196511,7 +194453,6 @@ x-kong tī-liâu
 雞鵤氣
 雞齊根
 雞𧉟
-雞𩜇
 離
 離lōo-hián
 離任
@@ -196535,7 +194476,6 @@ x-kong tī-liâu
 離緣
 離縫
 離職
-離腳手
 離譜
 離跤手
 離身
@@ -196544,7 +194484,6 @@ x-kong tī-liâu
 離開
 離離
 離離落落
-離骹手
 難
 難--得
 難事
@@ -196631,7 +194570,6 @@ x-kong tī-liâu
 雨麼
 雨麼仔
 雨點
-雨𧜞
 雪
 雪仔
 雪仔柑
@@ -196852,9 +194790,6 @@ x-kong tī-liâu
 霎仔久
 霎霎仔雨
 霏霏
-霑
-霑漉漉
-霑糊糊
 霖
 霖雨
 霜
@@ -196940,7 +194875,6 @@ x-kong tī-liâu
 靈聖
 靈芝
 靈芝草
-靈茨
 靈藥
 靈通
 靈顯
@@ -196957,21 +194891,17 @@ x-kong tī-liâu
 青亮
 青仁烏豆
 青仁豆
-青份
 青光眼
 青內
 青內內
 青內青內
 青公冇
-青冷
 青出於藍
-青分
 青勝於藍
 青包
 青半夏
 青卒
 青史
-青啼仔
 青嘴
 青埔
 青士
@@ -197005,14 +194935,11 @@ x-kong tī-liâu
 青楓
 青樓
 青水粒
-青池仔
 青瀨
 青火
 青烏
 青燭
 青牛
-青狂
-青猴
 青猴公樹
 青獅
 青玉
@@ -197020,7 +194947,6 @@ x-kong tī-liâu
 青瓜仔
 青生磅白磅
 青田
-青疏
 青白
 青皮
 青皮豆
@@ -197030,7 +194956,6 @@ x-kong tī-liâu
 青瞑之
 青瞑牛
 青石
-青碰白碰
 青磁
 青磅白磅
 青稞
@@ -197041,20 +194966,17 @@ x-kong tī-liâu
 青竹棍
 青竹符
 青竹絲
-青笛仔
 青符
 青筋
 青箱
 青箱子
 青粒
 青紅燈
-青絲仔
 青縮縮
 青缸
 青翠
 青耆
 青膏
-青臊
 青臭仔種
 青色
 青苔
@@ -197099,7 +195021,6 @@ x-kong tī-liâu
 青頭仔
 青頭獅
 青馬
-青驚
 青鰻
 青鱗
 青鱗魚
@@ -197280,7 +195201,6 @@ x-kong tī-liâu
 鞋phàn
 鞋冊
 鞋冊簿
-鞋刡仔
 鞋墨
 鞋媒
 鞋寶葉
@@ -197299,7 +195219,6 @@ x-kong tī-liâu
 鞋樣
 鞋油
 鞋砧
-鞋笢仔
 鞋胚
 鞋苴
 鞋藥
@@ -197364,7 +195283,6 @@ x-kong tī-liâu
 韭菜袍
 韭蒩
 韮菜
-韮菜花
 音
 音信
 音唱盤
@@ -197419,7 +195337,6 @@ x-kong tī-liâu
 頂下
 頂下歲
 頂世人
-頂世儂
 頂代
 頂位
 頂冬
@@ -197505,7 +195422,6 @@ x-kong tī-liâu
 頂頷
 頂馬
 頂馬官
-頂高
 頂𦜆
 頃
 頃刻
@@ -197566,7 +195482,6 @@ x-kong tī-liâu
 須著
 頌
 頌讚
-頏天
 預
 預備
 預備裁判
@@ -197632,7 +195547,6 @@ x-kong tī-liâu
 頓頭
 頓首
 頓龜
-頓𩨑
 頕
 頕低
 頕垂
@@ -197705,7 +195619,6 @@ x-kong tī-liâu
 頭kap仔
 頭kap仔橫
 頭lun
-頭㨑尾
 頭一khōng
 頭一下
 頭一個
@@ -197727,7 +195640,6 @@ x-kong tī-liâu
 頭份鎮
 頭位
 頭倒客
-頭儂
 頭兄
 頭先
 頭先仔
@@ -197778,7 +195690,6 @@ x-kong tī-liâu
 頭憂面皺
 頭手
 頭托
-頭抵仔
 頭抽
 頭抿
 頭拄仔
@@ -197794,7 +195705,6 @@ x-kong tī-liâu
 頭日
 頭旬
 頭春
-頭暈目暗
 頭更
 頭本
 頭桁
@@ -197849,7 +195759,6 @@ x-kong tī-liâu
 頭痛
 頭瘋
 頭瘋貫眼
-頭白
 頭的
 頭皮
 頭盔
@@ -197869,7 +195778,6 @@ x-kong tī-liâu
 頭等艙
 頭篇
 頭篩仔
-頭粕
 頭綜
 頭緒
 頭繚
@@ -197890,7 +195798,6 @@ x-kong tī-liâu
 頭較大身
 頭轉客
 頭辦
-頭返客
 頭遍
 頭遍草
 頭過
@@ -197934,8 +195841,6 @@ x-kong tī-liâu
 頷
 頷kui
 頷kuānn
-頷䫀
-頷䫀珠
 頷下
 頷仔領
 頷仔頸
@@ -197977,7 +195882,6 @@ x-kong tī-liâu
 頻道
 頻頻
 顆
-顉痀
 題
 題名
 題名字
@@ -198067,13 +195971,11 @@ x-kong tī-liâu
 顧病人
 顧監的
 顧腳
-顧謙
 顧路
 顧身命
 顧門
 顫
 顫悶
-顫璺
 顯
 顯出
 顯名
@@ -198127,11 +196029,9 @@ x-kong tī-liâu
 風吹草
 風吹輦
 風吹輪
-風吹輾
 風味
 風喙口
 風嘴
-風嘴口
 風回回
 風圍
 風土
@@ -198167,7 +196067,6 @@ x-kong tī-liâu
 風水尾
 風水頭
 風波
-風泳
 風流
 風流人
 風流子
@@ -198178,7 +196077,6 @@ x-kong tī-liâu
 風湧
 風溼
 風潮
-風濕
 風灌
 風火
 風火目
@@ -198254,7 +196152,6 @@ x-kong tī-liâu
 風颱雨
 風飛水走
 風飛沙
-風飛砂
 風馬牛
 風騷
 風騷客
@@ -198308,7 +196205,6 @@ x-kong tī-liâu
 飛航
 飛船
 飛艇
-飛薐仔
 飛蛇
 飛蟻
 飛行
@@ -198357,7 +196253,6 @@ x-kong tī-liâu
 食傖
 食傷
 食價
-食儂
 食先
 食冇煙
 食凸餅
@@ -198485,7 +196380,6 @@ x-kong tī-liâu
 食緊摃破鼎
 食罩
 食罪
-食羹
 食老
 食老出癖
 食老本
@@ -198572,10 +196466,7 @@ x-kong tī-liâu
 飢渴
 飢荒
 飢荒年
-飢飽吵
 飢餓
-飢饞
-飢鬼
 飫
 飫lô
 飫sà-sà
@@ -198626,7 +196517,6 @@ x-kong tī-liâu
 飯包
 飯包盒
 飯匙
-飯匙倩
 飯匙蒸
 飯匙銃
 飯匙骨
@@ -198673,7 +196563,6 @@ x-kong tī-liâu
 飲用水
 飲茶
 飲酒
-飲酒醉
 飲食
 飲食店
 飲食物
@@ -198710,7 +196599,6 @@ x-kong tī-liâu
 飽力
 飽呃
 飽和脂肪
-飽噎
 飽塞
 飽孕
 飽學
@@ -198818,10 +196706,6 @@ x-kong tī-liâu
 餓
 餓--死
 餓死
-餓燥
-餓過飢
-餓飢失頓
-餓饞
 餓鬼
 餘
 餘--者
@@ -198839,10 +196723,6 @@ x-kong tī-liâu
 餘韻
 餘額
 餘黨
-餜仔
-餜印
-餜粞
-餜𥽕
 餞
 餞別
 餞行
@@ -198864,7 +196744,6 @@ x-kong tī-liâu
 餲甜
 餾
 餾粿
-餾餜
 饅
 饅頭
 饅頭客
@@ -198877,7 +196756,6 @@ x-kong tī-liâu
 饌筆尾
 饌舌
 饌饌
-饑荒
 饒
 饒仔
 饒仔魚
@@ -198888,11 +196766,7 @@ x-kong tī-liâu
 饒赦
 饒魚
 饗
-饜
-饜𤺪
 饞
-饞吃
-饞噍
 饞食
 饞饞
 首
@@ -198924,7 +196798,6 @@ x-kong tī-liâu
 香几
 香包
 香匙
-香味
 香員
 香圓
 香圓瓜
@@ -198965,7 +196838,6 @@ x-kong tī-liâu
 香櫞
 香櫞瓜
 香氣
-香水
 香水梨
 香水茅
 香油
@@ -198973,14 +196845,11 @@ x-kong tī-liâu
 香油蝦
 香油雞
 香港
-香港腳
 香港跤
 香港郊
-香港骹
 香火
 香灰
 香烌
-香烘烘
 香煙
 香爐
 香爐耳
@@ -198994,7 +196863,6 @@ x-kong tī-liâu
 香筒
 香箸
 香籃
-香粉
 香紋紗
 香細
 香線lok
@@ -199031,7 +196899,6 @@ x-kong tī-liâu
 香鴨
 馝
 馥馥
-馦
 馨
 馬
 馬hâm鈴
@@ -199276,7 +197143,6 @@ x-kong tī-liâu
 騙
 騙人
 騙仙
-騙囝仔
 騙囡仔
 騙局
 騙痟的
@@ -199343,7 +197209,6 @@ x-kong tī-liâu
 驚khiû-khiû
 驚了
 驚人
-驚儂
 驚冷
 驚到要死
 驚動
@@ -199361,11 +197226,9 @@ x-kong tī-liâu
 驚歎
 驚死
 驚死人
-驚死儂
 驚死死
 驚熱
 驚生份
-驚生分
 驚畏
 驚疑
 驚破膽
@@ -199375,8 +197238,6 @@ x-kong tī-liâu
 驚見笑
 驚身忍命
 驚身驚命
-驚青份
-驚青分
 驚頭驚尾
 驚風
 驚驚
@@ -199463,45 +197324,6 @@ x-kong tī-liâu
 骷髏骨
 骸
 骸骨
-骹
-骹仔
-骹來手來
-骹兜
-骹刀
-骹尖手幼
-骹尾
-骹尾飯
-骹帛
-骹底
-骹後曲
-骹後肚
-骹後𩨑
-骹手
-骹指頭仔
-骹捗
-骹擋
-骹數
-骹斗
-骹桶
-骹椵
-骹模手印
-骹步
-骹液
-骹球
-骹盤
-骹目
-骹筋
-骹縫
-骹肚
-骹腿
-骹跡
-骹踃間仔
-骹踏仔
-骹頭窩
-骹騷
-骹骨
-骹麻手痺
-骹鼻臁
 骾
 骾倒
 骾得
@@ -199510,12 +197332,10 @@ x-kong tī-liâu
 骾管
 骾著
 骿
-骿仔骨
 骿支骨
 骿枝骨
 骿條
 骿條骨
-骿肢骨
 骿膫
 骿膫骨
 髑髏
@@ -199537,7 +197357,6 @@ x-kong tī-liâu
 體悟
 體意
 體態
-體托
 體操
 體會
 體格
@@ -199569,7 +197388,6 @@ x-kong tī-liâu
 高lòng-lòng
 高lòng-sòng
 高siàng-siàng
-高下
 高中
 高位
 高低
@@ -199679,7 +197497,6 @@ x-kong tī-liâu
 高雄高工
 高雅
 高音
-高頂
 高風
 高飛犧牲打
 高高
@@ -199692,7 +197509,6 @@ x-kong tī-liâu
 高麗紙
 高麗菜
 高麗菜穎仔
-高麗蔘
 高麗蝦
 高點
 高齡
@@ -199753,7 +197569,6 @@ x-kong tī-liâu
 鬢邊
 鬢邊毛
 鬢邊膏
-鬢骹
 鬢鬚
 鬥
 鬥bā-bā
@@ -199789,7 +197604,6 @@ x-kong tī-liâu
 鬥榫頭
 鬥樑
 鬥氣
-鬥無閑
 鬥無閒
 鬥爭
 鬥猛
@@ -199830,7 +197644,6 @@ x-kong tī-liâu
 鬥頭的
 鬥頭鬥尾
 鬥額
-鬥骹手
 鬥鬥
 鬥鬧
 鬥鬧熱
@@ -200058,7 +197871,6 @@ x-kong tī-liâu
 魚蝦水卒
 魚蝨
 魚行
-魚行水濁鳥飛毛落
 魚販
 魚販仔白
 魚趁生
@@ -200112,7 +197924,6 @@ x-kong tī-liâu
 魯班
 魯班公
 魯班尺
-魯肉飯
 魯花
 魯莽
 魰仔
@@ -200127,7 +197938,6 @@ x-kong tī-liâu
 魴鯊狗無分
 魷魚
 魷魚刀
-魷魚焿
 魽
 魽魚
 鮇
@@ -200156,7 +197966,6 @@ x-kong tī-liâu
 鮮于
 鮮奶
 鮮奶捲
-鮮尺
 鮮明
 鮮沢
 鮮花
@@ -200167,7 +197976,6 @@ x-kong tī-liâu
 鮸魚
 鯀
 鯀仔
-鯁
 鯁魚
 鯃
 鯃魚
@@ -200203,7 +198011,6 @@ x-kong tī-liâu
 鯽魚膽
 鰇
 鰇魚
-鰇魚焿
 鰇魚羹
 鰇魚鬚
 鰍鮕魚
@@ -200266,9 +198073,7 @@ x-kong tī-liâu
 鱟壳刺
 鱟壳藤
 鱟尾刀
-鱟戛仔
 鱟扒冊
-鱟杓
 鱟桸
 鱟殼
 鱟殼仔
@@ -200420,8 +198225,6 @@ x-kong tī-liâu
 鳳甲文化館
 鳳眼鮭
 鳳簫
-鳳萊
-鳳萊酥
 鳳輦
 鳳陽
 鳳陽婆
@@ -200475,7 +198278,6 @@ x-kong tī-liâu
 鴨仔
 鴨仔tan
 鴨仔囝
-鴨仔子
 鴨仔癉
 鴨公
 鴨公聲
@@ -200496,7 +198298,6 @@ x-kong tī-liâu
 鴨婆
 鴨尾椎
 鴨屎色
-鴨微仔
 鴨掌
 鴨掌骨髓
 鴨母
@@ -200530,10 +198331,8 @@ x-kong tī-liâu
 鴨腳黍
 鴨舌草
 鴨舌黃
-鴨角
 鴨豚仔
 鴨販
-鴨賞
 鴨蹄草
 鴨蹄黍
 鴨雄
@@ -200729,7 +198528,6 @@ x-kong tī-liâu
 鹹酸苦汫
 鹹酸苦淡
 鹹酸苦澀
-鹹酸苦𩟗
 鹹酸草
 鹹閣澀
 鹹雨
@@ -200741,7 +198539,6 @@ x-kong tī-liâu
 鹹鰱魚
 鹹鴨卵
 鹹龜突
-鹹𩟗
 鹼
 鹼仔粿
 鹼性
@@ -200925,7 +198722,6 @@ x-kong tī-liâu
 麩質
 麭
 麭幼仔導覽
-麯
 麴
 麵
 麵sī
@@ -200985,7 +198781,6 @@ x-kong tī-liâu
 麻仔
 麻仔刀
 麻仔葉
-麻兒竹
 麻刀
 麻園寮
 麻子
@@ -200996,7 +198791,6 @@ x-kong tī-liâu
 麻布彩
 麻布燈
 麻布裙
-麻微
 麻服
 麻栗
 麻栗樹
@@ -201017,7 +198811,6 @@ x-kong tī-liâu
 麻竹筍
 麻簾
 麻米荖
-麻粢
 麻粩
 麻糍
 麻紕
@@ -201054,7 +198847,6 @@ x-kong tī-liâu
 麻雀
 麻雀子仔
 麻頭罩
-麻餈
 麻骨
 麻麩
 麻麻
@@ -201097,7 +198889,6 @@ x-kong tī-liâu
 黃帥
 黃幻黃幻
 黃心仔
-黃扲扲
 黃斑部病變
 黃斤
 黃昏
@@ -201143,7 +198934,6 @@ x-kong tī-liâu
 黃疸
 黃疸症
 黃疸瘋
-黃痠
 黃瘟疫
 黃瘦
 黃皮
@@ -201303,7 +199093,6 @@ x-kong tī-liâu
 點主官
 點乩
 點交
-點仔膠路
 點件
 點兵
 點冊
@@ -201384,7 +199173,6 @@ x-kong tī-liâu
 黹
 黽
 黽勉
-鼈
 鼈仔草
 鼎
 鼎kám
@@ -201409,7 +199197,6 @@ x-kong tī-liâu
 鼎穿
 鼎立
 鼎筅
-鼎糒
 鼎膊
 鼎臍
 鼎蓋
@@ -201469,9 +199256,7 @@ x-kong tī-liâu
 鼠尾紅
 鼠尾風
 鼠尾黃
-鼠殼粿
 鼠殼舅
-鼠殼餜
 鼠漏瘡
 鼠瓜
 鼠疫
@@ -201486,7 +199271,6 @@ x-kong tī-liâu
 鼠麴粿
 鼠麴舅
 鼠麴草
-鼠麴餜
 鼢
 鼢鼠
 鼬
@@ -201531,7 +199315,6 @@ x-kong tī-liâu
 鼻竇炎
 鼻管
 鼻縫
-鼻翅
 鼻翼
 鼻胃管
 鼻腰
@@ -201548,7 +199331,6 @@ x-kong tī-liâu
 鼻音
 鼻頭
 鼻風
-鼻香
 鼻鼻
 鼻龍
 鼾
@@ -201611,17 +199393,14 @@ x-kong tī-liâu
 齒siông
 齒仔
 齒刡
-齒刡仔
 齒包
 齒岸
 齒戳仔
 齒托
 齒抿
 齒抿仔
-齒拓仔
 齒杯
 齒根
-齒殼仔
 齒牙
 齒痕
 齒痛
@@ -201647,7 +199426,6 @@ x-kong tī-liâu
 齧仔蟲
 齧齧
 齩
-齩喙
 齪
 齪嘈
 齴
@@ -201822,7 +199600,6 @@ x-kong tī-liâu
 龜精
 龜粿
 龜結
-龜綏
 龜背
 龜胸
 龜腳
@@ -201837,16 +199614,12 @@ x-kong tī-liâu
 龜載蛇
 龜鑑
 龜頭
-龜骹
 龜鬃
 龜鬃髻
 龜鱉
 龜鹿二仙膠
 龜鹿膠
 龜龜鱉鱉
-龜龜鼈鼈
-𠕆
-𠕆硞硞
 𠕇
 𠕇仁
 𠕇硞硞
@@ -201856,14 +199629,12 @@ x-kong tī-liâu
 𠞭花
 𠢕
 𠢕人
-𠢕儂
 𠢕吮食
 𠢕囥歲
 𠢕早
 𠢕開
 𠯗
 𠯗一下
-𠲿
 𡁃叻
 𡁃叻坡
 𡢃
@@ -201878,47 +199649,19 @@ x-kong tī-liâu
 𡳞鳥
 𡳞鳥頭
 𡳞𦉎
-𢄧仔
-𢓜
-𢓜是
 𢪱
 𢯾
 𢯾壁鬼
-𢯾工
 𢯾枕
 𢯾被仔
 𢯾鼻
 𢲸
-𢻷
-𢻷飯
 𢼌
 𣁳
 𣁳仔
 𣁳仔車
-𣍐
-𣍐使
-𣍐使得
-𣍐合
-𣍐和
-𣍐堪得
-𣍐得過
-𣍐按算
-𣍐收山
-𣍐曉衰
-𣍐用得
-𣍐直
-𣍐磕得
-𣍐見笑
-𣍐記得
-𣍐講得
-𣍐赴
-𣍐赴市
-𣍐輸
-𣍐輸講
-𣍐食𣍐睏
 𣛮
 𣛮籃
-𣩈
 𣭱？草
 𣮈
 𣮈松
@@ -201927,27 +199670,13 @@ x-kong tī-liâu
 𣻸塌塌
 𣻸捋捋
 𣻸肭肭
-𤁢
 𤆬
-𤆬新娘
 𤆬路
 𤆬路雞
 𤆬領
 𤆬頭
 𤆬頭的
 𤉙
-𤏸
-𤏸火
-𤖯
-𤞚
-𤞚人
-𤞚儂
-𤞚狗
-𤞚狗湧
-𤞚狗病
-𤞚的
-𤞚話
-𤞚貪
 𤲍
 𤲍燒
 𤶃
@@ -201958,11 +199687,6 @@ x-kong tī-liâu
 𤺪雨
 𤺪頭
 𤺪𤺪
-𤿎
-𤿎叉
-𤿎巡
-𤿎痕
-𤿎開
 𥍉
 𥍉目
 𥍉𥍉看
@@ -201972,13 +199696,11 @@ x-kong tī-liâu
 𥟇米草
 𥰔
 𥰔仔
-𥱊
 𥴊
 𥴊仔
 𥴊仔店
 𥴊仔賴
 𥴊壺
-𥽕
 𦉎
 𦊓
 𦊓仔
@@ -201990,12 +199712,7 @@ x-kong tī-liâu
 𧌄蜅蠐
 𧒄仔
 𧒄仔鮭
-𧜞
-𧜞被仔
 𧮙
-𧺤
-𧺤毛
-𧺤𧺤
 𧿬
 𧿬踏
 𧿳
@@ -202010,7 +199727,6 @@ x-kong tī-liâu
 𨑨迌人
 𨑨迌仙
 𨑨迌伴
-𨑨迌儂
 𨑨迌印
 𨑨迌印仔
 𨑨迌囡仔
@@ -202023,13 +199739,11 @@ x-kong tī-liâu
 𨑨迌迌
 𨑨迌間
 𨑨𨑨
-𩏠痟
 𩑾
 𩚨
 𩚨嗲嗲
 𩛩
 𩛩肥
-𩟗
 𩵱
 𩵱仔
 𩵱仔魚
@@ -202070,14 +199784,12 @@ x-kong tī-liâu
 𫞼
 𫞼諍王
 𫟂
-𫟊
 𬦰
 𬦰山
 𬦰崎
 𬦰懸𬦰低
 𬦰樓梯
 𬦰起跤
-𬦰高𬦰下
 𰣻
 ？壁蓮
 ？柳
