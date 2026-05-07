@@ -16,7 +16,8 @@ import { resolve } from "node:path";
 
 function cleanTitle(title: string) {
   return title
-    .replaceAll(/\([泉漳同白文]\)/gv, "")
+    .replaceAll(/\*\*/gv, "")
+    .replaceAll(/\(([浦泉漳同白文安]|XX)?\)/gv, "")
     .replaceAll(/^(:|##|【俗】)/gv, "");
 }
 
@@ -71,11 +72,28 @@ ORDER BY title
       pn.startsWith("*") ||
       pn.startsWith("[") ||
       pn.startsWith('"') ||
-      /\.|,|\?/.test(title) ||
-      /^[0-9]/v.test(pn)
+      /\.|,|\?/.test(pn) ||
+      /^[0-9]/v.test(pn) ||
+      /^\p{Script=Han}/v.test(pn)
     ) {
       continue;
     }
+    // Special case: if the title has full width parens and the pn has half
+    // width parens, the contents of the parens correspond with each other.
+    // For example, 富貴（南河） -> Hù-kuì(Lâm-hô)
+    // This is different from the paren mess with Maryknoll
+    if (/（.*）/.test(title) && /\(.*\)/.test(pn)) {
+      words.push({
+        title: cleanTitle(title.replaceAll(/（.*）/g, "")),
+        pn: cleanPn(pn.replaceAll(/\(.*\)/g, "")),
+      });
+      words.push({
+        title: cleanTitle(title.match(/（(.*)）/)![1]),
+        pn: cleanPn(pn.match(/\((.*)\)/)![1]),
+      });
+      continue;
+    }
+
     words.push({
       title: cleanTitle(title),
       pn: cleanPn(pn),
@@ -105,6 +123,7 @@ async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
     process.exit(1);
   }
   for (const { title, pn } of rawWords) {
+    if (title.startsWith("-")) continue;
     let [nPn, nTitle] =
       type === "kip"
         ? await (ipc ? toKIPBulk : toKIPBulkNative)([pn, title])

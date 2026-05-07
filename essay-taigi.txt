@@ -30,6 +30,8 @@
 --tsi̍t-kuá
 --ueh
 --ê
+-pháng
+-á
 A-bí-lī-ka
 A-bīng
 A-hui-lī-ka
@@ -667,7 +669,7 @@ Hù-guân
 Hù-guân-khe
 Hù-jîn-tāi-ha̍k
 Hù-kong
-Hù-kuì(Lâm-hô)
+Hù-kuì
 Hù-kuì-kak
 Hù-lí
 Hù-lí-hiong
@@ -700,7 +702,7 @@ Hōng-suann
 Hōng-suann Kok-tiong
 Hōng-suann-khe
 Hōng-suann-khu
-Hōng-suann-sai-tsām(Tshī-gī-huē)
+Hōng-suann-sai-tsām
 Hōng-thian
 Hōng-thian-kiong
 Hōo
@@ -1074,6 +1076,7 @@ Kim-lun
 Kim-lîng-hiong
 Kim-lūn
 Kim-mn̂g-kuān
+Kim-má Pin-kuán Tong-tāi Bí-su̍t-kuán
 Kim-pau-lí
 Kim-san-khu
 Kim-sing
@@ -1468,6 +1471,7 @@ Lâm-huà-khu
 Lâm-huê-kui-suànn
 Lâm-huê-thih-lōo
 Lâm-hái
+Lâm-hô
 Lâm-iâu-kiong
 Lâm-iûnn
 Lâm-iûnn Kûn-tóo
@@ -2307,7 +2311,7 @@ Siū-hong-khe
 Siū-lān-ji̍t
 Siū-san
 Siū-suann
-Siū-suann Kong-hn̂g(Kim-má Pin-kuán Tong-tāi Bí-su̍t-kuán)
+Siū-suann Kong-hn̂g
 Si̍k-kho
 Si̍k-tsí
 Si̍k-tsí-khu
@@ -2446,8 +2450,8 @@ Sìng-ka-huē
 Sìng-ki Tsú-ji̍t
 Sìng-king
 Sìng-king tsù-kái
-Sìng-kong Pēnn-īnn(Tō-bîng Tiong-ha̍k)
-Sìng-kong Pīnn-īnn(Tō-bîng Tiong-ha̍k)
+Sìng-kong Pēnn-īnn
+Sìng-kong Pīnn-īnn
 Sìng-kong-huē
 Sìng-kong-huē kàu-tôo
 Sìng-kàu
@@ -3389,6 +3393,7 @@ Tāi-siat-suann
 Tāi-suat
 Tāi-sú
 Tāi-sūn Bîn-tso̍k
+Tāi-sūn Tiánn-san
 Tāi-tang
 Tāi-thian-hú
 Tāi-ti̍t
@@ -3422,6 +3427,7 @@ Tīng
 Tīng-kong-biō
 Tīng-kong-hu̍t-biō
 Tīnn
+Tō-bîng Tiong-ha̍k
 Tō-ka
 Tō-kàu
 Tōng-bu̍t-hn̂g
@@ -3431,7 +3437,7 @@ T字部位
 U-lai-khu
 Uan-lí-ke
 Uan-lí-kue
-Uan-á-lāi(Tāi-sūn Tiánn-san)
+Uan-á-lāi
 Uann-hái
 Ua̍t-bú-tō
 Ua̍t-lâm
@@ -10589,7 +10595,6 @@ giâ tshia-lián
 giâ tāng-kê
 giâ(gô)
 giâ(thai)
-giâ(安)
 giâ--khí-lâi
 giâ-ang-kê
 giâ-bah
@@ -22104,7 +22109,6 @@ hún-tia̍p-lân
 hún-tiâu
 hún-tiû
 hún-tn̂g
-hún-tn̂g(á)
 hún-tn̂g-á
 hún-tshinn
 hún-tshit-á
@@ -24324,7 +24328,6 @@ ing-á-phīnn
 ing-á-phīnn(ing-ko-phīnn)
 ing-á-tsháu
 inn
-inn(安)
 inn--á
 inn--ánn
 inn-ainn
@@ -35714,7 +35717,7 @@ khó-siong
 khó-siâu-òo
 khó-suán
 khó-sì
-khó-sòng(pháng)
+khó-sòng
 khó-sī
 khó-tak-tak
 khó-tauh-tauh
@@ -60364,7 +60367,7 @@ phah-phuà-sū
 phah-phuà-uánn-hue
 phah-phài
 phah-phàu
-phah-phái(安)
+phah-phái
 phah-pháinn
 phah-pháinn lâng ê kám-tsîng
 phah-phìnn
@@ -61968,7 +61971,6 @@ phàu-á
 phàu-á-sim
 phàu-á-tsháu
 phái
-phái(安)
 phái-bīn
 phái-bīn-sio-khuànn
 phái-ji̍t
@@ -61978,8 +61980,8 @@ phái-kiat-tiāu
 phái-kuí-tshuā-thâu
 phái-kè
 phái-li̍t
-phái-lái(安)
-phái-phái(安)
+phái-lái
+phái-phái
 phái-pháng
 phái-tshenn
 phái-tshinn
@@ -70953,7 +70955,7 @@ siau-siū
 siau-si̍h
 siau-si̍t-tan
 siau-sng-iâm
-siau-sàn(XX)
+siau-sàn
 siau-sá
 siau-sán
 siau-sán lo̍h-bah
@@ -71486,7 +71488,7 @@ sin-khu(sing-khu)
 sin-khu-pinn
 sin-khui
 sin-khuán
-sin-khè-jī(XX)
+sin-khè-jī
 sin-khîn
 sin-khóo
 sin-khóo pēnn-thiànn
@@ -71634,7 +71636,6 @@ sin-tshíng hōo-tsiàu
 sin-tshíng-jîn
 sin-tshíng-su
 sin-tshù
-sin-tshù(XX)
 sin-tshīng
 sin-tsiann
 sin-tsiann-nî-thâu
@@ -71932,7 +71933,7 @@ sinn-koo
 sinn-kun
 sinn-kuè
 sinn-kńg
-sinn-kǹg(XX)
+sinn-kǹg
 sinn-lia̍p-á
 sinn-liâm
 sinn-liû
@@ -72124,7 +72125,6 @@ sio-khī
 sio-khī-khik
 sio-khǹg
 sio-kik
-sio-kik(XX)
 sio-kim
 sio-king
 sio-kinn
@@ -72153,18 +72153,18 @@ sio-kā-bé
 sio-kāng
 sio-kīng
 sio-kīng kha-tshng
-sio-kīng-kha(XX)
+sio-kīng-kha
 sio-lio
 sio-liàm-tshiú
 sio-liâm
 sio-liâm tì-tuà
 sio-liân
-sio-liân tì-tuà(XX)
+sio-liân tì-tuà
 sio-liân-suà
 sio-lióng
 sio-lua̍h
 sio-luā
-sio-làng-thang(XX)
+sio-làng-thang
 sio-lám
 sio-lí-hē
 sio-lām
@@ -72202,13 +72202,12 @@ sio-phua̍h-king
 sio-phuè
 sio-phuānn
 sio-phuānn kiânn
-sio-phuānn(XX)
 sio-phòng-líng-sok
 sio-phō
 sio-piànn
 sio-piánn
 sio-piánn-lôo
-sio-png-póo(XX)
+sio-png-póo
 sio-pn̄g
 sio-pn̄g hok-khì
 sio-pn̄g(sann-pn̄g)
@@ -72216,9 +72215,9 @@ sio-pn̄g-uá
 sio-po-kua
 sio-poh-tshuì
 sio-pue
-sio-pun(XX)
+sio-pun
 sio-pué-huē
-sio-puê(XX)
+sio-puê
 sio-puē-biū
 sio-pàng-phuānn
 sio-pái-puah
@@ -72368,13 +72367,13 @@ sio-tuì-thâu
 sio-tuì-tso̍h
 sio-tài-tio̍h
 sio-tàu
-sio-tàu-thè(XX)
+sio-tàu-thè
 sio-tán
 sio-tâng
 sio-tè
 sio-tèr
 sio-tìng-thiann
-sio-tìnn(XX)
+sio-tìnn
 sio-tîng sio-tha̍h
 sio-tîng-tha̍h
 sio-tòo
@@ -73596,10 +73595,8 @@ siánn-khuán
 siánn-lâng
 siánn-lōo
 siánn-mih
-siánn-mih(XX)
 siánn-mi̍h
 siánn-mn̍gh
-siánn-mn̍gh(XX)
 siánn-pōo
 siánn-siâu
 siánn-sū
@@ -73620,7 +73617,7 @@ siáu-ha̍k
 siáu-hâi
 siáu-hân
 siáu-hâng
-siáu-hù(XX)
+siáu-hù
 siáu-iau
 siáu-iàn
 siáu-iông-tshun
@@ -73691,14 +73688,13 @@ siáu-phí-ku
 siáu-phí-lián
 siáu-piān
 siáu-piān(sió-piān)
-siáu-pó(XX)
+siáu-pó
 siáu-sik
 siáu-sim
 siáu-sing
 siáu-siáu
 siáu-siáu la̍k-la̍k
 siáu-su
-siáu-su(XX)
 siáu-suat
 siáu-suat-ka
 siáu-sun
@@ -73719,7 +73715,7 @@ siáu-sú-á
 siáu-sū
 siáu-tang-tang
 siáu-tham
-siáu-thiâng(XX)
+siáu-thiâng
 siáu-thiú
 siáu-thiú-á
 siáu-thiúnn-á
@@ -73740,7 +73736,6 @@ siáu-tsing
 siáu-tsiok
 siáu-tsiok-tsú
 siáu-tsiòng
-siáu-tsiòng(XX)
 siáu-tsok
 siáu-tsut-á
 siáu-tsâi tāi-iōng
@@ -73978,7 +73973,6 @@ sió-buē
 sió-bé
 sió-bîn
 sió-bē
-sió-bē(XX)
 sió-bē-kè
 sió-bē-tiàm
 sió-bēr
@@ -74168,7 +74162,7 @@ sió-thuí
 sió-thê-khîm
 sió-thîng
 sió-tik-pán
-sió-ting-kho(XX)
+sió-ting-kho
 sió-tián
 sió-tiâu
 sió-tiû
@@ -74185,7 +74179,6 @@ sió-tshiat-tshiú
 sió-tshinn
 sió-tshiùnn
 sió-tshue
-sió-tshue(XX)
 sió-tshut
 sió-tshut-hì
 sió-tshut-thâu
@@ -74196,7 +74189,7 @@ sió-tshá
 sió-tshái
 sió-tshìng
 sió-tshú-bé-hông
-sió-tshú-bé-n̂g(XX)
+sió-tshú-bé-n̂g
 sió-tsiat
 sió-tsiat-bo̍k
 sió-tsia̍h
@@ -74212,7 +74205,7 @@ sió-tsoo-hōo
 sió-tsoo-kok
 sió-tsoo-kuân
 sió-tsu-hôo
-sió-tsu-ê(XX)
+sió-tsu-ê
 sió-tsuí
 sió-tsuē
 sió-tsâi
@@ -75337,7 +75330,7 @@ si̍p-bu̍t
 si̍p-bān-ik-thóo
 si̍p-gím
 si̍p-gím-hé-ko
-si̍p-gím-hî-kinn-ue(XX)
+si̍p-gím-hî-kinn-ue
 si̍p-gím-thng
 si̍p-gím-tshì-sim
 si̍p-gē
@@ -78982,7 +78975,7 @@ sìn-tsuá(phe-tsuá)
 sìn-táu
 sìn-tâng
 sìn-tôo
-sìn-tē(XX)
+sìn-tē
 sìn-tǹg
 sìng
 sìng hîng-uî
@@ -79781,7 +79774,6 @@ sîn-tôo
 sîn-tō
 sîn-ui
 sîn-uē
-sîn-uē(XX)
 sîn-uī
 sîn-á
 sîn-âng-á
@@ -80709,7 +80701,7 @@ sīn-hu
 sīn-khang
 sīn-king
 sīn-lâng
-sīn-lâu(XX)
+sīn-lâu
 sīn-lông
 sīn-sue
 sīn-suà
@@ -86773,10 +86765,10 @@ thī-ke
 thī-kue
 thī-kue-bé
 thī-lā-mī-sú
-thīm(安)
+thīm
 thīm-līm
 thīm-thīm
-thīm-á-tsiú(安)
+thīm-á-tsiú
 thīn
 thīn-līn
 thīn-pînn-tāng
@@ -102389,7 +102381,6 @@ tsiáu-á-tánn
 tsiáu-á-tāu
 tsiáu-ú
 tsiâ
-tsiâ(安)
 tsiâm
 tsiâm-bōng-kiànn
 tsiâm-ho̍k
@@ -133021,6 +133012,7 @@ x-kong tī-liâu
 南極
 南樹林
 南沙
+南河
 南洋
 南流
 南海
@@ -134202,7 +134194,7 @@ x-kong tī-liâu
 可蘭經
 可見
 可貴
-可送（麭）
+可送
 可靠
 可麗露
 台
@@ -138667,7 +138659,7 @@ x-kong tī-liâu
 壽域
 壽墳
 壽山
-壽山公園（金馬賓館當代美術館）
+壽山公園
 壽數
 壽星
 壽板
@@ -139796,6 +139788,7 @@ x-kong tī-liâu
 大面神
 大項
 大順民族
+大順鼎山
 大頭
 大頭su̍t
 大頭兄
@@ -142834,7 +142827,6 @@ x-kong tī-liâu
 富貴花
 富貴角
 富貴豆
-富貴（南河）
 富足
 富里
 富里鄉
@@ -163809,7 +163801,7 @@ x-kong tī-liâu
 灘
 灘水
 灣
-灣仔內（大順鼎山）
+灣仔內
 灣澳
 灣邊
 灣里街
@@ -174281,7 +174273,6 @@ x-kong tī-liâu
 粉肝
 粉腸
 粉腸仔
-粉腸（仔）
 粉膏
 粉蕉
 粉藍
@@ -177594,7 +177585,7 @@ x-kong tī-liâu
 聖公
 聖典
 聖冊
-聖功醫院（道明中學）
+聖功醫院
 聖卦
 聖君
 聖君賢相
@@ -189980,6 +189971,7 @@ x-kong tī-liâu
 道心
 道教
 道斗
+道明中學
 道書
 道爺
 道理
@@ -191372,6 +191364,7 @@ x-kong tī-liâu
 金額
 金風
 金香燭
+金馬賓館當代美術館
 金髻
 金魚
 金魚sau
@@ -198208,7 +198201,7 @@ x-kong tī-liâu
 鳳山區
 鳳山國中
 鳳山溪
-鳳山西站（市議會）
+鳳山西站
 鳳書
 鳳林
 鳳林鎮
