@@ -1,13 +1,13 @@
 # Rime dictionary
 # encoding: utf-8
 #
-# taigi-kip.syllables
+# yataigi-kip.syllables
 #
 # All possible syllables. I'm not sure RIME can do Emacs IME-style direct
 # replacements for the actual input itself.
 
 ---
-name: taigi-kip.syllables
+name: yataigi-kip.syllables
 version: "2025-03-08"
 sort: by_weight
 ...

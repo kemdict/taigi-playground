@@ -1,3 +1,11 @@
+# rime-yataigi
+
+Yet another Taigi schema for RIME.
+
+Old readme below.
+
+---
+
 # RIME schema for Taigi
 
 Because Ithuan shut down its RIME-derived input method for some reason.

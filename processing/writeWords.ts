@@ -1,4 +1,4 @@
-import { toKIP, toKIPBulk, toPOJ, toPOJBulk } from "./pojtl";
+import { toKIP, toKIPBulk, toPOJ, toPOJBulk } from "./pojtl.ts";
 import { z } from "zod";
 import { Database } from "bun:sqlite";
 import { writeFileSync } from "node:fs";
@@ -92,12 +92,12 @@ async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
 # Rime dictionary
 # encoding: utf-8
 #
-# taigi-${type}.words
+# yataigi-${type}.words
 #
 # Words from dictionaries.
 
 ---
-name: taigi-${type}.words
+name: yataigi-${type}.words
 version: "2025-05-09"
 sort: by_weight
 ...
@@ -110,4 +110,4 @@ ${lines.sort().join("\n")}
   writeFileSync(essayPath, [...essayLines].sort().join("\n"));
 }
 
-writeDict("../taigi-kip.words.dict.yaml", "../essay-taigi.txt", "kip");
+writeDict("../yataigi-kip.words.dict.yaml", "../essay-taigi.txt", "kip");

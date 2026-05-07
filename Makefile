@@ -5,5 +5,5 @@ install:
 syllables:
 	cd processing && deno run -A writeSyllables.ts
 
-taigi-kip.words.dict.yaml:
-	cd processing && deno run -A writeWords.ts
+words:
+	cd processing && bun writeWords.ts

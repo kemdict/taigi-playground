@@ -20,13 +20,13 @@ function writeDict(
 # Rime dictionary
 # encoding: utf-8
 #
-# taigi-${type}.syllables
+# yataigi-${type}.syllables
 #
 # All possible syllables. I'm not sure RIME can do Emacs IME-style direct
 # replacements for the actual input itself.
 
 ---
-name: taigi-${type}.syllables
+name: yataigi-${type}.syllables
 version: "2025-03-08"
 sort: by_weight
 ...
@@ -39,5 +39,5 @@ ${[...data]
   );
 }
 
-writeDict("../taigi-kip.syllables.dict.yaml", "kip", inputToKIP);
-writeDict("../taigi-poj.syllables.dict.yaml", "poj", inputToPOJ);
+writeDict("../yataigi-kip.syllables.dict.yaml", "kip", inputToKIP);
+writeDict("../yataigi-poj.syllables.dict.yaml", "poj", inputToPOJ);
