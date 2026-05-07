@@ -18,7 +18,7 @@ function cleanTitle(title: string) {
   return title
     .replaceAll(/\*\*/gv, "")
     .replaceAll(/\(\*[浦泉漳同白文安]?\)/gv, "")
-    .replaceAll(/\(漳[，,]XX)\)/gv, "")
+    .replaceAll(/\(漳[，,]XX\)/gv, "")
     .replaceAll(/^(:|##|【俗】)/gv, "");
 }
 
