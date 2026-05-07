@@ -69,16 +69,16 @@ async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
   const titles = new Set<string>();
   const pns = new Set<string>();
   console.log(`Converting raw words (total ${rawWords.length})...`);
-  const newlines: string[] = []
+  const newlines: string[] = [];
   for (const { title, pn } of rawWords) {
     if (title.includes("\n") || pn.includes("\n")) {
-      newlines.push([title, pn])
+      newlines.push([title, pn]);
     }
   }
   if (newlines.length > 0) {
-    console.log("Some entries have newlines! This should not be the case")
-    console.log("Entries with newlines:", newlines)
-    process.exit(1)
+    console.log("Some entries have newlines! This should not be the case");
+    console.log("Entries with newlines:", newlines);
+    process.exit(1);
   }
   for (const { title, pn } of rawWords) {
     let [nPn, nTitle] =
