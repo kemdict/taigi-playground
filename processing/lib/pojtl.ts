@@ -5,9 +5,14 @@
 let server = "https://pojtl.kemdict.com";
 await fetch("http://127.0.0.1:8000")
   .then(() => {
+    console.log("pojtl-api server found at 127.0.0.1:8000, using it");
     server = "http://127.0.0.1:8000";
   })
-  .catch(() => {});
+  .catch(() => {
+    console.log(
+      "pojtl-api server not found at 127.0.0.1:8000, using pojtl.kemdict.com instead (likely slower)",
+    );
+  });
 
 export async function toKIP(text: string) {
   const response = await fetch(`${server}/toTL`, {
