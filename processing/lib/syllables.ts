@@ -52,7 +52,9 @@ export const toInputPOJ = new Map<string, string>();
 const pojInputForms = syllables.poj
   .flatMap(allTones)
   .map((s) => s.replaceAll("ⁿ", "nn").replaceAll("o͘", "oo"));
+console.log("Bulk converting input POJ syllables to POJ...");
 const pojInputToPojOutput = await toPOJBulk(pojInputForms);
+console.log("Bulk converting input POJ syllables to KIP...");
 const pojInputToKipOutput = await toKIPBulk(pojInputForms);
 for (let i = 0; i < pojInputForms.length; i++) {
   const inputForm = pojInputForms[i];
@@ -72,7 +74,9 @@ for (let i = 0; i < pojInputForms.length; i++) {
 }
 
 const kipInputForms = syllables.kip.flatMap(allTones);
+console.log("Bulk converting input KIP syllables to POJ...");
 const kipInputToPojOutput = await toPOJBulk(kipInputForms);
+console.log("Bulk converting input KIP syllables to KIP...");
 const kipInputToKipOutput = await toKIPBulk(kipInputForms);
 for (let i = 0; i < kipInputForms.length; i++) {
   const inputForm = kipInputForms[i];

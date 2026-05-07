@@ -14,6 +14,7 @@ function writeDict(
   type: "kip" | "poj",
   data: Map<string, string>,
 ) {
+  console.log(`Writing ${type} syllables dict to ${path}...`);
   writeFileSync(
     path,
     `
