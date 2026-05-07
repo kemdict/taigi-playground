@@ -94,6 +94,11 @@ ORDER BY title
       continue;
     }
 
+    // Just get rid of all the other parens. This is better than giving up Maryknoll...
+    if (/\(|\)|（|）/.test(title) || /\(|\)|（|）/.test(pn)) {
+      continue;
+    }
+
     words.push({
       title: cleanTitle(title),
       pn: cleanPn(pn),
