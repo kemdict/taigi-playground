@@ -3,7 +3,7 @@
 //
 // Using this file: import the inputToKIP, inputToPOJ, toInputKIP, or toInputPOJ maps.
 
-import { toKIP, toPOJ, toKIPBulk, toPOJBulk } from "./pojtl.ts";
+import { toKIP, toPOJ, toKIPBulk, toPOJBulk } from "./pojtl-native.ts";
 import syllables from "./all-syllables.yml";
 
 /**

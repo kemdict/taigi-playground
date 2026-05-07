@@ -1,4 +1,4 @@
-import { toKIP, toKIPBulk, toPOJ, toPOJBulk } from "./lib/pojtl.ts";
+import { toKIP, toKIPBulk, toPOJ, toPOJBulk } from "./lib/pojtl-native.ts";
 import { z } from "zod";
 import { Database } from "bun:sqlite";
 import { writeFileSync, existsSync } from "node:fs";
