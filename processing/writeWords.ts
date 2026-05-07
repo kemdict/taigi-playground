@@ -53,6 +53,7 @@ LEFT JOIN aliases ON heteronyms.id = aliases.het_id
 WHERE lang = 'nan_TW'
   AND pn != title
   AND aliases.exact = 1
+  AND "from" != 'chhoetaigi_itaigi'
 ORDER BY title
 `,
       )
