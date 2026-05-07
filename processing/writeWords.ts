@@ -7,19 +7,12 @@ import {
 const native = process.env["NATIVE"];
 console.log(`Using native pojtl: ${!!native}`);
 
+import { pnToInputForm } from "./lib/pnToInputForm.ts";
+
 import { z } from "zod";
 import { Database } from "bun:sqlite";
 import { writeFileSync, existsSync } from "node:fs";
 import { resolve } from "node:path";
-
-/**
- * Normalize `pn` so that it's searchable with an ASCII keyboard.
- */
-function pnToImpreciseInputForm(pn: string) {
-  let ret = pn.replaceAll("ⁿ", "nn").replaceAll("-", " ").normalize("NFKD");
-  ret = [...ret].filter((c) => c.charCodeAt(0) < 128).join("");
-  return ret;
-}
 
 function getWords(): Array<{ title: string; pn: string }> {
   const kemdictDir = "../../kemdict/";
@@ -93,7 +86,7 @@ async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
       type === "kip"
         ? await (native ? toKIPBulkNative : toKIPBulk)([pn, title])
         : await (native ? toPOJBulkNative : toPOJBulk)([pn, title]);
-    const inputForm = pnToImpreciseInputForm(nPn);
+    const inputForm = pnToInputForm(nPn);
     if (!(titles.has(nTitle) && pns.has(nPn))) {
       titles.add(nTitle);
       pns.add(nPn);
