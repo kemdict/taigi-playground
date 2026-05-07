@@ -24,6 +24,7 @@ export function pnToInputForm(pn: string) {
     // ChhoeTaigi database's input form uses dashes.
     // In this case (for RIME) I think we need spaces.
     .replaceAll(/ +/g, " ")
+    .trim()
     .normalize("NFKD")) {
     if (char in tones) {
       // We have seen a tone character. Log it and continue

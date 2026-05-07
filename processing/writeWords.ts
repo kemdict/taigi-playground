@@ -14,6 +14,14 @@ import { Database } from "bun:sqlite";
 import { writeFileSync, existsSync } from "node:fs";
 import { resolve } from "node:path";
 
+function cleanTitle(title: string) {
+  return title.replaceAll(/\([泉漳同]\)/gv, "").replaceAll(/^(:|##)/gv, "");
+}
+
+function cleanPn(pn: string) {
+  return cleanTitle(pn).toLowerCase();
+}
+
 function getWords(): Array<{ title: string; pn: string }> {
   const kemdictDir = "../../kemdict/";
   const kemdictDb = kemdictDir + "dicts/entries.db";
@@ -34,7 +42,7 @@ function getWords(): Array<{ title: string; pn: string }> {
     }),
   );
   console.log("Retrieving words...");
-  const words = wordsSchema.parse(
+  const rawWords = wordsSchema.parse(
     db
       .prepare(
         `
@@ -48,18 +56,26 @@ ORDER BY title
       )
       .all(),
   );
-  return words
-    .filter(
-      ({ title, pn }) =>
-        !title.startsWith("(") &&
-        !title.includes("。") &&
-        !pn.startsWith("*") &&
-        !pn.startsWith("["),
-    )
-    .map(({ title, pn }) => ({
-      title: title.replaceAll("(泉)", ""),
-      pn: pn.replaceAll("(泉)", ""),
-    }));
+  const words: typeof rawWords = [];
+
+  for (const { title, pn } of rawWords) {
+    if (
+      title.startsWith("(") ||
+      title.includes("。") ||
+      title.startsWith("...") ||
+      pn.startsWith("*") ||
+      pn.startsWith("[") ||
+      /^[0-9]/gv.test(pn)
+    ) {
+      continue;
+    }
+    words.push({
+      title: cleanTitle(title),
+      pn: cleanPn(pn),
+    });
+  }
+
+  return words;
 }
 
 async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
@@ -122,7 +138,13 @@ version: "2025-05-09"
 sort: by_weight
 ...
 
-${lines.sort().join("\n")}
+${lines
+  .sort((a, b) => {
+    // sort by pn
+    const re = /[^\t]*\t/;
+    return a.replace(re, "") < b.replace(re, "") ? -1 : 1;
+  })
+  .join("\n")}
 
 `.trimStart(),
   );
