@@ -10,7 +10,7 @@ import { pnToInputForm } from "./lib/pnToInputForm.ts";
 
 import { z } from "zod";
 import { Database } from "bun:sqlite";
-import { writeFileSync, existsSync, createWriteStream, rmSync } from "node:fs";
+import { writeFileSync, existsSync } from "node:fs";
 import { resolve } from "node:path";
 
 function cleanTitle(title: string) {
@@ -111,21 +111,6 @@ ORDER BY title
   return words;
 }
 
-async function writeWordList(path: string) {
-  const rawWords = getWords();
-  if (existsSync(path)) rmSync(path);
-  const stream = createWriteStream(path);
-  console.log("Writing word list...");
-  const words = new Set<string>();
-  for (const { title, pn } of rawWords) {
-    words.add(title);
-    words.add(pn);
-  }
-  for (const word of words) {
-    stream.write(word + "\n");
-  }
-}
-
 async function writeDict(
   path: string,
   essayPath: string,
@@ -220,20 +205,17 @@ async function main() {
     },
   });
   if (parsedArgs.values.help) {
-    console.log(`writeWords.ts --mode [ipc|wordlist]
+    console.log(`writeWords.ts [--mode idc]
 
 Write out words from Kemdict for the RIME dict.
 
 Default is to use kesi.ts to convert words to KIP or POJ.
-In "ipc" mode, the pojtl service (wrapping the original kesi) is used instead.
-In "wordlist" mode, the list of unconverted words is written out instead.`);
+In "ipc" mode, the pojtl service (wrapping the original kesi) is used instead.`);
     process.exit(0);
   }
   const mode = parsedArgs.values.mode;
   console.log(`Using pojtl-api: ${mode === "ipc"}`);
-  if (mode === "wordlist") {
-    writeWordList("../allwords.txt");
-  } else if (mode === "ipc") {
+  if (mode === "ipc") {
     writeDict(
       "../yataigi-kip-ipc.words.dict.yaml",
       "../essay-taigi-ipc.txt",
