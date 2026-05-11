@@ -10,7 +10,7 @@ import { pnToInputForm } from "./lib/pnToInputForm.ts";
 
 import { z } from "zod";
 import { Database } from "bun:sqlite";
-import { writeFileSync, existsSync, createWriteStream } from "node:fs";
+import { writeFileSync, existsSync, createWriteStream, rmSync } from "node:fs";
 import { resolve } from "node:path";
 
 function cleanTitle(title: string) {
@@ -113,11 +113,16 @@ ORDER BY title
 
 async function writeWordList(path: string) {
   const rawWords = getWords();
+  if (existsSync(path)) rmSync(path);
   const stream = createWriteStream(path);
   console.log("Writing word list...");
+  const words = new Set<string>();
   for (const { title, pn } of rawWords) {
-    stream.write(title + "\n");
-    stream.write(pn + "\n");
+    words.add(title);
+    words.add(pn);
+  }
+  for (const word of words) {
+    stream.write(word + "\n");
   }
 }
 
