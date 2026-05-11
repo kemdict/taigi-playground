@@ -114,6 +114,7 @@ ORDER BY title
 async function writeWordList(path: string) {
   const rawWords = getWords();
   const stream = createWriteStream(path);
+  console.log("Writing word list...");
   for (const { title, pn } of rawWords) {
     stream.write(title + "\n");
     stream.write(pn + "\n");
@@ -221,6 +222,7 @@ Write out words from Kemdict for the RIME dict.
 Default is to use kesi.ts to convert words to KIP or POJ.
 In "ipc" mode, the pojtl service (wrapping the original kesi) is used instead.
 In "wordlist" mode, the list of unconverted words is written out instead.`);
+    process.exit(0);
   }
   const mode = parsedArgs.values.mode;
   console.log(`Using pojtl-api: ${mode === "ipc"}`);
