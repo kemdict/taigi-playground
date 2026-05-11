@@ -173,7 +173,7 @@ async function writeDict(
 
 ---
 name: yataigi-${type}.words
-version: "2025-05-09"
+version: "2026-05-12"
 sort: by_weight
 ...
 
