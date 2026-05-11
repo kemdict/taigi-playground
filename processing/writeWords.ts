@@ -4,8 +4,7 @@ import {
   toPOJBulk as toPOJBulkNative,
 } from "./lib/pojtl-native.ts";
 
-const ipc = process.env["IPC"];
-console.log(`Using pojtl-api: ${!!ipc}`);
+import { parseArgs } from "node:util";
 
 import { pnToInputForm } from "./lib/pnToInputForm.ts";
 
@@ -112,7 +111,12 @@ ORDER BY title
   return words;
 }
 
-async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
+async function writeDict(
+  path: string,
+  essayPath: string,
+  type: "kip" | "poj",
+  ipc?: boolean,
+) {
   const rawWords = getWords();
   let lines: string[] = [];
   let essayLines = new Set<string>();
@@ -192,13 +196,38 @@ ${lines
   writeFileSync(essayPath, [...essayLines].sort().join("\n"));
 }
 
-if (ipc) {
-  writeDict(
-    "../yataigi-kip-ipc.words.dict.yaml",
-    "../essay-taigi-ipc.txt",
-    "kip",
-  );
-} else {
-  writeDict("../yataigi-kip.words.dict.yaml", "../essay-taigi.txt", "kip");
+async function main() {
+  const parsedArgs = parseArgs({
+    args: process.argv.slice(2),
+    options: {
+      help: { type: "boolean", short: "h" },
+      mode: { type: "string" },
+    },
+  });
+  if (parsedArgs.values.help) {
+    console.log(`writeWords.ts --mode [ipc|wordlist]
+
+Write out words from Kemdict for the RIME dict.
+
+Default is to use kesi.ts to convert words to KIP or POJ.
+In "ipc" mode, the pojtl service (wrapping the original kesi) is used instead.
+In "wordlist" mode, the list of unconverted words is written out instead.`);
+  }
+  const mode = parsedArgs.values.mode;
+  console.log(`Using pojtl-api: ${mode === "ipc"}`);
+  if (mode === "wordlist") {
+    writeWordList("../allwords.txt");
+  } else if (mode === "ipc") {
+    writeDict(
+      "../yataigi-kip-ipc.words.dict.yaml",
+      "../essay-taigi-ipc.txt",
+      "kip",
+      true,
+    );
+  } else {
+    writeDict("../yataigi-kip.words.dict.yaml", "../essay-taigi.txt", "kip");
+  }
+  // writeDict("../yataigi-poj.words.dict.yaml", "../essay-taigi.txt", "poj");
 }
-// writeDict("../yataigi-poj.words.dict.yaml", "../essay-taigi.txt", "poj");
+
+await main();
