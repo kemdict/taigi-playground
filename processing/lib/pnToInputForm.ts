@@ -1,4 +1,4 @@
-import { si_lomaji } from "../../kesi.ts/src/butkian/kongiong.ts";
+import { si_lomaji } from "@kemdict/kesi";
 
 /** Convert POJ or KIP `pn` into a form able to be typed on the keyboard. */
 export function pnToInputForm(pn: string) {

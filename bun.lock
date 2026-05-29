@@ -4,6 +4,7 @@
   "workspaces": {
     "": {
       "dependencies": {
+        "@kemdict/kesi": "^0.2.0",
         "zod": "^3.24.4",
       },
       "devDependencies": {
@@ -12,6 +13,8 @@
     },
   },
   "packages": {
+    "@kemdict/kesi": ["@kemdict/kesi@0.2.0", "", {}, "sha512-Wnuu+F75bCCVelakfA8yyAznqi2/C6Ev5kvZLsGz/mOFlsT9Re/BEE+SkYYNJT2eLIShvwvceLQDP5/hqKGO8g=="],
+
     "@types/bun": ["@types/bun@1.3.13", "", { "dependencies": { "bun-types": "1.3.13" } }, "sha512-9fqXWk5YIHGGnUau9TEi+qdlTYDAnOj+xLCmSTwXfAIqXr2x4tytJb43E9uCvt09zJURKXwAtkoH4nLQfzeTXw=="],
 
     "@types/node": ["@types/node@25.6.0", "", { "dependencies": { "undici-types": "~7.19.0" } }, "sha512-+qIYRKdNYJwY3vRCZMdJbPLJAtGjQBudzZzdzwQYkEPQd+PJGixUL5QfvCLDaULoLv+RhT3LDkwEfKaAkgSmNQ=="],

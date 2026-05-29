@@ -1,7 +1,7 @@
 // Wrapper for kesi.ts, a port of Ithuan's KeSi python library.
 // The port is experimental.
 
-import { Ku } from "../../kesi.ts/src/index.ts";
+import { Ku } from "@kemdict/kesi";
 
 export async function toKIP(text: string) {
   return new Ku(text).KIP().hanlo;

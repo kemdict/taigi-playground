@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@kemdict/kesi": "^0.2.0",
     "zod": "^3.24.4"
   },
   "devDependencies": {
