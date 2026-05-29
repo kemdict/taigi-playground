@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "@kemdict/kesi": "^0.2.0",
-    "zod": "^3.24.4"
+    "@kemdict/kesi": "^0.3.1",
+    "zod": "^3.24.4",
+    "zx": "^8.8.5"
   },
   "devDependencies": {
-    "@types/bun": "^1.3.13"
+    "@types/bun": "^1.3.14"
   }
 }
