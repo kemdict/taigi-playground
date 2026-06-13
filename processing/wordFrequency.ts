@@ -64,8 +64,11 @@ Options:
           getCount(it, ...directories),
         ),
       );
-      for (const [word, count] of counts) {
-        words.set(word, count + words.getOrInsert(word, 0));
+      let total = 0;
+      for (const [_word, count] of counts) total += count;
+      for (const [word, _count] of counts) {
+        // Use the sum of all variants to associate them together
+        words.set(word, total + words.getOrInsert(word, 0));
       }
     },
   );
