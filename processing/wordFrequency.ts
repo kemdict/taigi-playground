@@ -58,9 +58,21 @@ Options:
   if (someDirDoesNotExist) process.exit(1);
 
   const words = new Map<string, number>();
+  let i = 0;
+  // HACK until I get my act together for this
+  let len = 0;
   await forEachWord(
-    () => {},
+    (length) => {
+      len = length;
+      console.log(`Converting word frequencies (total ${length})...`);
+    },
     async ({ title, pn }) => {
+      i++;
+      if (i % 1000) {
+        console.log(
+          `Checking word frequencies for ${title}/${pn} (${i}/${len})`,
+        );
+      }
       const kip = await toKIP(pn);
       const poj = await toPOJ(pn);
       const kipTitle = await toKIP(title);
