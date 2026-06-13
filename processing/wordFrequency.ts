@@ -5,11 +5,11 @@ import { $ } from "zx";
 import { toKIP, toPOJ } from "./lib/pojtl-native";
 import { forEachWord } from "./lib/words";
 
-async function getCount(needle: string, dir: string) {
+async function getCount(needle: string, ...directories: string[]) {
   const output = (
     await $({
       nothrow: true,
-    })`rg -t txt --count-matches --no-filename ${needle} ${path.resolve(dir)}`
+    })`rg -t txt --count-matches --no-filename ${needle} ${directories.map((dir) => path.resolve(dir))}`
   )
     .text()
     .trim();
@@ -28,23 +28,31 @@ async function main() {
     console.log(`Calculate word frequencies.
 
 Options:
-  --dir <directory>: specify the corpus directory
+  --dir <directories>: specify the corpus directories (separated with comma)
   --help: show help (this message)`);
     process.exit(0);
   }
   if (!parsedArgs.values.dir) {
-    console.log(`Corpus directory needs to be specified via --dir`);
+    console.log(`Corpus directories need to be specified via --dir`);
     process.exit(1);
   }
-  if (!existsSync(parsedArgs.values.dir)) {
-    console.log(`Specified corpus directory does not exist`);
-    process.exit(1);
+  const directories = parsedArgs.values.dir.split(",");
+  let someDirDoesNotExist;
+  for (const dir of directories) {
+    if (!existsSync(dir)) {
+      console.log(`Specified corpus directory ${dir} does not exist`);
+      // show all nonexistant directories, not just the first
+      someDirDoesNotExist = true;
+    }
   }
-  const dir = parsedArgs.values.dir;
+  if (someDirDoesNotExist) process.exit(1);
+
   await forEachWord(
     () => {},
     async ({ title, pn }) => {
-      let count = (await getCount(title, dir)) + (await getCount(pn, dir));
+      let count =
+        (await getCount(title, ...directories)) +
+        (await getCount(pn, ...directories));
       console.log(`${title}\t${count}`);
       console.log(`${pn}\t${count}`);
     },
