@@ -13,7 +13,7 @@ async function getCount(needle: string, ...directories: string[]) {
   const output = (
     await $({
       nothrow: true,
-    })`rg -t txt --count-matches --no-filename ${needle} ${directories.map((dir) => path.resolve(dir))}`
+    })`rg -t txt --count-matches --fixed-strings --no-filename ${needle} ${directories.map((dir) => path.resolve(dir))}`
   )
     .text()
     .trim();
