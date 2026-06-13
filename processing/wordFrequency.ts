@@ -5,6 +5,10 @@ import { $ } from "zx";
 import { toKIP, toPOJ } from "./lib/pojtl-native";
 import { forEachWord } from "./lib/words";
 
+function uniq<T>(arr: Array<T>) {
+  return [...new Set(arr)];
+}
+
 async function getCount(needle: string, ...directories: string[]) {
   const output = (
     await $({
@@ -13,7 +17,7 @@ async function getCount(needle: string, ...directories: string[]) {
   )
     .text()
     .trim();
-  return output ? parseInt(output) : 0;
+  return [needle, output ? parseInt(output) : 0] as [string, number];
 }
 
 async function main() {
@@ -47,16 +51,27 @@ Options:
   }
   if (someDirDoesNotExist) process.exit(1);
 
+  const words = new Map<string, number>();
   await forEachWord(
     () => {},
     async ({ title, pn }) => {
-      let count =
-        (await getCount(title, ...directories)) +
-        (await getCount(pn, ...directories));
-      console.log(`${title}\t${count}`);
-      console.log(`${pn}\t${count}`);
+      const kip = await toKIP(pn);
+      const poj = await toPOJ(pn);
+      const kipTitle = await toKIP(title);
+      const pojTitle = await toPOJ(title);
+      let counts = await Promise.all(
+        uniq([kip, poj, pn, kipTitle, pojTitle, title]).map((it) =>
+          getCount(it, ...directories),
+        ),
+      );
+      for (const [word, count] of counts) {
+        words.set(word, count + words.getOrInsert(word, 0));
+      }
     },
   );
+  for (const [word, count] of words) {
+    console.log(`${word}\t${count}`);
+  }
 }
 
 main();
