@@ -1,5 +1,5 @@
 import { parseArgs } from "node:util";
-import { existsSync } from "node:fs";
+import { existsSync, writeFileSync } from "node:fs";
 import * as path from "node:path";
 import { $ } from "zx";
 import { toKIP, toPOJ } from "./lib/pojtl-native";
@@ -26,6 +26,7 @@ async function main() {
     options: {
       help: { type: "boolean", short: "h" },
       dir: { type: "string", short: "d" },
+      out: { type: "string", short: "o" },
     },
   });
   if (parsedArgs.values.help) {
@@ -33,8 +34,13 @@ async function main() {
 
 Options:
   --dir <directories>: specify the corpus directories (separated with comma)
+  --out <file>: write result to this file
   --help: show help (this message)`);
     process.exit(0);
+  }
+  if (!parsedArgs.values.out) {
+    console.log(`Output file needs to be specified via --out`);
+    process.exit(1);
   }
   if (!parsedArgs.values.dir) {
     console.log(`Corpus directories need to be specified via --dir`);
@@ -72,9 +78,10 @@ Options:
       }
     },
   );
-  for (const [word, count] of words) {
-    console.log(`${word}\t${count}`);
-  }
+  writeFileSync(
+    parsedArgs.values.out,
+    [...words].map(([word, count]) => `${word}\t${count}`).join("\n"),
+  );
 }
 
 main();
