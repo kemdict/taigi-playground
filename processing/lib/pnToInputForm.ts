@@ -1,16 +1,23 @@
 import { si_lomaji } from "@kemdict/kesi";
 
+const tones = {
+  "\u0301": "2",
+  "\u0300": "3",
+  "\u0302": "5",
+  "\u030c": "6",
+  "\u0304": "7",
+  "\u030d": "8",
+  "\u0306": "9",
+} as const;
+
+/** Regexp to test if a string is entirely made up of poj/kip. */
+export const allPojKipRegexp = new RegExp(
+  `^[${Object.keys(tones).join("")}ⁿᴺ\\p{Ll}\\p{Lu}\\p{Mn}]+$`,
+  "v",
+);
+
 /** Convert POJ or KIP `pn` into a form able to be typed on the keyboard. */
 export function pnToInputForm(pn: string) {
-  const tones = {
-    "\u0301": "2",
-    "\u0300": "3",
-    "\u0302": "5",
-    "\u030c": "6",
-    "\u0304": "7",
-    "\u030d": "8",
-    "\u0306": "9",
-  } as const;
   let chars: string[] = [];
   let previousChar: string | undefined = undefined;
   let currentTone: // prettier-ignore

@@ -1,7 +1,7 @@
 import { toKIPBulk, toPOJBulk } from "./lib/pojtl-native.ts";
 
 import { forEachWord } from "./lib/words.ts";
-import { pnToInputForm } from "./lib/pnToInputForm.ts";
+import { pnToInputForm, allPojKipRegexp } from "./lib/pnToInputForm.ts";
 
 import { parseArgs } from "node:util";
 import { writeFileSync } from "node:fs";
@@ -18,7 +18,11 @@ async function writeDict(path: string, type: "kip" | "poj") {
       console.log(`Converting raw words (total ${length})...`);
     },
     async ({ pn, title }) => {
-      // FIXME: if title is all TL/POJ, then pn should be identical to it.
+      // if title is all TL/POJ, then pn should be identical to it.
+      // Sometimes this is not the case, so fix it.
+      if (title.match(allPojKipRegexp) && pn !== title) {
+        pn = title;
+      }
       let [nPn, nTitle] =
         type === "kip"
           ? await toKIPBulk([pn, title])
