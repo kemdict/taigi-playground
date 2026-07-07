@@ -1,4 +1,3 @@
-import { toKIP, toKIPBulk, toPOJ, toPOJBulk } from "./lib/pojtl.ts";
 import {
   toKIPBulk as toKIPBulkNative,
   toPOJBulk as toPOJBulkNative,
@@ -11,12 +10,7 @@ import { parseArgs } from "node:util";
 import { writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 
-async function writeDict(
-  path: string,
-  essayPath: string,
-  type: "kip" | "poj",
-  ipc?: boolean,
-) {
+async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
   let i = 0;
   let lines = new Set<string>();
   let essayLines = new Set<string>();
@@ -31,8 +25,8 @@ async function writeDict(
       // FIXME: if title is all TL/POJ, then pn should be identical to it.
       let [nPn, nTitle] =
         type === "kip"
-          ? await (ipc ? toKIPBulk : toKIPBulkNative)([pn, title])
-          : await (ipc ? toPOJBulk : toPOJBulkNative)([pn, title]);
+          ? await toKIPBulkNative([pn, title])
+          : await toPOJBulkNative([pn, title]);
       const inputForm = pnToInputForm(nPn);
       if (!(titles.has(nTitle) && pns.has(nPn))) {
         titles.add(nTitle);
@@ -92,41 +86,20 @@ async function main() {
     args: process.argv.slice(2),
     options: {
       help: { type: "boolean", short: "h" },
-      mode: { type: "string" },
     },
   });
   if (parsedArgs.values.help) {
-    console.log(`writeWords.ts [--mode idc]
+    console.log(`writeWords.ts
 
 Write out words from Kemdict for the RIME dict.
 
-Default is to use kesi.ts to convert words to KIP or POJ.
-In "ipc" mode, the pojtl service (wrapping the original kesi) is used instead.`);
+Uses kesi.ts to convert words to KIP or POJ.`);
     process.exit(0);
   }
-  const mode = parsedArgs.values.mode;
-  console.log(`Using pojtl-api: ${mode === "ipc"}`);
-  if (mode === "ipc") {
-    await Promise.all([
-      writeDict(
-        "../yataigi-kip-ipc.words.dict.yaml",
-        "../essay-taigi-ipc.txt",
-        "kip",
-        true,
-      ),
-      writeDict(
-        "../yataigi-poj-ipc.words.dict.yaml",
-        "../essay-taigi-ipc.txt",
-        "poj",
-        true,
-      ),
-    ]);
-  } else {
-    await Promise.all([
-      writeDict("../yataigi-kip.words.dict.yaml", "../essay-taigi.txt", "kip"),
-      writeDict("../yataigi-poj.words.dict.yaml", "../essay-taigi.txt", "poj"),
-    ]);
-  }
+  await Promise.all([
+    writeDict("../yataigi-kip.words.dict.yaml", "../essay-taigi.txt", "kip"),
+    writeDict("../yataigi-poj.words.dict.yaml", "../essay-taigi.txt", "poj"),
+  ]);
 }
 
 await main();
