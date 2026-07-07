@@ -7,5 +7,5 @@ vocabulary: essay-taigi
 # Like rime-cantonese
 import_tables:
   - yataigi-poj.syllables # all possible syllables
-  # - yataigi-poj.words # words
+  - yataigi-poj.words # words
 ...
