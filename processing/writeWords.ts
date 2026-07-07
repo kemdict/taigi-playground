@@ -1,7 +1,4 @@
-import {
-  toKIPBulk as toKIPBulkNative,
-  toPOJBulk as toPOJBulkNative,
-} from "./lib/pojtl-native.ts";
+import { toKIPBulk, toPOJBulk } from "./lib/pojtl-native.ts";
 
 import { forEachWord } from "./lib/words.ts";
 import { pnToInputForm } from "./lib/pnToInputForm.ts";
@@ -25,8 +22,8 @@ async function writeDict(path: string, type: "kip" | "poj") {
       // FIXME: if title is all TL/POJ, then pn should be identical to it.
       let [nPn, nTitle] =
         type === "kip"
-          ? await toKIPBulkNative([pn, title])
-          : await toPOJBulkNative([pn, title]);
+          ? await toKIPBulk([pn, title])
+          : await toPOJBulk([pn, title]);
       const inputForm = pnToInputForm(nPn);
       if (!(titles.has(nTitle) && pns.has(nPn))) {
         titles.add(nTitle);
