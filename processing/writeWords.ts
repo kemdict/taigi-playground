@@ -65,7 +65,7 @@ async function writeDict(
 
 ---
 name: yataigi-${type}.words
-version: "2026-05-12"
+version: "2026-07-08"
 sort: by_weight
 ...
 
@@ -108,16 +108,26 @@ In "ipc" mode, the pojtl service (wrapping the original kesi) is used instead.`)
   const mode = parsedArgs.values.mode;
   console.log(`Using pojtl-api: ${mode === "ipc"}`);
   if (mode === "ipc") {
-    writeDict(
-      "../yataigi-kip-ipc.words.dict.yaml",
-      "../essay-taigi-ipc.txt",
-      "kip",
-      true,
-    );
+    await Promise.all([
+      writeDict(
+        "../yataigi-kip-ipc.words.dict.yaml",
+        "../essay-taigi-ipc.txt",
+        "kip",
+        true,
+      ),
+      writeDict(
+        "../yataigi-poj-ipc.words.dict.yaml",
+        "../essay-taigi-ipc.txt",
+        "poj",
+        true,
+      ),
+    ]);
   } else {
-    writeDict("../yataigi-kip.words.dict.yaml", "../essay-taigi.txt", "kip");
+    await Promise.all([
+      writeDict("../yataigi-kip.words.dict.yaml", "../essay-taigi.txt", "kip"),
+      writeDict("../yataigi-poj.words.dict.yaml", "../essay-taigi.txt", "poj"),
+    ]);
   }
-  // writeDict("../yataigi-poj.words.dict.yaml", "../essay-taigi.txt", "poj");
 }
 
 await main();

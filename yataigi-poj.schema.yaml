@@ -2,11 +2,11 @@
 # encoding: utf-8
 
 schema:
-  name: TL台語
-  schema_id: taigi-kip
+  name: POJ台語
+  schema_id: taigi-poj
   version: "0.2"
   description: |
-    臺語輸入法（教育部羅馬字）
+    臺語輸入法（教會羅馬字）
   author:
     - Kisaragi Hiu <mail@kisaragi-hiu.com>
 
@@ -46,7 +46,7 @@ engine:
     - uniquifier
 
 translator:
-  dictionary: taigi-kip
+  dictionary: taigi-poj
   enable_user_dict: false # remain false for development, for users true is better
   spelling_hints: 8
   always_show_comments: true
