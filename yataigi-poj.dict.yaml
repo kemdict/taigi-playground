@@ -1,11 +1,11 @@
 ---
-name: taigi-poj
+name: yataigi-poj
 version: "2026-07-08"
 sort: by_weight
 vocabulary: essay-taigi
 # Split main dictionary into many parts
 # Like rime-cantonese
 import_tables:
-  - taigi-poj.syllables # all possible syllables
-  # - taigi-poj.words # words
+  - yataigi-poj.syllables # all possible syllables
+  # - yataigi-poj.words # words
 ...
