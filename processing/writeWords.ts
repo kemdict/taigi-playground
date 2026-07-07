@@ -10,7 +10,7 @@ import { parseArgs } from "node:util";
 import { writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 
-async function writeDict(path: string, essayPath: string, type: "kip" | "poj") {
+async function writeDict(path: string, type: "kip" | "poj") {
   let i = 0;
   let lines = new Set<string>();
   let essayLines = new Set<string>();
@@ -97,8 +97,8 @@ Uses kesi.ts to convert words to KIP or POJ.`);
     process.exit(0);
   }
   await Promise.all([
-    writeDict("../yataigi-kip.words.dict.yaml", "../essay-taigi.txt", "kip"),
-    writeDict("../yataigi-poj.words.dict.yaml", "../essay-taigi.txt", "poj"),
+    writeDict("../yataigi-kip.words.dict.yaml", "kip"),
+    writeDict("../yataigi-poj.words.dict.yaml", "poj"),
   ]);
 }
 
