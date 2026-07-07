@@ -18,7 +18,6 @@ async function writeDict(path: string, type: "kip" | "poj") {
       console.log(`Converting raw words (total ${length})...`);
     },
     async ({ pn, title }) => {
-      if (title.startsWith("-")) return;
       // FIXME: if title is all TL/POJ, then pn should be identical to it.
       let [nPn, nTitle] =
         type === "kip"
