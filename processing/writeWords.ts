@@ -18,7 +18,7 @@ async function writeDict(
   ipc?: boolean,
 ) {
   let i = 0;
-  let lines: string[] = [];
+  let lines = new Set<string>();
   let essayLines = new Set<string>();
   const titles = new Set<string>();
   const pns = new Set<string>();
@@ -28,6 +28,7 @@ async function writeDict(
     },
     async ({ pn, title }) => {
       if (title.startsWith("-")) return;
+      // FIXME: if title is all TL/POJ, then pn should be identical to it.
       let [nPn, nTitle] =
         type === "kip"
           ? await (ipc ? toKIPBulk : toKIPBulkNative)([pn, title])
@@ -36,13 +37,13 @@ async function writeDict(
       if (!(titles.has(nTitle) && pns.has(nPn))) {
         titles.add(nTitle);
         pns.add(nPn);
-        lines.push(`${nTitle}\t${inputForm}`);
+        lines.add(`${nTitle}\t${inputForm}`);
         essayLines.add(nTitle);
       }
       if (!(titles.has(nPn) && pns.has(nPn))) {
         titles.add(nPn);
         pns.add(nPn);
-        lines.push(`${nPn}\t${inputForm}`);
+        lines.add(`${nPn}\t${inputForm}`);
         essayLines.add(nPn);
       }
       i++;
@@ -69,7 +70,7 @@ version: "2026-07-08"
 sort: by_weight
 ...
 
-${lines
+${[...lines]
   .sort((a, b) => {
     // sort by pn
     const re = /[^\t]*\t/;
