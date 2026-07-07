@@ -7,3 +7,9 @@ syllables:
 
 words:
 	cd processing && bun writeWords.ts
+
+frequencies:
+	bun processing/wordFrequency.ts \
+		--dir /run/media/kisaragi-hiu/Data/cloud/datasets/taigi \
+		--dir ~/git/tesstrain/data/langdata \
+		--out essay-taigi.txt

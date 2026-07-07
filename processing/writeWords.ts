@@ -84,8 +84,6 @@ ${lines
 
 `.trimStart(),
   );
-
-  writeFileSync(essayPath, [...essayLines].sort().join("\n"));
 }
 
 async function main() {
