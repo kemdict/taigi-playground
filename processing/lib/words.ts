@@ -54,6 +54,7 @@ ORDER BY title
   for (const { title, pn } of rawWords) {
     if (title.trim() === "") continue;
     if (pn.trim() === "") continue;
+    if (title.startsWith("*")) continue;
     if (
       title.startsWith("(") ||
       /。|\.|,/.test(title) ||
