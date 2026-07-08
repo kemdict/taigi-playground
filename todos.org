@@ -1,0 +1,5 @@
+#+title: Todos
+#+created: 2026-07-09T07:23:12+0900
+
+- In POJ mode, typing KIP should get the same output as typing POJ. This means the input forms should be in both KIP and POJ in either format.
+- tsuân-lô KIP/POJ modes or schemas. If it's doable with a mode then do it with a mode.
