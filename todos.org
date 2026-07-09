@@ -3,3 +3,6 @@
 
 - In POJ mode, typing KIP should get the same output as typing POJ. This means the input forms should be in both KIP and POJ in either format.
 - tsuân-lô KIP/POJ modes or schemas. If it's doable with a mode then do it with a mode.
+- poj: type a lone nn to get ⁿ on its own
+- the word frequencies are kind of wrong or missing, what's up with that?
+- support for typing capitalized words and syllables
