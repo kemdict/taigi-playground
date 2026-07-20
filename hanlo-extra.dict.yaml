@@ -1,0 +1,203 @@
+# Extra words compiled in kemdict/taigi-playground.
+---
+name: hanlo-extra
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+所有者	soo2 iu2 tsia2	1
+所有者	Soo2 iu2 tsia2	1
+所有者	SOO2 IU2 TSIA2	1
+sóo-iú-tsiá	soo2 iu2 tsia2	1
+Sóo-iú-tsiá	Soo2 iu2 tsia2	1
+SÓO-IÚ-TSIÁ	SOO2 IU2 TSIA2	1
+枋模	pang1 poo5	1
+枋模	Pang1 poo5	1
+枋模	PANG1 POO5	1
+pang-pôo	pang1 poo5	1
+Pang-pôo	Pang1 poo5	1
+PANG-PÔO	PANG1 POO5	1
+遠端	uan2 tuan1	1
+遠端	Uan2 tuan1	1
+遠端	UAN2 TUAN1	1
+uán-tuan	uan2 tuan1	1
+Uán-tuan	Uan2 tuan1	1
+UÁN-TUAN	UAN2 TUAN1	1
+khóo-pih	khoo2 pih4	1
+Khóo-pih	Khoo2 pih4	1
+KHÓO-PIH	KHOO2 PIH4	1
+資料鋏仔	tsu1 liau7 giap1 a2	1
+資料鋏仔	Tsu1 liau7 giap1 a2	1
+資料鋏仔	TSU1 LIAU7 GIAP1 A2	1
+tsu-liāu-giap-á	tsu1 liau7 giap1 a2	1
+Tsu-liāu-giap-á	Tsu1 liau7 giap1 a2	1
+TSU-LIĀU-GIAP-Á	TSU1 LIAU7 GIAP1 A2	1
+用者	iong7 tsia2	14
+用者	Iong7 tsia2	14
+用者	IONG7 TSIA2	14
+iōng-tsiá	iong7 tsia2	14
+Iōng-tsiá	Iong7 tsia2	14
+IŌNG-TSIÁ	IONG7 TSIA2	14
+終端機	tsiong1 tuan1 ki1	1
+終端機	Tsiong1 tuan1 ki1	1
+終端機	TSIONG1 TUAN1 KI1	1
+tsiong-tuan-ki	tsiong1 tuan1 ki1	1
+Tsiong-tuan-ki	Tsiong1 tuan1 ki1	1
+TSIONG-TUAN-KI	TSIONG1 TUAN1 KI1	1
+開發者	khai1 huat1 tsia2	1
+開發者	Khai1 huat1 tsia2	1
+開發者	KHAI1 HUAT1 TSIA2	1
+khai-huat-tsiá	khai1 huat1 tsia2	1
+Khai-huat-tsiá	Khai1 huat1 tsia2	1
+KHAI-HUAT-TSIÁ	KHAI1 HUAT1 TSIA2	1
+操作系統	tshau1 tsok4 he7 thong2	5
+操作系統	Tshau1 tsok4 he7 thong2	5
+操作系統	TSHAU1 TSOK4 HE7 THONG2	5
+tshau-tsok-hē-thóng	tshau1 tsok4 he7 thong2	5
+Tshau-tsok-hē-thóng	Tshau1 tsok4 he7 thong2	5
+TSHAU-TSOK-HĒ-THÓNG	TSHAU1 TSOK4 HE7 THONG2	5
+快速齒	khuai3 sok1 khi2	1
+快速齒	Khuai3 sok1 khi2	1
+快速齒	KHUAI3 SOK1 KHI2	1
+khuài-sok-khí	khuai3 sok1 khi2	1
+Khuài-sok-khí	Khuai3 sok1 khi2	1
+KHUÀI-SOK-KHÍ	KHUAI3 SOK1 KHI2	1
+應用程式	ing5 iong2 ting5 sik1	1
+應用程式	Ing5 iong2 ting5 sik1	1
+應用程式	ING5 IONG2 TING5 SIK1	1
+îng-ióng-tîng-sik	ing5 iong2 ting5 sik1	1
+Îng-ióng-tîng-sik	Ing5 iong2 ting5 sik1	1
+ÎNG-IÓNG-TÎNG-SIK	ING5 IONG2 TING5 SIK1	1
+隱藏	un2 tsong5	1
+隱藏	Un2 tsong5	1
+隱藏	UN2 TSONG5	1
+ún-tsông	un2 tsong5	1
+Ún-tsông	Un2 tsong5	1
+ÚN-TSÔNG	UN2 TSONG5	1
+字元	ji7 guan5	1
+字元	Ji7 guan5	1
+字元	JI7 GUAN5	1
+jī-guân	ji7 guan5	1
+Jī-guân	Ji7 guan5	1
+JĪ-GUÂN	JI7 GUAN5	1
+管理者	kuan2 li2 tsia2	1
+管理者	Kuan2 li2 tsia2	1
+管理者	KUAN2 LI2 TSIA2	1
+kuán-lí-tsiá	kuan2 li2 tsia2	1
+Kuán-lí-tsiá	Kuan2 li2 tsia2	1
+KUÁN-LÍ-TSIÁ	KUAN2 LI2 TSIA2	1
+伺服器	su3 hok8 khi3	1
+伺服器	Su3 hok8 khi3	1
+伺服器	SU3 HOK8 KHI3	1
+sù-ho̍k-khì	su3 hok8 khi3	1
+Sù-ho̍k-khì	Su3 hok8 khi3	1
+SÙ-HO̍K-KHÌ	SU3 HOK8 KHI3	1
+瀏覽	liu5 lam2	1
+瀏覽	Liu5 lam2	1
+瀏覽	LIU5 LAM2	1
+liû-lám	liu5 lam2	1
+Liû-lám	Liu5 lam2	1
+LIÛ-LÁM	LIU5 LAM2	1
+瀏覽器	liu5 lam2 khi3	1
+瀏覽器	Liu5 lam2 khi3	1
+瀏覽器	LIU5 LAM2 KHI3	1
+liû-lám-khì	liu5 lam2 khi3	1
+Liû-lám-khì	Liu5 lam2 khi3	1
+LIÛ-LÁM-KHÌ	LIU5 LAM2 KHI3	1
+
+九九合數	kiu2 kiu2 hap8 soo3	1
+九九合數	Kiu2 kiu2 hap8 soo3	1
+九九合數	KIU2 KIU2 HAP8 SOO3	1
+kiú-kiú-ha̍p-sòo	kiu2 kiu2 hap8 soo3	1
+Kiú-kiú-ha̍p-sòo	Kiu2 kiu2 hap8 soo3	1
+KIÚ-KIÚ-HA̍P-SÒO	KIU2 KIU2 HAP8 SOO3	1
+九九算	kiu2 kiu2 suan3	1
+九九算	Kiu2 kiu2 suan3	1
+九九算	KIU2 KIU2 SUAN3	1
+kiú-kiú-suàn	kiu2 kiu2 suan3	1
+Kiú-kiú-suàn	Kiu2 kiu2 suan3	1
+KIÚ-KIÚ-SUÀN	KIU2 KIU2 SUAN3	1
+自然數	tsu7 jian5 soo3	1
+自然數	Tsu7 jian5 soo3	1
+自然數	TSU7 JIAN5 SOO3	1
+tsū-jiân-sòo	tsu7 jian5 soo3	1
+Tsū-jiân-sòo	Tsu7 jian5 soo3	1
+TSŪ-JIÂN-SÒO	TSU7 JIAN5 SOO3	1
+整數	tsing2 soo3	1
+整數	Tsing2 soo3	1
+整數	TSING2 SOO3	1
+tsíng-sòo	tsing2 soo3	1
+Tsíng-sòo	Tsing2 soo3	1
+TSÍNG-SÒO	TSING2 SOO3	1
+有比數	iu2 pi2 soo3	1
+有比數	Iu2 pi2 soo3	1
+有比數	IU2 PI2 SOO3	1
+iú-pí-sòo	iu2 pi2 soo3	1
+Iú-pí-sòo	Iu2 pi2 soo3	1
+IÚ-PÍ-SÒO	IU2 PI2 SOO3	1
+無比數	bu5 pi2 soo3	1
+無比數	Bu5 pi2 soo3	1
+無比數	BU5 PI2 SOO3	1
+bû-pí-sòo	bu5 pi2 soo3	1
+Bû-pí-sòo	Bu5 pi2 soo3	1
+BÛ-PÍ-SÒO	BU5 PI2 SOO3	1
+實數	sit8 soo3	1
+實數	Sit8 soo3	1
+實數	SIT8 SOO3	1
+si̍t-sòo	sit8 soo3	1
+Si̍t-sòo	Sit8 soo3	1
+SI̍T-SÒO	SIT8 SOO3	1
+虛數	hi1 soo3	1
+虛數	Hi1 soo3	1
+虛數	HI1 SOO3	1
+hi-sòo	hi1 soo3	1
+Hi-sòo	Hi1 soo3	1
+HI-SÒO	HI1 SOO3	1
+複合數	hok8 hap8 soo3	1
+複合數	Hok8 hap8 soo3	1
+複合數	HOK8 HAP8 SOO3	1
+ho̍k-ha̍p-sòo	hok8 hap8 soo3	1
+Ho̍k-ha̍p-sòo	Hok8 hap8 soo3	1
+HO̍K-HA̍P-SÒO	HOK8 HAP8 SOO3	1
+四元數	si3 guan5 soo3	1
+四元數	Si3 guan5 soo3	1
+四元數	SI3 GUAN5 SOO3	1
+sì-guân-sòo	si3 guan5 soo3	1
+Sì-guân-sòo	Si3 guan5 soo3	1
+SÌ-GUÂN-SÒO	SI3 GUAN5 SOO3	1
+八元數	peh4 guan5 soo3	1
+八元數	Peh4 guan5 soo3	1
+八元數	PEH4 GUAN5 SOO3	1
+peh-guân-sòo	peh4 guan5 soo3	1
+Peh-guân-sòo	Peh4 guan5 soo3	1
+PEH-GUÂN-SÒO	PEH4 GUAN5 SOO3	1
+循環小數	sun5 khuan5 sio2 soo3	1
+循環小數	Sun5 khuan5 sio2 soo3	1
+循環小數	SUN5 KHUAN5 SIO2 SOO3	1
+sûn-khuân sió-sòo	sun5 khuan5 sio2 soo3	1
+Sûn-khuân sió-sòo	Sun5 khuan5 sio2 soo3	1
+SÛN-KHUÂN SIÓ-SÒO	SUN5 KHUAN5 SIO2 SOO3	1
+有限小數	iu2 han7 sio2 soo3	1
+有限小數	Iu2 han7 sio2 soo3	1
+有限小數	IU2 HAN7 SIO2 SOO3	1
+iú-hān sió-sòo	iu2 han7 sio2 soo3	1
+Iú-hān sió-sòo	Iu2 han7 sio2 soo3	1
+IÚ-HĀN SIÓ-SÒO	IU2 HAN7 SIO2 SOO3	1
+稠密性	tiu5 bit8 sing3	1
+稠密性	Tiu5 bit8 sing3	1
+稠密性	TIU5 BIT8 SING3	1
+tiû-bi̍t-sìng	tiu5 bit8 sing3	1
+Tiû-bi̍t-sìng	Tiu5 bit8 sing3	1
+TIÛ-BI̍T-SÌNG	TIU5 BIT8 SING3	1
+離散性	li7 san3 sing3	1
+離散性	Li7 san3 sing3	1
+離散性	LI7 SAN3 SING3	1
+lī-sàn-sìng	li7 san3 sing3	1
+Lī-sàn-sìng	Li7 san3 sing3	1
+LĪ-SÀN-SÌNG	LI7 SAN3 SING3	1
+完全平方數	uan5 tsuan5 ping5 hong1 soo3	1
+完全平方數	Uan5 tsuan5 ping5 hong1 soo3	1
+完全平方數	UAN5 TSUAN5 PING5 HONG1 SOO3	1
+uân-tsuân pîng-hong sòo	uan5 tsuan5 ping5 hong1 soo3	1
+Uân-tsuân pîng-hong sòo	Uan5 tsuan5 ping5 hong1 soo3	1
+UÂN-TSUÂN PÎNG-HONG SÒO	UAN5 TSUAN5 PING5 HONG1 SOO3	1
