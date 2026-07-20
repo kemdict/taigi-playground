@@ -64,11 +64,13 @@ use_preset_vocabulary: false
 
 #+RESULTS:
 
+* My own
+
 #+begin_src words
 所有者	sóo-iú-tsiá	soo2 iu2 tsia2
 枋模	pang-pôo	pang1 poo5
 遠端	uán-tuan	uan2 tuan1
-khóo-pih	khóo-pih	khoo1 pih8
+khóo-pih	khóo-pih	khoo2 pih4
 資料鋏仔	tsu-liāu-giap-á	tsu1 liau7 giap1 a2
 # Same weight as 使用者
 用者	iōng-tsiá	iong7 tsia2	14
