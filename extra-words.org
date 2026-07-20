@@ -7,6 +7,26 @@ This code block will export the words into a usable Rime dict.
 
 Words are in “begin_src words” blocks (source code blocks using “words” as the language). Lines starting with “#” are comments (ignored). Each line is one word entry, separated by tab; the fields are hanlo, tsuanlo, input form, and weight (optional).
 
+todo: maybe we should convert input forms automatically?
+
+#+begin_src elisp
+(defun k/call-process-to-string (command &rest args)
+  "Call COMMAND with ARGS; return stdout.
+
+If COMMAND returns with a non-zero exit code, signal an error."
+  (declare (indent 0))
+  (with-temp-buffer
+    (let ((code (apply #'call-process command nil '(t nil) nil args)))
+      (unless (= 0 code)
+        (error "%s exited with exit code %s" command code)))
+    (string-trim (buffer-string))))
+
+(defun k/pn-to-input-form (pn)
+  "Convert PN to input form (with numbered tones), preserving tones.
+This just shells out to processing/pnToInputForm.ts using Node."
+  (k/call-process-to-string "node" "processing/pnToInputForm.ts" pn))
+#+end_src
+
 #+begin_src elisp
 (require 'org-element)
 (require 's)
