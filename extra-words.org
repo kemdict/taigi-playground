@@ -7,9 +7,11 @@ This code block will export the words into a usable Rime dict.
 
 Words are in “begin_src words” blocks (source code blocks using “words” as the language). Lines starting with “#” are comments (ignored). Each line is one word entry, separated by tab; the fields are hanlo, tsuanlo, input form, and weight (optional).
 
-todo: maybe we should convert input forms automatically?
-
 #+begin_src elisp
+(require 'org-element)
+(require 's)
+(require 'dash)
+
 (defun k/call-process-to-string (command &rest args)
   "Call COMMAND with ARGS; return stdout.
 
@@ -25,12 +27,6 @@ If COMMAND returns with a non-zero exit code, signal an error."
   "Convert PN to input form (with numbered tones), preserving tones.
 This just shells out to processing/pnToInputForm.ts using Node."
   (k/call-process-to-string "node" "processing/pnToInputForm.ts" pn))
-#+end_src
-
-#+begin_src elisp
-(require 'org-element)
-(require 's)
-(require 'dash)
 
 (defun k/write-words (target &optional dict-name dict-description)
   "Write words in this buffer into the path TARGET.
@@ -56,7 +52,8 @@ the resulting Rime dict."
                             (s-split "\n" it t))
            unless (s-starts-with? "#" line)
            do
-           (-let* (((han tl input-form weight) (s-split "\t" line)))
+           (-let* (((han tl weight) (s-split "\t" line))
+                   (input-form (k/pn-to-input-form tl)))
              (dolist (out (list han tl))
                (dolist (func `(downcase ,cap-first upcase))
                  (push (format "%s\t%s\t%s"
@@ -90,24 +87,24 @@ use_preset_vocabulary: false
 * My own
 
 #+begin_src words
-所有者	sóo-iú-tsiá	soo2 iu2 tsia2
-枋模	pang-pôo	pang1 poo5
-遠端	uán-tuan	uan2 tuan1
-khóo-pih	khóo-pih	khoo2 pih4
-資料鋏仔	tsu-liāu-giap-á	tsu1 liau7 giap1 a2
+所有者	sóo-iú-tsiá
+枋模	pang-pôo
+遠端	uán-tuan
+khóo-pih	khóo-pih
+資料鋏仔	tsu-liāu-giap-á
 # Same weight as 使用者
-用者	iōng-tsiá	iong7 tsia2	14
-終端機	tsiong-tuan-ki	tsiong1 tuan1 ki1
-開發者	khai-huat-tsiá	khai1 huat1 tsia2
-操作系統	tshau-tsok-hē-thóng	tshau1 tsok4 he7 thong2	5
-快速齒	khuài-sok-khí	khuai3 sok1 khi2	1
-應用程式	îng-ióng-tîng-sik	ing5 iong2 ting5 sik1
-隱藏	ún-tsông	un2 tsong5
-字元	jī-guân	ji7 guan5
-管理者	kuán-lí-tsiá	kuan2 li2 tsia2
-伺服器	sù-ho̍k-khì	su3 hok8 khi3
-瀏覽	liû-lám	liu5 lam2
-瀏覽器	liû-lám-khì	liu5 lam2 khi3
+用者	iōng-tsiá	14
+終端機	tsiong-tuan-ki
+開發者	khai-huat-tsiá
+操作系統	tshau-tsok-hē-thóng	5
+快速齒	khuài-sok-khí	1
+應用程式	îng-ióng-tîng-sik
+隱藏	ún-tsông
+字元	jī-guân
+管理者	kuán-lí-tsiá
+伺服器	sù-ho̍k-khì
+瀏覽	liû-lám
+瀏覽器	liû-lám-khì
 #+end_src
 
 * Taigi-STEM
@@ -115,8 +112,8 @@ khóo-pih	khóo-pih	khoo2 pih4
 https://hackmd.io/@TaigiSTEM/math/https%3A%2F%2Fhackmd.io%2F%40TaigiSTEM%2Farithmetic
 
 #+begin_src words
-九九合數	kiú-kiú-ha̍p-sòo	kiu2 kiu2 hap8 soo3
-九九算	kiú-kiú-suàn	kiu2 kiu2 suan3
+九九合數	kiú-kiú-ha̍p-sòo
+九九算	kiú-kiú-suàn
 #+end_src
 
 | 台漢   | 台羅          | 華語   | 英語               | 日語   |
@@ -132,15 +129,15 @@ https://hackmd.io/@TaigiSTEM/math/https%3A%2F%2Fhackmd.io%2F%40TaigiSTEM%2Farith
 | 八元數 | peh-guân-sòo | 八元數 | octonion          | 八元数 |
 
 #+begin_src words
-自然數	tsū-jiân-sòo	tsu7 jian5 soo3
-整數	tsíng-sòo	tsing2 soo3
-有比數	iú-pí-sòo	iu2 pi2 soo3
-無比數	bû-pí-sòo	bu5 pi2 soo3
-實數	si̍t-sòo	sit8 soo3
-虛數	hi-sòo	hi1 soo3
-複合數	ho̍k-ha̍p-sòo	hok8 hap8 soo3
-四元數	sì-guân-sòo	si3 guan5 soo3
-八元數	peh-guân-sòo	peh4 guan5 soo3
+自然數	tsū-jiân-sòo
+整數	tsíng-sòo
+有比數	iú-pí-sòo
+無比數	bû-pí-sòo
+實數	si̍t-sòo
+虛數	hi-sòo
+複合數	ho̍k-ha̍p-sòo
+四元數	sì-guân-sòo
+八元數	peh-guân-sòo
 #+end_src
 
 | 台漢       | 台羅                    | 華語       | 英語                | 日語           |
@@ -152,9 +149,9 @@ https://hackmd.io/@TaigiSTEM/math/https%3A%2F%2Fhackmd.io%2F%40TaigiSTEM%2Farith
 | 完全平方數 | uân-tsuân pîng-hong sòo | 完全平方數 | perfect square      | （完全）平方数 |
 
 #+begin_src words
-循環小數	sûn-khuân sió-sòo	sun5 khuan5 sio2 soo3
-有限小數	iú-hān sió-sòo	iu2 han7 sio2 soo3
-稠密性	tiû-bi̍t-sìng	tiu5 bit8 sing3
-離散性	lī-sàn-sìng	li7 san3 sing3
-完全平方數	uân-tsuân pîng-hong sòo	uan5 tsuan5 ping5 hong1 soo3
+循環小數	sûn-khuân sió-sòo
+有限小數	iú-hān sió-sòo
+稠密性	tiû-bi̍t-sìng
+離散性	lī-sàn-sìng
+完全平方數	uân-tsuân pîng-hong sòo
 #+end_src
