@@ -77,7 +77,8 @@ use_preset_vocabulary: false
 ...\n" dict-name)))
         (insert (->> (nreverse out-lines)
                      -uniq
-                     (s-join "\n")))))))
+                     (s-join "\n"))
+                "\n")))))
 
 (k/write-words "hanlo-extra.dict.yaml" "hanlo-extra" "Extra words compiled in kemdict/taigi-playground.")
 #+end_src
@@ -154,4 +155,8 @@ https://hackmd.io/@TaigiSTEM/math/https%3A%2F%2Fhackmd.io%2F%40TaigiSTEM%2Farith
 稠密性	tiû-bi̍t-sìng
 離散性	lī-sàn-sìng
 完全平方數	uân-tsuân pîng-hong sòo
+#+end_src
+
+#+begin_src words
+概數	kài-sòo
 #+end_src
