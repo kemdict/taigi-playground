@@ -1,0 +1,86 @@
+#+title: Extra words
+#+created: 2026-07-21T00:54:00+0900
+
+Words collected from other places.
+
+This code block will export the words into a usable Rime dict.
+
+Words are in “begin_src words” blocks (source code blocks using “words” as the language). Lines starting with “#” are comments (ignored). Each line is one word entry, separated by tab; the fields are hanlo, tsuanlo, input form, and weight (optional).
+
+#+begin_src elisp
+(require 'org-element)
+(require 's)
+(require 'dash)
+
+(defun k/write-words (target &optional dict-name dict-description)
+  "Write words in this buffer into the path TARGET.
+If DICT-NAME is non-nil, write TARGET as a Rime dict named as NAME.
+If DICT-DESCRIPTION is also non-nil, use it as the prelude comment of
+the resulting Rime dict."
+  ;; Each word will get 6 entries:
+  ;; 2 forms (TL or Han characters)
+  ;; times 3 variants (all uppercase, all lowercase, capitalize first)
+  (save-excursion
+    (goto-char (point-min))
+    (let ((out-lines nil))
+      (while (re-search-forward "^#\\+begin_src words$" nil t)
+        (let ((cap-first (lambda (s)
+                           (if (= (length s) 0)
+                               s
+                             (concat (upcase (substring s 0 1))
+                                     (downcase (substring s 1)))))))
+          (cl-loop
+           for line in (--> (org-element-at-point)
+                            (org-element-property :value it)
+                            s-trim
+                            (s-split "\n" it t))
+           unless (s-starts-with? "#" line)
+           do
+           (-let* (((han tl input-form weight) (s-split "\t" line)))
+             (dolist (out (list han tl))
+               (dolist (func `(downcase ,cap-first upcase))
+                 (push (format "%s\t%s\t%s"
+                               (funcall func out)
+                               (funcall func input-form)
+                               (or weight 1))
+                       out-lines)))))))
+      (with-temp-file target
+        (when dict-name
+          (when dict-description
+            (dolist (line (s-split "\n" dict-description))
+              (insert (format "# %s\n" line))))
+          (insert (format "---
+name: %s
+version: \"1.0\"
+sort: by_weight
+use_preset_vocabulary: false
+...\n" dict-name)))
+        (insert (->> (nreverse out-lines)
+                     -uniq
+                     (s-join "\n")))))))
+
+(k/write-words "hanlo-extra.dict.yaml" "hanlo-extra" "Extra words compiled in kemdict/taigi-playground.")
+#+end_src
+
+#+RESULTS:
+
+#+begin_src words
+所有者	sóo-iú-tsiá	soo2 iu2 tsia2
+枋模	pang-pôo	pang1 poo5
+遠端	uán-tuan	uan2 tuan1
+khóo-pih	khóo-pih	khoo1 pih8
+資料鋏仔	tsu-liāu-giap-á	tsu1 liau7 giap1 a2
+# Same weight as 使用者
+用者	iōng-tsiá	iong7 tsia2	14
+終端機	tsiong-tuan-ki	tsiong1 tuan1 ki1
+開發者	khai-huat-tsiá	khai1 huat1 tsia2
+操作系統	tshau-tsok-hē-thóng	tshau1 tsok4 he7 thong2	5
+快速齒	khuài-sok-khí	khuai3 sok1 khi2	1
+應用程式	îng-ióng-tîng-sik	ing5 iong2 ting5 sik1
+隱藏	ún-tsông	un2 tsong5
+字元	jī-guân	ji7 guan5
+管理者	kuán-lí-tsiá	kuan2 li2 tsia2
+伺服器	sù-ho̍k-khì	su3 hok8 khi3
+瀏覽	liû-lám	liu5 lam2
+瀏覽器	liû-lám-khì	liu5 lam2 khi3
+#+end_src
