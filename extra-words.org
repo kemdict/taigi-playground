@@ -56,6 +56,7 @@ If COMMAND returns with a non-zero exit code, signal an error."
 * My own
 
 #+begin_src words
+頁面	ia̍h-bīn
 光碟	kng-tia̍p
 磁碟	tsû-tia̍p
 遠端	uán-tuan
