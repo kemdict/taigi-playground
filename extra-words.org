@@ -3,7 +3,7 @@
 
 Words collected from other places.
 
-This code block will export the words into a usable Rime dict.
+This code block will export the words into a CSV that can be imported into TaigiKeyboard as custom words.
 
 Words are in “begin_src words” blocks (source code blocks using “words” as the language). Lines starting with “#” are comments (ignored). Each line is one word entry, separated by tab; the fields are hanlo, tsuanlo, input form, and weight (optional).
 
@@ -23,64 +23,32 @@ If COMMAND returns with a non-zero exit code, signal an error."
         (error "%s exited with exit code %s" command code)))
     (string-trim (buffer-string))))
 
-(defun k/pn-to-input-form (pn)
-  "Convert PN to input form (with numbered tones), preserving tones.
-This just shells out to processing/pnToInputForm.ts using Node."
-  (k/call-process-to-string "node" "processing/pnToInputForm.ts" pn))
-
-(defun k/write-words (target &optional dict-name dict-description)
-  "Write words in this buffer into the path TARGET.
-If DICT-NAME is non-nil, write TARGET as a Rime dict named as NAME.
-If DICT-DESCRIPTION is also non-nil, use it as the prelude comment of
-the resulting Rime dict."
-  ;; Each word will get 6 entries:
-  ;; 2 forms (TL or Han characters)
-  ;; times 3 variants (all uppercase, all lowercase, capitalize first)
+(defun k/write-words (target)
+  "Write words in this buffer into the path TARGET."
   (save-excursion
     (goto-char (point-min))
     (let ((out-lines nil))
       (while (re-search-forward "^#\\+begin_src words$" nil t)
-        (let ((cap-first (lambda (s)
-                           (if (= (length s) 0)
-                               s
-                             (concat (upcase (substring s 0 1))
-                                     (downcase (substring s 1)))))))
-          (cl-loop
-           for line in (--> (org-element-at-point)
-                            (org-element-property :value it)
-                            s-trim
-                            (s-split "\n" it t))
-           unless (s-starts-with? "#" line)
-           do
-           (-let* (((han tl weight) (s-split "\t" line))
-                   (input-form (k/pn-to-input-form tl)))
-             (dolist (out (list han tl))
-               (dolist (func `(downcase ,cap-first upcase))
-                 (push (format "%s\t%s\t%s"
-                               (funcall func out)
-                               (funcall func input-form)
-                               (or weight 1))
-                       out-lines))))))
+        (cl-loop
+         for line in (--> (org-element-at-point)
+                          (org-element-property :value it)
+                          s-trim
+                          (s-split "\n" it t))
+         unless (s-starts-with? "#" line)
+         do
+         (-let* (((han tl) (s-split "\t" line)))
+           (push (format "%s,%s" tl han)
+                 out-lines)))
         ;; Put an empty line between output lines corresponding to different
         ;; input blocks
         (push "" out-lines))
       (with-temp-file target
-        (when dict-name
-          (when dict-description
-            (dolist (line (s-split "\n" dict-description))
-              (insert (format "# %s\n" line))))
-          (insert (format "---
-name: %s
-version: \"1.0\"
-sort: by_weight
-use_preset_vocabulary: false
-...\n" dict-name)))
         (insert (->> (nreverse out-lines)
                      -uniq
                      (s-join "\n"))
                 "\n")))))
 
-(k/write-words "hanlo-extra.dict.yaml" "hanlo-extra" "Extra words compiled in kemdict/taigi-playground.")
+(k/write-words "taigikeyboard-custom.csv")
 #+end_src
 
 #+RESULTS:
