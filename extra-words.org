@@ -56,13 +56,18 @@ If COMMAND returns with a non-zero exit code, signal an error."
 * My own
 
 #+begin_src words
+光碟	kng-tia̍p
+磁碟	tsû-tia̍p
 遠端	uán-tuan
+重啟動	tîng-khé-tōng
+社群	siā-kûn
 khóo-pih	khóo-pih
 資料鋏仔	tsu-liāu-giap-á
 操作系統	tshau-tsok-hē-thóng	5
 應用程式	ìng-iōng-tîng-sik
 簡略	kán-lio̍k
 儲存	tû-tsûn
+移除	î-tû
 # Same weight as 使用者
 用者	iōng-tsiá	14
 所有者	sóo-iú-tsiá
@@ -70,6 +75,7 @@ khóo-pih	khóo-pih
 索引器	sik-ín-khì
 管理器	kuán-lí-khì
 啟動器	khé-tōng-khì
+停用	thîng-iōng
 #+end_src
 
 * Taigi-STEM
