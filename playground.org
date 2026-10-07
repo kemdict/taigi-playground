@@ -1,2 +1,8 @@
 #+title: Playground
 #+created: 2026-10-07T20:05:18+0900
+
+* 4-char words whose prefix is not in any dictionary
+:PROPERTIES:
+:created:  2026-10-07T20:20:31+0900
+:END:
+For example, 型別轉換 has an entry but not 型別.
