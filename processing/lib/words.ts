@@ -14,7 +14,9 @@ function cleanPn(pn: string) {
   return cleanTitle(pn);
 }
 
-function getTaigiWords(): Array<{ title: string; pn: string }> {
+let _db: Database | undefined;
+export function getDB(): Database {
+  if (_db !== undefined) return _db;
   const kemdictDir = "../../kemdict/";
   const kemdictDb = kemdictDir + "dicts/entries.db";
   if (!existsSync(kemdictDb)) {
@@ -22,11 +24,16 @@ function getTaigiWords(): Array<{ title: string; pn: string }> {
     process.exit(1);
   }
   console.log("Connecting to local Kemdict database...");
-  const db = new Database(kemdictDb, {
+  _db = new Database(kemdictDb, {
     readonly: true,
     create: false,
     strict: true,
   });
+  return _db;
+}
+
+function getTaigiWords(): Array<{ title: string; pn: string }> {
+  const db = getDB();
   const wordsSchema = z.array(
     z.object({
       title: z.string(),
