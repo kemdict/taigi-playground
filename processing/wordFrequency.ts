@@ -3,7 +3,7 @@ import { existsSync, writeFileSync } from "node:fs";
 import * as path from "node:path";
 import { $ } from "zx";
 import { toKIP, toPOJ } from "./lib/pojtl-native";
-import { forEachWord } from "./lib/words";
+import { forEachTaigiWord } from "./lib/words";
 
 function uniq<T>(arr: Array<T>) {
   return [...new Set(arr)];
@@ -61,7 +61,7 @@ Options:
   let i = 0;
   // HACK until I get my act together for this
   let len = 0;
-  await forEachWord(
+  await forEachTaigiWord(
     (length) => {
       len = length;
       console.log(`Converting word frequencies (total ${length})...`);

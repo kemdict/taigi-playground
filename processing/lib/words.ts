@@ -14,7 +14,7 @@ function cleanPn(pn: string) {
   return cleanTitle(pn);
 }
 
-function getWords(): Array<{ title: string; pn: string }> {
+function getTaigiWords(): Array<{ title: string; pn: string }> {
   const kemdictDir = "../../kemdict/";
   const kemdictDb = kemdictDir + "dicts/entries.db";
   if (!existsSync(kemdictDb)) {
@@ -101,11 +101,11 @@ ORDER BY title
   return words;
 }
 
-export async function forEachWord(
+export async function forEachTaigiWord(
   before: (length: number) => void,
   body: (word: { title: string; pn: string }) => Promise<void>,
 ) {
-  const rawWords = getWords();
+  const rawWords = getTaigiWords();
   before(rawWords.length);
   const newlines: [string, string][] = [];
   for (const { title, pn } of rawWords) {

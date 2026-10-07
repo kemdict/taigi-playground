@@ -1,6 +1,6 @@
 import { toKIPBulk, toPOJBulk } from "./lib/pojtl-native.ts";
 
-import { forEachWord } from "./lib/words.ts";
+import { forEachTaigiWord } from "./lib/words.ts";
 import { pnToInputForm, allPojKipRegexp } from "./lib/pnToInputForm.ts";
 
 import { parseArgs } from "node:util";
@@ -13,7 +13,7 @@ async function writeDict(path: string, type: "kip" | "poj") {
   let essayLines = new Set<string>();
   const titles = new Set<string>();
   const pns = new Set<string>();
-  await forEachWord(
+  await forEachTaigiWord(
     (length) => {
       console.log(`Converting raw words (total ${length})...`);
     },
